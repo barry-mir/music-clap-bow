@@ -1,0 +1,12 @@
+# core (all experiments)
+numpy>=1.24
+scipy>=1.10
+soundfile>=0.12
+librosa>=0.10
+torch>=2.1
+transformers>=4.45
+matplotlib>=3.7
+# models (install the ones you run; see README)
+# laion_clap
+# msclap
+# muq

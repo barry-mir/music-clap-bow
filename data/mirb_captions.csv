@@ -1,0 +1,801 @@
+pair_id,clip_id,axis,style,caption_pos,caption_neg,caption_paraphrase,prior_class
+1558,1009674,O,natural,"first the bass comes in, then the vocals","first the vocals comes in, then the bass",the bass starts first and the vocals joins afterward,unknown
+1557,1009674,O,strict,the bass enters before the vocals,the vocals enters before the bass,the bass comes in earlier than the vocals,unknown
+1560,101006,O,natural,"first the acoustic guitar comes in, then the harmonica","first the harmonica comes in, then the acoustic guitar",the acoustic guitar starts first and the harmonica joins afterward,unknown
+1559,101006,O,strict,the acoustic guitar enters before the harmonica,the harmonica enters before the acoustic guitar,the acoustic guitar comes in earlier than the harmonica,unknown
+1562,103089,O,natural,"first the vocals comes in, then the electric guitar","first the electric guitar comes in, then the vocals",the vocals starts first and the electric guitar joins afterward,unknown
+1561,103089,O,strict,the vocals enters before the electric guitar,the electric guitar enters before the vocals,the vocals comes in earlier than the electric guitar,unknown
+1564,1033252,O,natural,"first the acoustic guitar comes in, then the violin","first the violin comes in, then the acoustic guitar",the acoustic guitar starts first and the violin joins afterward,unknown
+1563,1033252,O,strict,the acoustic guitar enters before the violin,the violin enters before the acoustic guitar,the acoustic guitar comes in earlier than the violin,unknown
+1566,1036934,O,natural,"first the electric piano comes in, then the bass","first the bass comes in, then the electric piano",the electric piano starts first and the bass joins afterward,unknown
+1565,1036934,O,strict,the electric piano enters before the bass,the bass enters before the electric piano,the electric piano comes in earlier than the bass,unknown
+1568,103892,O,natural,"first the drums comes in, then the electric guitar","first the electric guitar comes in, then the drums",the drums starts first and the electric guitar joins afterward,unknown
+1567,103892,O,strict,the drums enters before the electric guitar,the electric guitar enters before the drums,the drums comes in earlier than the electric guitar,unknown
+1570,1053845,O,natural,"first the synth comes in, then the violin","first the violin comes in, then the synth",the synth starts first and the violin joins afterward,unknown
+1569,1053845,O,strict,the synth enters before the violin,the violin enters before the synth,the synth comes in earlier than the violin,unknown
+1572,1055022,O,natural,"first the piano comes in, then the cello","first the cello comes in, then the piano",the piano starts first and the cello joins afterward,unknown
+1571,1055022,O,strict,the piano enters before the cello,the cello enters before the piano,the piano comes in earlier than the cello,unknown
+1574,1060600,O,natural,"first the saxophone comes in, then the drums","first the drums comes in, then the saxophone",the saxophone starts first and the drums joins afterward,unknown
+1573,1060600,O,strict,the saxophone enters before the drums,the drums enters before the saxophone,the saxophone comes in earlier than the drums,unknown
+1576,1068667,O,natural,"first the piano comes in, then the violin","first the violin comes in, then the piano",the piano starts first and the violin joins afterward,unknown
+1575,1068667,O,strict,the piano enters before the violin,the violin enters before the piano,the piano comes in earlier than the violin,unknown
+1578,1068668,O,natural,"first the piano comes in, then the violin","first the violin comes in, then the piano",the piano starts first and the violin joins afterward,unknown
+1577,1068668,O,strict,the piano enters before the violin,the violin enters before the piano,the piano comes in earlier than the violin,unknown
+1580,1068671,O,natural,"first the piano comes in, then the drums","first the drums comes in, then the piano",the piano starts first and the drums joins afterward,unknown
+1579,1068671,O,strict,the piano enters before the drums,the drums enters before the piano,the piano comes in earlier than the drums,unknown
+1582,1093792,O,natural,"first the piano comes in, then the drums","first the drums comes in, then the piano",the piano starts first and the drums joins afterward,unknown
+1581,1093792,O,strict,the piano enters before the drums,the drums enters before the piano,the piano comes in earlier than the drums,unknown
+1584,1093793,O,natural,"first the piano comes in, then the synth","first the synth comes in, then the piano",the piano starts first and the synth joins afterward,unknown
+1583,1093793,O,strict,the piano enters before the synth,the synth enters before the piano,the piano comes in earlier than the synth,unknown
+1586,1093794,O,natural,"first the electric piano comes in, then the vocals","first the vocals comes in, then the electric piano",the electric piano starts first and the vocals joins afterward,unknown
+1585,1093794,O,strict,the electric piano enters before the vocals,the vocals enters before the electric piano,the electric piano comes in earlier than the vocals,unknown
+1588,1093795,O,natural,"first the synth comes in, then the vocals","first the vocals comes in, then the synth",the synth starts first and the vocals joins afterward,unknown
+1587,1093795,O,strict,the synth enters before the vocals,the vocals enters before the synth,the synth comes in earlier than the vocals,unknown
+1590,1097943,O,natural,"first the synth comes in, then the bass","first the bass comes in, then the synth",the synth starts first and the bass joins afterward,unknown
+1589,1097943,O,strict,the synth enters before the bass,the bass enters before the synth,the synth comes in earlier than the bass,unknown
+1592,1107251,O,natural,"first the electric guitar comes in, then the bass","first the bass comes in, then the electric guitar",the electric guitar starts first and the bass joins afterward,unknown
+1591,1107251,O,strict,the electric guitar enters before the bass,the bass enters before the electric guitar,the electric guitar comes in earlier than the bass,unknown
+1594,1119403,O,natural,"first the piano comes in, then the strings","first the strings comes in, then the piano",the piano starts first and the strings joins afterward,unknown
+1593,1119403,O,strict,the piano enters before the strings,the strings enters before the piano,the piano comes in earlier than the strings,unknown
+1596,111962,O,natural,"first the piano comes in, then the vocals","first the vocals comes in, then the piano",the piano starts first and the vocals joins afterward,unknown
+1595,111962,O,strict,the piano enters before the vocals,the vocals enters before the piano,the piano comes in earlier than the vocals,unknown
+1598,1135054,O,natural,"first the synth comes in, then the flute","first the flute comes in, then the synth",the synth starts first and the flute joins afterward,unknown
+1597,1135054,O,strict,the synth enters before the flute,the flute enters before the synth,the synth comes in earlier than the flute,unknown
+1600,1135703,O,natural,"first the acoustic guitar comes in, then the vocals","first the vocals comes in, then the acoustic guitar",the acoustic guitar starts first and the vocals joins afterward,unknown
+1599,1135703,O,strict,the acoustic guitar enters before the vocals,the vocals enters before the acoustic guitar,the acoustic guitar comes in earlier than the vocals,unknown
+1602,1138689,O,natural,"first the electric guitar comes in, then the drums","first the drums comes in, then the electric guitar",the electric guitar starts first and the drums joins afterward,unknown
+1601,1138689,O,strict,the electric guitar enters before the drums,the drums enters before the electric guitar,the electric guitar comes in earlier than the drums,unknown
+1604,1138697,O,natural,"first the vocals comes in, then the harmonica","first the harmonica comes in, then the vocals",the vocals starts first and the harmonica joins afterward,unknown
+1603,1138697,O,strict,the vocals enters before the harmonica,the harmonica enters before the vocals,the vocals comes in earlier than the harmonica,unknown
+1606,1143013,O,natural,"first the acoustic guitar comes in, then the synth","first the synth comes in, then the acoustic guitar",the acoustic guitar starts first and the synth joins afterward,unknown
+1605,1143013,O,strict,the acoustic guitar enters before the synth,the synth enters before the acoustic guitar,the acoustic guitar comes in earlier than the synth,unknown
+1608,1151409,O,natural,"first the choral comes in, then the flute","first the flute comes in, then the choral",the choral starts first and the flute joins afterward,unknown
+1607,1151409,O,strict,the choral enters before the flute,the flute enters before the choral,the choral comes in earlier than the flute,unknown
+1610,1157361,O,natural,"first the vocals comes in, then the electric piano","first the electric piano comes in, then the vocals",the vocals starts first and the electric piano joins afterward,unknown
+1609,1157361,O,strict,the vocals enters before the electric piano,the electric piano enters before the vocals,the vocals comes in earlier than the electric piano,unknown
+1612,1162103,O,natural,"first the strings comes in, then the drums","first the drums comes in, then the strings",the strings starts first and the drums joins afterward,unknown
+1611,1162103,O,strict,the strings enters before the drums,the drums enters before the strings,the strings comes in earlier than the drums,unknown
+1614,1162697,O,natural,"first the ukulele comes in, then the electric guitar","first the electric guitar comes in, then the ukulele",the ukulele starts first and the electric guitar joins afterward,unknown
+1613,1162697,O,strict,the ukulele enters before the electric guitar,the electric guitar enters before the ukulele,the ukulele comes in earlier than the electric guitar,unknown
+1616,1163322,O,natural,"first the organ comes in, then the saxophone","first the saxophone comes in, then the organ",the organ starts first and the saxophone joins afterward,unknown
+1615,1163322,O,strict,the organ enters before the saxophone,the saxophone enters before the organ,the organ comes in earlier than the saxophone,unknown
+1618,1170729,O,natural,"first the acoustic guitar comes in, then the vocals","first the vocals comes in, then the acoustic guitar",the acoustic guitar starts first and the vocals joins afterward,unknown
+1617,1170729,O,strict,the acoustic guitar enters before the vocals,the vocals enters before the acoustic guitar,the acoustic guitar comes in earlier than the vocals,unknown
+1620,1170740,O,natural,"first the acoustic guitar comes in, then the vocals","first the vocals comes in, then the acoustic guitar",the acoustic guitar starts first and the vocals joins afterward,unknown
+1619,1170740,O,strict,the acoustic guitar enters before the vocals,the vocals enters before the acoustic guitar,the acoustic guitar comes in earlier than the vocals,unknown
+1622,1173652,O,natural,"first the bells comes in, then the choir","first the choir comes in, then the bells",the bells starts first and the choir joins afterward,unknown
+1621,1173652,O,strict,the bells enters before the choir,the choir enters before the bells,the bells comes in earlier than the choir,unknown
+1624,11751,O,natural,"first the electric piano comes in, then the electric guitar","first the electric guitar comes in, then the electric piano",the electric piano starts first and the electric guitar joins afterward,unknown
+1623,11751,O,strict,the electric piano enters before the electric guitar,the electric guitar enters before the electric piano,the electric piano comes in earlier than the electric guitar,unknown
+1626,1176716,O,natural,"first the acoustic guitar comes in, then the electric guitar","first the electric guitar comes in, then the acoustic guitar",the acoustic guitar starts first and the electric guitar joins afterward,unknown
+1625,1176716,O,strict,the acoustic guitar enters before the electric guitar,the electric guitar enters before the acoustic guitar,the acoustic guitar comes in earlier than the electric guitar,unknown
+1628,1180601,O,natural,"first the synth comes in, then the bass","first the bass comes in, then the synth",the synth starts first and the bass joins afterward,unknown
+1627,1180601,O,strict,the synth enters before the bass,the bass enters before the synth,the synth comes in earlier than the bass,unknown
+1630,1194311,O,natural,"first the piano comes in, then the vocals","first the vocals comes in, then the piano",the piano starts first and the vocals joins afterward,unknown
+1629,1194311,O,strict,the piano enters before the vocals,the vocals enters before the piano,the piano comes in earlier than the vocals,unknown
+1632,1194312,O,natural,"first the acoustic guitar comes in, then the drums","first the drums comes in, then the acoustic guitar",the acoustic guitar starts first and the drums joins afterward,unknown
+1631,1194312,O,strict,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar,the acoustic guitar comes in earlier than the drums,unknown
+1634,1194314,O,natural,"first the piano comes in, then the percussion","first the percussion comes in, then the piano",the piano starts first and the percussion joins afterward,unknown
+1633,1194314,O,strict,the piano enters before the percussion,the percussion enters before the piano,the piano comes in earlier than the percussion,unknown
+1636,1194315,O,natural,"first the beat box comes in, then the acoustic guitar","first the acoustic guitar comes in, then the beat box",the beat box starts first and the acoustic guitar joins afterward,unknown
+1635,1194315,O,strict,the beat box enters before the acoustic guitar,the acoustic guitar enters before the beat box,the beat box comes in earlier than the acoustic guitar,unknown
+1638,1210715,O,natural,"first the drums comes in, then the acoustic guitar","first the acoustic guitar comes in, then the drums",the drums starts first and the acoustic guitar joins afterward,unknown
+1637,1210715,O,strict,the drums enters before the acoustic guitar,the acoustic guitar enters before the drums,the drums comes in earlier than the acoustic guitar,unknown
+1640,1210721,O,natural,"first the electric guitar comes in, then the drums","first the drums comes in, then the electric guitar",the electric guitar starts first and the drums joins afterward,unknown
+1639,1210721,O,strict,the electric guitar enters before the drums,the drums enters before the electric guitar,the electric guitar comes in earlier than the drums,unknown
+1642,1221997,O,natural,"first the strings comes in, then the flute","first the flute comes in, then the strings",the strings starts first and the flute joins afterward,unknown
+1641,1221997,O,strict,the strings enters before the flute,the flute enters before the strings,the strings comes in earlier than the flute,unknown
+1644,12305,O,natural,"first the electric guitar comes in, then the trumpet","first the trumpet comes in, then the electric guitar",the electric guitar starts first and the trumpet joins afterward,unknown
+1643,12305,O,strict,the electric guitar enters before the trumpet,the trumpet enters before the electric guitar,the electric guitar comes in earlier than the trumpet,unknown
+1646,1239507,O,natural,"first the piano comes in, then the bass","first the bass comes in, then the piano",the piano starts first and the bass joins afterward,unknown
+1645,1239507,O,strict,the piano enters before the bass,the bass enters before the piano,the piano comes in earlier than the bass,unknown
+1648,1241778,O,natural,"first the electric guitar comes in, then the bass","first the bass comes in, then the electric guitar",the electric guitar starts first and the bass joins afterward,unknown
+1647,1241778,O,strict,the electric guitar enters before the bass,the bass enters before the electric guitar,the electric guitar comes in earlier than the bass,unknown
+1650,1243198,O,natural,"first the drums comes in, then the vocals","first the vocals comes in, then the drums",the drums starts first and the vocals joins afterward,unknown
+1649,1243198,O,strict,the drums enters before the vocals,the vocals enters before the drums,the drums comes in earlier than the vocals,unknown
+1652,124358,O,natural,"first the synth comes in, then the drums","first the drums comes in, then the synth",the synth starts first and the drums joins afterward,unknown
+1651,124358,O,strict,the synth enters before the drums,the drums enters before the synth,the synth comes in earlier than the drums,unknown
+1654,1245186,O,natural,"first the bass comes in, then the choir","first the choir comes in, then the bass",the bass starts first and the choir joins afterward,unknown
+1653,1245186,O,strict,the bass enters before the choir,the choir enters before the bass,the bass comes in earlier than the choir,unknown
+1656,1245189,O,natural,"first the synth comes in, then the percussion","first the percussion comes in, then the synth",the synth starts first and the percussion joins afterward,unknown
+1655,1245189,O,strict,the synth enters before the percussion,the percussion enters before the synth,the synth comes in earlier than the percussion,unknown
+1658,1245191,O,natural,"first the piano comes in, then the bass","first the bass comes in, then the piano",the piano starts first and the bass joins afterward,unknown
+1657,1245191,O,strict,the piano enters before the bass,the bass enters before the piano,the piano comes in earlier than the bass,unknown
+1660,1254630,O,natural,"first the drums comes in, then the vocals","first the vocals comes in, then the drums",the drums starts first and the vocals joins afterward,unknown
+1659,1254630,O,strict,the drums enters before the vocals,the vocals enters before the drums,the drums comes in earlier than the vocals,unknown
+1662,1254633,O,natural,"first the acoustic guitar comes in, then the vocals","first the vocals comes in, then the acoustic guitar",the acoustic guitar starts first and the vocals joins afterward,unknown
+1661,1254633,O,strict,the acoustic guitar enters before the vocals,the vocals enters before the acoustic guitar,the acoustic guitar comes in earlier than the vocals,unknown
+1664,1267288,O,natural,"first the acoustic guitar comes in, then the electric piano","first the electric piano comes in, then the acoustic guitar",the acoustic guitar starts first and the electric piano joins afterward,unknown
+1663,1267288,O,strict,the acoustic guitar enters before the electric piano,the electric piano enters before the acoustic guitar,the acoustic guitar comes in earlier than the electric piano,unknown
+1666,1269561,O,natural,"first the violin comes in, then the bass","first the bass comes in, then the violin",the violin starts first and the bass joins afterward,unknown
+1665,1269561,O,strict,the violin enters before the bass,the bass enters before the violin,the violin comes in earlier than the bass,unknown
+1668,1293996,O,natural,"first the acoustic guitar comes in, then the harmonica","first the harmonica comes in, then the acoustic guitar",the acoustic guitar starts first and the harmonica joins afterward,unknown
+1667,1293996,O,strict,the acoustic guitar enters before the harmonica,the harmonica enters before the acoustic guitar,the acoustic guitar comes in earlier than the harmonica,unknown
+1670,1294741,O,natural,"first the synth comes in, then the bass","first the bass comes in, then the synth",the synth starts first and the bass joins afterward,unknown
+1669,1294741,O,strict,the synth enters before the bass,the bass enters before the synth,the synth comes in earlier than the bass,unknown
+1672,1294750,O,natural,"first the drums comes in, then the electric guitar","first the electric guitar comes in, then the drums",the drums starts first and the electric guitar joins afterward,unknown
+1671,1294750,O,strict,the drums enters before the electric guitar,the electric guitar enters before the drums,the drums comes in earlier than the electric guitar,unknown
+1674,1296198,O,natural,"first the piano comes in, then the drums","first the drums comes in, then the piano",the piano starts first and the drums joins afterward,unknown
+1673,1296198,O,strict,the piano enters before the drums,the drums enters before the piano,the piano comes in earlier than the drums,unknown
+1676,1296596,O,natural,"first the piano comes in, then the strings","first the strings comes in, then the piano",the piano starts first and the strings joins afterward,unknown
+1675,1296596,O,strict,the piano enters before the strings,the strings enters before the piano,the piano comes in earlier than the strings,unknown
+1678,1304475,O,natural,"first the synth comes in, then the drums","first the drums comes in, then the synth",the synth starts first and the drums joins afterward,unknown
+1677,1304475,O,strict,the synth enters before the drums,the drums enters before the synth,the synth comes in earlier than the drums,unknown
+1680,1307838,O,natural,"first the acoustic guitar comes in, then the drums","first the drums comes in, then the acoustic guitar",the acoustic guitar starts first and the drums joins afterward,unknown
+1679,1307838,O,strict,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar,the acoustic guitar comes in earlier than the drums,unknown
+1682,1315725,O,natural,"first the electric guitar comes in, then the flute","first the flute comes in, then the electric guitar",the electric guitar starts first and the flute joins afterward,unknown
+1681,1315725,O,strict,the electric guitar enters before the flute,the flute enters before the electric guitar,the electric guitar comes in earlier than the flute,unknown
+1684,1318704,O,natural,"first the acoustic guitar comes in, then the saxophone","first the saxophone comes in, then the acoustic guitar",the acoustic guitar starts first and the saxophone joins afterward,unknown
+1683,1318704,O,strict,the acoustic guitar enters before the saxophone,the saxophone enters before the acoustic guitar,the acoustic guitar comes in earlier than the saxophone,unknown
+1686,132868,O,natural,"first the piano comes in, then the drums","first the drums comes in, then the piano",the piano starts first and the drums joins afterward,unknown
+1685,132868,O,strict,the piano enters before the drums,the drums enters before the piano,the piano comes in earlier than the drums,unknown
+1688,1347915,O,natural,"first the organ comes in, then the flute","first the flute comes in, then the organ",the organ starts first and the flute joins afterward,unknown
+1687,1347915,O,strict,the organ enters before the flute,the flute enters before the organ,the organ comes in earlier than the flute,unknown
+1690,1356313,O,natural,"first the electric guitar comes in, then the drums","first the drums comes in, then the electric guitar",the electric guitar starts first and the drums joins afterward,unknown
+1689,1356313,O,strict,the electric guitar enters before the drums,the drums enters before the electric guitar,the electric guitar comes in earlier than the drums,unknown
+1692,1356349,O,natural,"first the electric guitar comes in, then the acoustic guitar","first the acoustic guitar comes in, then the electric guitar",the electric guitar starts first and the acoustic guitar joins afterward,unknown
+1691,1356349,O,strict,the electric guitar enters before the acoustic guitar,the acoustic guitar enters before the electric guitar,the electric guitar comes in earlier than the acoustic guitar,unknown
+1694,135658,O,natural,"first the bass comes in, then the piano","first the piano comes in, then the bass",the bass starts first and the piano joins afterward,unknown
+1693,135658,O,strict,the bass enters before the piano,the piano enters before the bass,the bass comes in earlier than the piano,unknown
+1696,135660,O,natural,"first the drums comes in, then the vocals","first the vocals comes in, then the drums",the drums starts first and the vocals joins afterward,unknown
+1695,135660,O,strict,the drums enters before the vocals,the vocals enters before the drums,the drums comes in earlier than the vocals,unknown
+1698,1357118,O,natural,"first the electric guitar comes in, then the bass","first the bass comes in, then the electric guitar",the electric guitar starts first and the bass joins afterward,unknown
+1697,1357118,O,strict,the electric guitar enters before the bass,the bass enters before the electric guitar,the electric guitar comes in earlier than the bass,unknown
+1700,1357132,O,natural,"first the drums comes in, then the electric guitar","first the electric guitar comes in, then the drums",the drums starts first and the electric guitar joins afterward,unknown
+1699,1357132,O,strict,the drums enters before the electric guitar,the electric guitar enters before the drums,the drums comes in earlier than the electric guitar,unknown
+1702,1386744,O,natural,"first the electric piano comes in, then the electric guitar","first the electric guitar comes in, then the electric piano",the electric piano starts first and the electric guitar joins afterward,unknown
+1701,1386744,O,strict,the electric piano enters before the electric guitar,the electric guitar enters before the electric piano,the electric piano comes in earlier than the electric guitar,unknown
+1704,145945,O,natural,"first the drums comes in, then the vocals","first the vocals comes in, then the drums",the drums starts first and the vocals joins afterward,unknown
+1703,145945,O,strict,the drums enters before the vocals,the vocals enters before the drums,the drums comes in earlier than the vocals,unknown
+1706,145968,O,natural,"first the synth comes in, then the acoustic guitar","first the acoustic guitar comes in, then the synth",the synth starts first and the acoustic guitar joins afterward,unknown
+1705,145968,O,strict,the synth enters before the acoustic guitar,the acoustic guitar enters before the synth,the synth comes in earlier than the acoustic guitar,unknown
+1708,171573,O,natural,"first the synth comes in, then the bass","first the bass comes in, then the synth",the synth starts first and the bass joins afterward,unknown
+1707,171573,O,strict,the synth enters before the bass,the bass enters before the synth,the synth comes in earlier than the bass,unknown
+1710,172018,O,natural,"first the percussion comes in, then the bass","first the bass comes in, then the percussion",the percussion starts first and the bass joins afterward,unknown
+1709,172018,O,strict,the percussion enters before the bass,the bass enters before the percussion,the percussion comes in earlier than the bass,unknown
+1712,181440,O,natural,"first the drums comes in, then the electric guitar","first the electric guitar comes in, then the drums",the drums starts first and the electric guitar joins afterward,unknown
+1711,181440,O,strict,the drums enters before the electric guitar,the electric guitar enters before the drums,the drums comes in earlier than the electric guitar,unknown
+1714,201905,O,natural,"first the acoustic guitar comes in, then the harmonica","first the harmonica comes in, then the acoustic guitar",the acoustic guitar starts first and the harmonica joins afterward,unknown
+1713,201905,O,strict,the acoustic guitar enters before the harmonica,the harmonica enters before the acoustic guitar,the acoustic guitar comes in earlier than the harmonica,unknown
+1716,206578,O,natural,"first the electric guitar comes in, then the vocals","first the vocals comes in, then the electric guitar",the electric guitar starts first and the vocals joins afterward,unknown
+1715,206578,O,strict,the electric guitar enters before the vocals,the vocals enters before the electric guitar,the electric guitar comes in earlier than the vocals,unknown
+1718,206596,O,natural,"first the electric guitar comes in, then the drums","first the drums comes in, then the electric guitar",the electric guitar starts first and the drums joins afterward,unknown
+1717,206596,O,strict,the electric guitar enters before the drums,the drums enters before the electric guitar,the electric guitar comes in earlier than the drums,unknown
+1720,242349,O,natural,"first the strings comes in, then the piano","first the piano comes in, then the strings",the strings starts first and the piano joins afterward,unknown
+1719,242349,O,strict,the strings enters before the piano,the piano enters before the strings,the strings comes in earlier than the piano,unknown
+1722,242384,O,natural,"first the strings comes in, then the vocals","first the vocals comes in, then the strings",the strings starts first and the vocals joins afterward,unknown
+1721,242384,O,strict,the strings enters before the vocals,the vocals enters before the strings,the strings comes in earlier than the vocals,unknown
+1724,242410,O,natural,"first the acoustic guitar comes in, then the drums","first the drums comes in, then the acoustic guitar",the acoustic guitar starts first and the drums joins afterward,unknown
+1723,242410,O,strict,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar,the acoustic guitar comes in earlier than the drums,unknown
+1726,242640,O,natural,"first the flute comes in, then the vocals","first the vocals comes in, then the flute",the flute starts first and the vocals joins afterward,unknown
+1725,242640,O,strict,the flute enters before the vocals,the vocals enters before the flute,the flute comes in earlier than the vocals,unknown
+1728,243172,O,natural,"first the cello comes in, then the piano","first the piano comes in, then the cello",the cello starts first and the piano joins afterward,unknown
+1727,243172,O,strict,the cello enters before the piano,the piano enters before the cello,the cello comes in earlier than the piano,unknown
+1730,243734,O,natural,"first the acoustic guitar comes in, then the vocals","first the vocals comes in, then the acoustic guitar",the acoustic guitar starts first and the vocals joins afterward,unknown
+1729,243734,O,strict,the acoustic guitar enters before the vocals,the vocals enters before the acoustic guitar,the acoustic guitar comes in earlier than the vocals,unknown
+1732,25555,O,natural,"first the bass comes in, then the electric guitar","first the electric guitar comes in, then the bass",the bass starts first and the electric guitar joins afterward,unknown
+1731,25555,O,strict,the bass enters before the electric guitar,the electric guitar enters before the bass,the bass comes in earlier than the electric guitar,unknown
+1734,259288,O,natural,"first the drums comes in, then the bass","first the bass comes in, then the drums",the drums starts first and the bass joins afterward,unknown
+1733,259288,O,strict,the drums enters before the bass,the bass enters before the drums,the drums comes in earlier than the bass,unknown
+1736,260839,O,natural,"first the vocals comes in, then the piano","first the piano comes in, then the vocals",the vocals starts first and the piano joins afterward,unknown
+1735,260839,O,strict,the vocals enters before the piano,the piano enters before the vocals,the vocals comes in earlier than the piano,unknown
+1738,261271,O,natural,"first the electric guitar comes in, then the bass","first the bass comes in, then the electric guitar",the electric guitar starts first and the bass joins afterward,unknown
+1737,261271,O,strict,the electric guitar enters before the bass,the bass enters before the electric guitar,the electric guitar comes in earlier than the bass,unknown
+1740,296236,O,natural,"first the harmonica comes in, then the bass","first the bass comes in, then the harmonica",the harmonica starts first and the bass joins afterward,unknown
+1739,296236,O,strict,the harmonica enters before the bass,the bass enters before the harmonica,the harmonica comes in earlier than the bass,unknown
+1742,296237,O,natural,"first the strings comes in, then the drums","first the drums comes in, then the strings",the strings starts first and the drums joins afterward,unknown
+1741,296237,O,strict,the strings enters before the drums,the drums enters before the strings,the strings comes in earlier than the drums,unknown
+1744,296238,O,natural,"first the piano comes in, then the bass","first the bass comes in, then the piano",the piano starts first and the bass joins afterward,unknown
+1743,296238,O,strict,the piano enters before the bass,the bass enters before the piano,the piano comes in earlier than the bass,unknown
+1746,307395,O,natural,"first the acoustic bass comes in, then the violin","first the violin comes in, then the acoustic bass",the acoustic bass starts first and the violin joins afterward,unknown
+1745,307395,O,strict,the acoustic bass enters before the violin,the violin enters before the acoustic bass,the acoustic bass comes in earlier than the violin,unknown
+1748,309861,O,natural,"first the acoustic guitar comes in, then the vocals","first the vocals comes in, then the acoustic guitar",the acoustic guitar starts first and the vocals joins afterward,unknown
+1747,309861,O,strict,the acoustic guitar enters before the vocals,the vocals enters before the acoustic guitar,the acoustic guitar comes in earlier than the vocals,unknown
+1750,313059,O,natural,"first the synth comes in, then the acoustic guitar","first the acoustic guitar comes in, then the synth",the synth starts first and the acoustic guitar joins afterward,unknown
+1749,313059,O,strict,the synth enters before the acoustic guitar,the acoustic guitar enters before the synth,the synth comes in earlier than the acoustic guitar,unknown
+1752,323090,O,natural,"first the piano comes in, then the electric guitar","first the electric guitar comes in, then the piano",the piano starts first and the electric guitar joins afterward,unknown
+1751,323090,O,strict,the piano enters before the electric guitar,the electric guitar enters before the piano,the piano comes in earlier than the electric guitar,unknown
+1754,33836,O,natural,"first the flute comes in, then the vocals","first the vocals comes in, then the flute",the flute starts first and the vocals joins afterward,unknown
+1753,33836,O,strict,the flute enters before the vocals,the vocals enters before the flute,the flute comes in earlier than the vocals,unknown
+1756,348881,O,natural,"first the percussion comes in, then the bass","first the bass comes in, then the percussion",the percussion starts first and the bass joins afterward,unknown
+1755,348881,O,strict,the percussion enters before the bass,the bass enters before the percussion,the percussion comes in earlier than the bass,unknown
+1758,35349,O,natural,"first the piano comes in, then the drums","first the drums comes in, then the piano",the piano starts first and the drums joins afterward,unknown
+1757,35349,O,strict,the piano enters before the drums,the drums enters before the piano,the piano comes in earlier than the drums,unknown
+1760,35350,O,natural,"first the piano comes in, then the electric guitar","first the electric guitar comes in, then the piano",the piano starts first and the electric guitar joins afterward,unknown
+1759,35350,O,strict,the piano enters before the electric guitar,the electric guitar enters before the piano,the piano comes in earlier than the electric guitar,unknown
+1762,357192,O,natural,"first the trumpet comes in, then the vocals","first the vocals comes in, then the trumpet",the trumpet starts first and the vocals joins afterward,unknown
+1761,357192,O,strict,the trumpet enters before the vocals,the vocals enters before the trumpet,the trumpet comes in earlier than the vocals,unknown
+1764,357273,O,natural,"first the vocals comes in, then the harmonica","first the harmonica comes in, then the vocals",the vocals starts first and the harmonica joins afterward,unknown
+1763,357273,O,strict,the vocals enters before the harmonica,the harmonica enters before the vocals,the vocals comes in earlier than the harmonica,unknown
+1766,357314,O,natural,"first the acoustic guitar comes in, then the trumpet","first the trumpet comes in, then the acoustic guitar",the acoustic guitar starts first and the trumpet joins afterward,unknown
+1765,357314,O,strict,the acoustic guitar enters before the trumpet,the trumpet enters before the acoustic guitar,the acoustic guitar comes in earlier than the trumpet,unknown
+1768,357330,O,natural,"first the vocals comes in, then the drums","first the drums comes in, then the vocals",the vocals starts first and the drums joins afterward,unknown
+1767,357330,O,strict,the vocals enters before the drums,the drums enters before the vocals,the vocals comes in earlier than the drums,unknown
+1770,357365,O,natural,"first the trumpet comes in, then the vocals","first the vocals comes in, then the trumpet",the trumpet starts first and the vocals joins afterward,unknown
+1769,357365,O,strict,the trumpet enters before the vocals,the vocals enters before the trumpet,the trumpet comes in earlier than the vocals,unknown
+1772,357387,O,natural,"first the vocals comes in, then the trumpet","first the trumpet comes in, then the vocals",the vocals starts first and the trumpet joins afterward,unknown
+1771,357387,O,strict,the vocals enters before the trumpet,the trumpet enters before the vocals,the vocals comes in earlier than the trumpet,unknown
+1774,360978,O,natural,"first the acoustic bass comes in, then the vocals","first the vocals comes in, then the acoustic bass",the acoustic bass starts first and the vocals joins afterward,unknown
+1773,360978,O,strict,the acoustic bass enters before the vocals,the vocals enters before the acoustic bass,the acoustic bass comes in earlier than the vocals,unknown
+1776,366014,O,natural,"first the electric guitar comes in, then the drums","first the drums comes in, then the electric guitar",the electric guitar starts first and the drums joins afterward,unknown
+1775,366014,O,strict,the electric guitar enters before the drums,the drums enters before the electric guitar,the electric guitar comes in earlier than the drums,unknown
+1778,371237,O,natural,"first the synth comes in, then the electric guitar","first the electric guitar comes in, then the synth",the synth starts first and the electric guitar joins afterward,unknown
+1777,371237,O,strict,the synth enters before the electric guitar,the electric guitar enters before the synth,the synth comes in earlier than the electric guitar,unknown
+1780,376419,O,natural,"first the synth comes in, then the acoustic guitar","first the acoustic guitar comes in, then the synth",the synth starts first and the acoustic guitar joins afterward,unknown
+1779,376419,O,strict,the synth enters before the acoustic guitar,the acoustic guitar enters before the synth,the synth comes in earlier than the acoustic guitar,unknown
+1782,387501,O,natural,"first the electric guitar comes in, then the drums","first the drums comes in, then the electric guitar",the electric guitar starts first and the drums joins afterward,unknown
+1781,387501,O,strict,the electric guitar enters before the drums,the drums enters before the electric guitar,the electric guitar comes in earlier than the drums,unknown
+1784,387516,O,natural,"first the synth comes in, then the drums","first the drums comes in, then the synth",the synth starts first and the drums joins afterward,unknown
+1783,387516,O,strict,the synth enters before the drums,the drums enters before the synth,the synth comes in earlier than the drums,unknown
+1786,39102,O,natural,"first the electric guitar comes in, then the vocals","first the vocals comes in, then the electric guitar",the electric guitar starts first and the vocals joins afterward,unknown
+1785,39102,O,strict,the electric guitar enters before the vocals,the vocals enters before the electric guitar,the electric guitar comes in earlier than the vocals,unknown
+1788,415590,O,natural,"first the bass comes in, then the drums","first the drums comes in, then the bass",the bass starts first and the drums joins afterward,unknown
+1787,415590,O,strict,the bass enters before the drums,the drums enters before the bass,the bass comes in earlier than the drums,unknown
+1790,415596,O,natural,"first the electric guitar comes in, then the drums","first the drums comes in, then the electric guitar",the electric guitar starts first and the drums joins afterward,unknown
+1789,415596,O,strict,the electric guitar enters before the drums,the drums enters before the electric guitar,the electric guitar comes in earlier than the drums,unknown
+1792,415600,O,natural,"first the electric guitar comes in, then the percussion","first the percussion comes in, then the electric guitar",the electric guitar starts first and the percussion joins afterward,unknown
+1791,415600,O,strict,the electric guitar enters before the percussion,the percussion enters before the electric guitar,the electric guitar comes in earlier than the percussion,unknown
+1794,415605,O,natural,"first the synth comes in, then the drums","first the drums comes in, then the synth",the synth starts first and the drums joins afterward,unknown
+1793,415605,O,strict,the synth enters before the drums,the drums enters before the synth,the synth comes in earlier than the drums,unknown
+1796,416358,O,natural,"first the synth comes in, then the strings","first the strings comes in, then the synth",the synth starts first and the strings joins afterward,unknown
+1795,416358,O,strict,the synth enters before the strings,the strings enters before the synth,the synth comes in earlier than the strings,unknown
+1798,437792,O,natural,"first the drums comes in, then the vocals","first the vocals comes in, then the drums",the drums starts first and the vocals joins afterward,unknown
+1797,437792,O,strict,the drums enters before the vocals,the vocals enters before the drums,the drums comes in earlier than the vocals,unknown
+1800,437795,O,natural,"first the acoustic guitar comes in, then the vocals","first the vocals comes in, then the acoustic guitar",the acoustic guitar starts first and the vocals joins afterward,unknown
+1799,437795,O,strict,the acoustic guitar enters before the vocals,the vocals enters before the acoustic guitar,the acoustic guitar comes in earlier than the vocals,unknown
+1802,43886,O,natural,"first the bass comes in, then the vocals","first the vocals comes in, then the bass",the bass starts first and the vocals joins afterward,unknown
+1801,43886,O,strict,the bass enters before the vocals,the vocals enters before the bass,the bass comes in earlier than the vocals,unknown
+1804,450989,O,natural,"first the vocals comes in, then the electric guitar","first the electric guitar comes in, then the vocals",the vocals starts first and the electric guitar joins afterward,unknown
+1803,450989,O,strict,the vocals enters before the electric guitar,the electric guitar enters before the vocals,the vocals comes in earlier than the electric guitar,unknown
+1806,457078,O,natural,"first the bass comes in, then the electric guitar","first the electric guitar comes in, then the bass",the bass starts first and the electric guitar joins afterward,unknown
+1805,457078,O,strict,the bass enters before the electric guitar,the electric guitar enters before the bass,the bass comes in earlier than the electric guitar,unknown
+1808,457119,O,natural,"first the drums comes in, then the trumpet","first the trumpet comes in, then the drums",the drums starts first and the trumpet joins afterward,unknown
+1807,457119,O,strict,the drums enters before the trumpet,the trumpet enters before the drums,the drums comes in earlier than the trumpet,unknown
+1810,458252,O,natural,"first the piano comes in, then the violin","first the violin comes in, then the piano",the piano starts first and the violin joins afterward,unknown
+1809,458252,O,strict,the piano enters before the violin,the violin enters before the piano,the piano comes in earlier than the violin,unknown
+1812,461012,O,natural,"first the electric guitar comes in, then the piano","first the piano comes in, then the electric guitar",the electric guitar starts first and the piano joins afterward,unknown
+1811,461012,O,strict,the electric guitar enters before the piano,the piano enters before the electric guitar,the electric guitar comes in earlier than the piano,unknown
+1814,461018,O,natural,"first the drums comes in, then the synth","first the synth comes in, then the drums",the drums starts first and the synth joins afterward,unknown
+1813,461018,O,strict,the drums enters before the synth,the synth enters before the drums,the drums comes in earlier than the synth,unknown
+1816,4883,O,natural,"first the percussion comes in, then the electric guitar","first the electric guitar comes in, then the percussion",the percussion starts first and the electric guitar joins afterward,unknown
+1815,4883,O,strict,the percussion enters before the electric guitar,the electric guitar enters before the percussion,the percussion comes in earlier than the electric guitar,unknown
+1818,500970,O,natural,"first the synth comes in, then the drums","first the drums comes in, then the synth",the synth starts first and the drums joins afterward,unknown
+1817,500970,O,strict,the synth enters before the drums,the drums enters before the synth,the synth comes in earlier than the drums,unknown
+1820,5084,O,natural,"first the bass comes in, then the organ","first the organ comes in, then the bass",the bass starts first and the organ joins afterward,unknown
+1819,5084,O,strict,the bass enters before the organ,the organ enters before the bass,the bass comes in earlier than the organ,unknown
+1822,5339,O,natural,"first the electric guitar comes in, then the synth","first the synth comes in, then the electric guitar",the electric guitar starts first and the synth joins afterward,unknown
+1821,5339,O,strict,the electric guitar enters before the synth,the synth enters before the electric guitar,the electric guitar comes in earlier than the synth,unknown
+1824,5340,O,natural,"first the piano comes in, then the strings","first the strings comes in, then the piano",the piano starts first and the strings joins afterward,unknown
+1823,5340,O,strict,the piano enters before the strings,the strings enters before the piano,the piano comes in earlier than the strings,unknown
+1826,537118,O,natural,"first the electric guitar comes in, then the saxophone","first the saxophone comes in, then the electric guitar",the electric guitar starts first and the saxophone joins afterward,unknown
+1825,537118,O,strict,the electric guitar enters before the saxophone,the saxophone enters before the electric guitar,the electric guitar comes in earlier than the saxophone,unknown
+1828,579644,O,natural,"first the acoustic guitar comes in, then the piano","first the piano comes in, then the acoustic guitar",the acoustic guitar starts first and the piano joins afterward,unknown
+1827,579644,O,strict,the acoustic guitar enters before the piano,the piano enters before the acoustic guitar,the acoustic guitar comes in earlier than the piano,unknown
+1830,599226,O,natural,"first the acoustic guitar comes in, then the bass","first the bass comes in, then the acoustic guitar",the acoustic guitar starts first and the bass joins afterward,unknown
+1829,599226,O,strict,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar,the acoustic guitar comes in earlier than the bass,unknown
+1312,101006,R,natural,the harmonica leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the harmonica backs it,the harmonica takes the lead line and the acoustic guitar plays the supporting part,consistent
+1311,101006,R,strict,the harmonica plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the harmonica accompanies,"the melody is carried by the harmonica, with the acoustic guitar providing accompaniment",consistent
+1314,103089,R,natural,the synth leads with the tune as the electric guitar backs it,the electric guitar leads with the tune as the synth backs it,the synth takes the lead line and the electric guitar plays the supporting part,consistent
+1313,103089,R,strict,the synth plays the melody while the electric guitar accompanies,the electric guitar plays the melody while the synth accompanies,"the melody is carried by the synth, with the electric guitar providing accompaniment",consistent
+1316,1033252,R,natural,the violin leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the violin backs it,the violin takes the lead line and the acoustic guitar plays the supporting part,consistent
+1315,1033252,R,strict,the violin plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the violin accompanies,"the melody is carried by the violin, with the acoustic guitar providing accompaniment",consistent
+1318,1036934,R,natural,the synth leads with the tune as the bass backs it,the bass leads with the tune as the synth backs it,the synth takes the lead line and the bass plays the supporting part,consistent
+1317,1036934,R,strict,the synth plays the melody while the bass accompanies,the bass plays the melody while the synth accompanies,"the melody is carried by the synth, with the bass providing accompaniment",consistent
+1320,103892,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1319,103892,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1322,1053845,R,natural,the violin leads with the tune as the synth backs it,the synth leads with the tune as the violin backs it,the violin takes the lead line and the synth plays the supporting part,violating
+1321,1053845,R,strict,the violin plays the melody while the synth accompanies,the synth plays the melody while the violin accompanies,"the melody is carried by the violin, with the synth providing accompaniment",violating
+1324,1055022,R,natural,the cello leads with the tune as the piano backs it,the piano leads with the tune as the cello backs it,the cello takes the lead line and the piano plays the supporting part,violating
+1323,1055022,R,strict,the cello plays the melody while the piano accompanies,the piano plays the melody while the cello accompanies,"the melody is carried by the cello, with the piano providing accompaniment",violating
+1326,1060600,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1325,1060600,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1328,1068667,R,natural,the piano leads with the tune as the synth backs it,the synth leads with the tune as the piano backs it,the piano takes the lead line and the synth plays the supporting part,unknown
+1327,1068667,R,strict,the piano plays the melody while the synth accompanies,the synth plays the melody while the piano accompanies,"the melody is carried by the piano, with the synth providing accompaniment",unknown
+1330,1068668,R,natural,the violin leads with the tune as the piano backs it,the piano leads with the tune as the violin backs it,the violin takes the lead line and the piano plays the supporting part,violating
+1329,1068668,R,strict,the violin plays the melody while the piano accompanies,the piano plays the melody while the violin accompanies,"the melody is carried by the violin, with the piano providing accompaniment",violating
+1332,1068671,R,natural,the violin leads with the tune as the piano backs it,the piano leads with the tune as the violin backs it,the violin takes the lead line and the piano plays the supporting part,violating
+1331,1068671,R,strict,the violin plays the melody while the piano accompanies,the piano plays the melody while the violin accompanies,"the melody is carried by the violin, with the piano providing accompaniment",violating
+1334,1093795,R,natural,the synth leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the synth backs it,the synth takes the lead line and the acoustic guitar plays the supporting part,consistent
+1333,1093795,R,strict,the synth plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the synth accompanies,"the melody is carried by the synth, with the acoustic guitar providing accompaniment",consistent
+1336,1097943,R,natural,the synth leads with the tune as the bass backs it,the bass leads with the tune as the synth backs it,the synth takes the lead line and the bass plays the supporting part,consistent
+1335,1097943,R,strict,the synth plays the melody while the bass accompanies,the bass plays the melody while the synth accompanies,"the melody is carried by the synth, with the bass providing accompaniment",consistent
+1338,1107251,R,natural,the electric guitar leads with the tune as the synth backs it,the synth leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the synth plays the supporting part,violating
+1337,1107251,R,strict,the electric guitar plays the melody while the synth accompanies,the synth plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the synth providing accompaniment",violating
+1340,1119403,R,natural,the strings leads with the tune as the piano backs it,the piano leads with the tune as the strings backs it,the strings takes the lead line and the piano plays the supporting part,violating
+1339,1119403,R,strict,the strings plays the melody while the piano accompanies,the piano plays the melody while the strings accompanies,"the melody is carried by the strings, with the piano providing accompaniment",violating
+1342,111962,R,natural,the piano leads with the tune as the bass backs it,the bass leads with the tune as the piano backs it,the piano takes the lead line and the bass plays the supporting part,consistent
+1341,111962,R,strict,the piano plays the melody while the bass accompanies,the bass plays the melody while the piano accompanies,"the melody is carried by the piano, with the bass providing accompaniment",consistent
+1344,1125375,R,natural,the violin leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the violin backs it,the violin takes the lead line and the acoustic guitar plays the supporting part,consistent
+1343,1125375,R,strict,the violin plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the violin accompanies,"the melody is carried by the violin, with the acoustic guitar providing accompaniment",consistent
+1346,1134446,R,natural,the synth leads with the tune as the bass backs it,the bass leads with the tune as the synth backs it,the synth takes the lead line and the bass plays the supporting part,consistent
+1345,1134446,R,strict,the synth plays the melody while the bass accompanies,the bass plays the melody while the synth accompanies,"the melody is carried by the synth, with the bass providing accompaniment",consistent
+1348,1135054,R,natural,the flute leads with the tune as the strings backs it,the strings leads with the tune as the flute backs it,the flute takes the lead line and the strings plays the supporting part,violating
+1347,1135054,R,strict,the flute plays the melody while the strings accompanies,the strings plays the melody while the flute accompanies,"the melody is carried by the flute, with the strings providing accompaniment",violating
+1350,1135703,R,natural,the synth leads with the tune as the guitar backs it,the guitar leads with the tune as the synth backs it,the synth takes the lead line and the guitar plays the supporting part,consistent
+1349,1135703,R,strict,the synth plays the melody while the guitar accompanies,the guitar plays the melody while the synth accompanies,"the melody is carried by the synth, with the guitar providing accompaniment",consistent
+1352,1138689,R,natural,the electric guitar leads with the tune as the ukulele backs it,the ukulele leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the ukulele plays the supporting part,consistent
+1351,1138689,R,strict,the electric guitar plays the melody while the ukulele accompanies,the ukulele plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the ukulele providing accompaniment",consistent
+1354,1138697,R,natural,the harmonica leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the harmonica backs it,the harmonica takes the lead line and the acoustic guitar plays the supporting part,consistent
+1353,1138697,R,strict,the harmonica plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the harmonica accompanies,"the melody is carried by the harmonica, with the acoustic guitar providing accompaniment",consistent
+1356,1143013,R,natural,the synth leads with the tune as the ukulele backs it,the ukulele leads with the tune as the synth backs it,the synth takes the lead line and the ukulele plays the supporting part,consistent
+1355,1143013,R,strict,the synth plays the melody while the ukulele accompanies,the ukulele plays the melody while the synth accompanies,"the melody is carried by the synth, with the ukulele providing accompaniment",consistent
+1358,1151409,R,natural,the flute leads with the tune as the harp backs it,the harp leads with the tune as the flute backs it,the flute takes the lead line and the harp plays the supporting part,consistent
+1357,1151409,R,strict,the flute plays the melody while the harp accompanies,the harp plays the melody while the flute accompanies,"the melody is carried by the flute, with the harp providing accompaniment",consistent
+1360,1162103,R,natural,the strings leads with the tune as the bass backs it,the bass leads with the tune as the strings backs it,the strings takes the lead line and the bass plays the supporting part,violating
+1359,1162103,R,strict,the strings plays the melody while the bass accompanies,the bass plays the melody while the strings accompanies,"the melody is carried by the strings, with the bass providing accompaniment",violating
+1362,1162697,R,natural,the electric guitar leads with the tune as the ukulele backs it,the ukulele leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the ukulele plays the supporting part,consistent
+1361,1162697,R,strict,the electric guitar plays the melody while the ukulele accompanies,the ukulele plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the ukulele providing accompaniment",consistent
+1364,1163322,R,natural,the saxophone leads with the tune as the organ backs it,the organ leads with the tune as the saxophone backs it,the saxophone takes the lead line and the organ plays the supporting part,consistent
+1363,1163322,R,strict,the saxophone plays the melody while the organ accompanies,the organ plays the melody while the saxophone accompanies,"the melody is carried by the saxophone, with the organ providing accompaniment",consistent
+1366,1170729,R,natural,the piano leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the piano backs it,the piano takes the lead line and the acoustic guitar plays the supporting part,consistent
+1365,1170729,R,strict,the piano plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the piano accompanies,"the melody is carried by the piano, with the acoustic guitar providing accompaniment",consistent
+1368,1173652,R,natural,the flute leads with the tune as the strings backs it,the strings leads with the tune as the flute backs it,the flute takes the lead line and the strings plays the supporting part,violating
+1367,1173652,R,strict,the flute plays the melody while the strings accompanies,the strings plays the melody while the flute accompanies,"the melody is carried by the flute, with the strings providing accompaniment",violating
+1370,11751,R,natural,the electric guitar leads with the tune as the electric piano backs it,the electric piano leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the electric piano plays the supporting part,consistent
+1369,11751,R,strict,the electric guitar plays the melody while the electric piano accompanies,the electric piano plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the electric piano providing accompaniment",consistent
+1372,1176716,R,natural,the electric guitar leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the acoustic guitar plays the supporting part,consistent
+1371,1176716,R,strict,the electric guitar plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the acoustic guitar providing accompaniment",consistent
+1374,1180601,R,natural,the synth leads with the tune as the percussion backs it,the percussion leads with the tune as the synth backs it,the synth takes the lead line and the percussion plays the supporting part,consistent
+1373,1180601,R,strict,the synth plays the melody while the percussion accompanies,the percussion plays the melody while the synth accompanies,"the melody is carried by the synth, with the percussion providing accompaniment",consistent
+1376,1194311,R,natural,the acoustic guitar leads with the tune as the piano backs it,the piano leads with the tune as the acoustic guitar backs it,the acoustic guitar takes the lead line and the piano plays the supporting part,violating
+1375,1194311,R,strict,the acoustic guitar plays the melody while the piano accompanies,the piano plays the melody while the acoustic guitar accompanies,"the melody is carried by the acoustic guitar, with the piano providing accompaniment",violating
+1378,1194312,R,natural,the synth leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the synth backs it,the synth takes the lead line and the acoustic guitar plays the supporting part,consistent
+1377,1194312,R,strict,the synth plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the synth accompanies,"the melody is carried by the synth, with the acoustic guitar providing accompaniment",consistent
+1380,1194314,R,natural,the bass leads with the tune as the piano backs it,the piano leads with the tune as the bass backs it,the bass takes the lead line and the piano plays the supporting part,violating
+1379,1194314,R,strict,the bass plays the melody while the piano accompanies,the piano plays the melody while the bass accompanies,"the melody is carried by the bass, with the piano providing accompaniment",violating
+1382,1194315,R,natural,the choir leads with the tune as the bass backs it,the bass leads with the tune as the choir backs it,the choir takes the lead line and the bass plays the supporting part,violating
+1381,1194315,R,strict,the choir plays the melody while the bass accompanies,the bass plays the melody while the choir accompanies,"the melody is carried by the choir, with the bass providing accompaniment",violating
+1384,1210715,R,natural,the synth leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the synth backs it,the synth takes the lead line and the acoustic guitar plays the supporting part,consistent
+1383,1210715,R,strict,the synth plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the synth accompanies,"the melody is carried by the synth, with the acoustic guitar providing accompaniment",consistent
+1386,1210721,R,natural,the synth leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the synth backs it,the synth takes the lead line and the acoustic guitar plays the supporting part,consistent
+1385,1210721,R,strict,the synth plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the synth accompanies,"the melody is carried by the synth, with the acoustic guitar providing accompaniment",consistent
+1388,1221997,R,natural,the flute leads with the tune as the harp backs it,the harp leads with the tune as the flute backs it,the flute takes the lead line and the harp plays the supporting part,consistent
+1387,1221997,R,strict,the flute plays the melody while the harp accompanies,the harp plays the melody while the flute accompanies,"the melody is carried by the flute, with the harp providing accompaniment",consistent
+1390,12305,R,natural,the trumpet leads with the tune as the electric guitar backs it,the electric guitar leads with the tune as the trumpet backs it,the trumpet takes the lead line and the electric guitar plays the supporting part,violating
+1389,12305,R,strict,the trumpet plays the melody while the electric guitar accompanies,the electric guitar plays the melody while the trumpet accompanies,"the melody is carried by the trumpet, with the electric guitar providing accompaniment",violating
+1392,1239507,R,natural,the piano leads with the tune as the bass backs it,the bass leads with the tune as the piano backs it,the piano takes the lead line and the bass plays the supporting part,consistent
+1391,1239507,R,strict,the piano plays the melody while the bass accompanies,the bass plays the melody while the piano accompanies,"the melody is carried by the piano, with the bass providing accompaniment",consistent
+1394,1241778,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1393,1241778,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1396,1245191,R,natural,the piano leads with the tune as the percussion backs it,the percussion leads with the tune as the piano backs it,the piano takes the lead line and the percussion plays the supporting part,consistent
+1395,1245191,R,strict,the piano plays the melody while the percussion accompanies,the percussion plays the melody while the piano accompanies,"the melody is carried by the piano, with the percussion providing accompaniment",consistent
+1398,1267288,R,natural,the electric guitar leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the acoustic guitar plays the supporting part,consistent
+1397,1267288,R,strict,the electric guitar plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the acoustic guitar providing accompaniment",consistent
+1400,1269561,R,natural,the violin leads with the tune as the bass backs it,the bass leads with the tune as the violin backs it,the violin takes the lead line and the bass plays the supporting part,violating
+1399,1269561,R,strict,the violin plays the melody while the bass accompanies,the bass plays the melody while the violin accompanies,"the melody is carried by the violin, with the bass providing accompaniment",violating
+1402,1293996,R,natural,the harmonica leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the harmonica backs it,the harmonica takes the lead line and the acoustic guitar plays the supporting part,consistent
+1401,1293996,R,strict,the harmonica plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the harmonica accompanies,"the melody is carried by the harmonica, with the acoustic guitar providing accompaniment",consistent
+1404,1294741,R,natural,the synth leads with the tune as the piano backs it,the piano leads with the tune as the synth backs it,the synth takes the lead line and the piano plays the supporting part,unknown
+1403,1294741,R,strict,the synth plays the melody while the piano accompanies,the piano plays the melody while the synth accompanies,"the melody is carried by the synth, with the piano providing accompaniment",unknown
+1406,1294750,R,natural,the trumpet leads with the tune as the piano backs it,the piano leads with the tune as the trumpet backs it,the trumpet takes the lead line and the piano plays the supporting part,violating
+1405,1294750,R,strict,the trumpet plays the melody while the piano accompanies,the piano plays the melody while the trumpet accompanies,"the melody is carried by the trumpet, with the piano providing accompaniment",violating
+1408,1296198,R,natural,the electric guitar leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the acoustic guitar plays the supporting part,consistent
+1407,1296198,R,strict,the electric guitar plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the acoustic guitar providing accompaniment",consistent
+1410,1296596,R,natural,the electric guitar leads with the tune as the piano backs it,the piano leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the piano plays the supporting part,violating
+1409,1296596,R,strict,the electric guitar plays the melody while the piano accompanies,the piano plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the piano providing accompaniment",violating
+1412,1304475,R,natural,the synth leads with the tune as the bass backs it,the bass leads with the tune as the synth backs it,the synth takes the lead line and the bass plays the supporting part,consistent
+1411,1304475,R,strict,the synth plays the melody while the bass accompanies,the bass plays the melody while the synth accompanies,"the melody is carried by the synth, with the bass providing accompaniment",consistent
+1414,1307838,R,natural,the electric guitar leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the acoustic guitar plays the supporting part,consistent
+1413,1307838,R,strict,the electric guitar plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the acoustic guitar providing accompaniment",consistent
+1416,1315725,R,natural,the electric guitar leads with the tune as the synth backs it,the synth leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the synth plays the supporting part,violating
+1415,1315725,R,strict,the electric guitar plays the melody while the synth accompanies,the synth plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the synth providing accompaniment",violating
+1418,1318704,R,natural,the saxophone leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the saxophone backs it,the saxophone takes the lead line and the acoustic guitar plays the supporting part,consistent
+1417,1318704,R,strict,the saxophone plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the saxophone accompanies,"the melody is carried by the saxophone, with the acoustic guitar providing accompaniment",consistent
+1420,132868,R,natural,the piano leads with the tune as the synth backs it,the synth leads with the tune as the piano backs it,the piano takes the lead line and the synth plays the supporting part,unknown
+1419,132868,R,strict,the piano plays the melody while the synth accompanies,the synth plays the melody while the piano accompanies,"the melody is carried by the piano, with the synth providing accompaniment",unknown
+1422,1347915,R,natural,the flute leads with the tune as the organ backs it,the organ leads with the tune as the flute backs it,the flute takes the lead line and the organ plays the supporting part,consistent
+1421,1347915,R,strict,the flute plays the melody while the organ accompanies,the organ plays the melody while the flute accompanies,"the melody is carried by the flute, with the organ providing accompaniment",consistent
+1424,1356313,R,natural,the piano leads with the tune as the electric guitar backs it,the electric guitar leads with the tune as the piano backs it,the piano takes the lead line and the electric guitar plays the supporting part,consistent
+1423,1356313,R,strict,the piano plays the melody while the electric guitar accompanies,the electric guitar plays the melody while the piano accompanies,"the melody is carried by the piano, with the electric guitar providing accompaniment",consistent
+1426,1356349,R,natural,the electric guitar leads with the tune as the drums backs it,the drums leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the drums plays the supporting part,consistent
+1425,1356349,R,strict,the electric guitar plays the melody while the drums accompanies,the drums plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the drums providing accompaniment",consistent
+1428,135658,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1427,135658,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1430,135660,R,natural,the synth leads with the tune as the drums backs it,the drums leads with the tune as the synth backs it,the synth takes the lead line and the drums plays the supporting part,consistent
+1429,135660,R,strict,the synth plays the melody while the drums accompanies,the drums plays the melody while the synth accompanies,"the melody is carried by the synth, with the drums providing accompaniment",consistent
+1432,1357118,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1431,1357118,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1434,1357132,R,natural,the electric guitar leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the acoustic guitar plays the supporting part,consistent
+1433,1357132,R,strict,the electric guitar plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the acoustic guitar providing accompaniment",consistent
+1436,1386744,R,natural,the saxophone leads with the tune as the electric piano backs it,the electric piano leads with the tune as the saxophone backs it,the saxophone takes the lead line and the electric piano plays the supporting part,consistent
+1435,1386744,R,strict,the saxophone plays the melody while the electric piano accompanies,the electric piano plays the melody while the saxophone accompanies,"the melody is carried by the saxophone, with the electric piano providing accompaniment",consistent
+1438,1402647,R,natural,the strings leads with the tune as the piano backs it,the piano leads with the tune as the strings backs it,the strings takes the lead line and the piano plays the supporting part,violating
+1437,1402647,R,strict,the strings plays the melody while the piano accompanies,the piano plays the melody while the strings accompanies,"the melody is carried by the strings, with the piano providing accompaniment",violating
+1440,1408401,R,natural,the saxophone leads with the tune as the piano backs it,the piano leads with the tune as the saxophone backs it,the saxophone takes the lead line and the piano plays the supporting part,violating
+1439,1408401,R,strict,the saxophone plays the melody while the piano accompanies,the piano plays the melody while the saxophone accompanies,"the melody is carried by the saxophone, with the piano providing accompaniment",violating
+1442,145945,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1441,145945,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1444,145968,R,natural,the acoustic guitar leads with the tune as the synth backs it,the synth leads with the tune as the acoustic guitar backs it,the acoustic guitar takes the lead line and the synth plays the supporting part,violating
+1443,145968,R,strict,the acoustic guitar plays the melody while the synth accompanies,the synth plays the melody while the acoustic guitar accompanies,"the melody is carried by the acoustic guitar, with the synth providing accompaniment",violating
+1446,181440,R,natural,the electric guitar leads with the tune as the drums backs it,the drums leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the drums plays the supporting part,consistent
+1445,181440,R,strict,the electric guitar plays the melody while the drums accompanies,the drums plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the drums providing accompaniment",consistent
+1448,201905,R,natural,the acoustic guitar leads with the tune as the piano backs it,the piano leads with the tune as the acoustic guitar backs it,the acoustic guitar takes the lead line and the piano plays the supporting part,violating
+1447,201905,R,strict,the acoustic guitar plays the melody while the piano accompanies,the piano plays the melody while the acoustic guitar accompanies,"the melody is carried by the acoustic guitar, with the piano providing accompaniment",violating
+1450,206578,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1449,206578,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1452,206596,R,natural,the flute leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the flute backs it,the flute takes the lead line and the acoustic guitar plays the supporting part,consistent
+1451,206596,R,strict,the flute plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the flute accompanies,"the melody is carried by the flute, with the acoustic guitar providing accompaniment",consistent
+1454,242384,R,natural,the strings leads with the tune as the piano backs it,the piano leads with the tune as the strings backs it,the strings takes the lead line and the piano plays the supporting part,violating
+1453,242384,R,strict,the strings plays the melody while the piano accompanies,the piano plays the melody while the strings accompanies,"the melody is carried by the strings, with the piano providing accompaniment",violating
+1456,243172,R,natural,the flute leads with the tune as the piano backs it,the piano leads with the tune as the flute backs it,the flute takes the lead line and the piano plays the supporting part,violating
+1455,243172,R,strict,the flute plays the melody while the piano accompanies,the piano plays the melody while the flute accompanies,"the melody is carried by the flute, with the piano providing accompaniment",violating
+1458,25555,R,natural,the bass leads with the tune as the drums backs it,the drums leads with the tune as the bass backs it,the bass takes the lead line and the drums plays the supporting part,consistent
+1457,25555,R,strict,the bass plays the melody while the drums accompanies,the drums plays the melody while the bass accompanies,"the melody is carried by the bass, with the drums providing accompaniment",consistent
+1460,259288,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1459,259288,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1462,260839,R,natural,the piano leads with the tune as the harmonica backs it,the harmonica leads with the tune as the piano backs it,the piano takes the lead line and the harmonica plays the supporting part,consistent
+1461,260839,R,strict,the piano plays the melody while the harmonica accompanies,the harmonica plays the melody while the piano accompanies,"the melody is carried by the piano, with the harmonica providing accompaniment",consistent
+1464,261271,R,natural,the electric guitar leads with the tune as the piano backs it,the piano leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the piano plays the supporting part,violating
+1463,261271,R,strict,the electric guitar plays the melody while the piano accompanies,the piano plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the piano providing accompaniment",violating
+1466,285485,R,natural,the violin leads with the tune as the cello backs it,the cello leads with the tune as the violin backs it,the violin takes the lead line and the cello plays the supporting part,consistent
+1465,285485,R,strict,the violin plays the melody while the cello accompanies,the cello plays the melody while the violin accompanies,"the melody is carried by the violin, with the cello providing accompaniment",consistent
+1468,296236,R,natural,the harmonica leads with the tune as the percussion backs it,the percussion leads with the tune as the harmonica backs it,the harmonica takes the lead line and the percussion plays the supporting part,violating
+1467,296236,R,strict,the harmonica plays the melody while the percussion accompanies,the percussion plays the melody while the harmonica accompanies,"the melody is carried by the harmonica, with the percussion providing accompaniment",violating
+1470,296237,R,natural,the piano leads with the tune as the strings backs it,the strings leads with the tune as the piano backs it,the piano takes the lead line and the strings plays the supporting part,consistent
+1469,296237,R,strict,the piano plays the melody while the strings accompanies,the strings plays the melody while the piano accompanies,"the melody is carried by the piano, with the strings providing accompaniment",consistent
+1472,307395,R,natural,the violin leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the violin backs it,the violin takes the lead line and the acoustic guitar plays the supporting part,consistent
+1471,307395,R,strict,the violin plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the violin accompanies,"the melody is carried by the violin, with the acoustic guitar providing accompaniment",consistent
+1474,313059,R,natural,the acoustic guitar leads with the tune as the synth backs it,the synth leads with the tune as the acoustic guitar backs it,the acoustic guitar takes the lead line and the synth plays the supporting part,violating
+1473,313059,R,strict,the acoustic guitar plays the melody while the synth accompanies,the synth plays the melody while the acoustic guitar accompanies,"the melody is carried by the acoustic guitar, with the synth providing accompaniment",violating
+1476,323090,R,natural,the acoustic guitar leads with the tune as the piano backs it,the piano leads with the tune as the acoustic guitar backs it,the acoustic guitar takes the lead line and the piano plays the supporting part,violating
+1475,323090,R,strict,the acoustic guitar plays the melody while the piano accompanies,the piano plays the melody while the acoustic guitar accompanies,"the melody is carried by the acoustic guitar, with the piano providing accompaniment",violating
+1478,33836,R,natural,the flute leads with the tune as the bass backs it,the bass leads with the tune as the flute backs it,the flute takes the lead line and the bass plays the supporting part,violating
+1477,33836,R,strict,the flute plays the melody while the bass accompanies,the bass plays the melody while the flute accompanies,"the melody is carried by the flute, with the bass providing accompaniment",violating
+1480,348881,R,natural,the synth leads with the tune as the harp backs it,the harp leads with the tune as the synth backs it,the synth takes the lead line and the harp plays the supporting part,consistent
+1479,348881,R,strict,the synth plays the melody while the harp accompanies,the harp plays the melody while the synth accompanies,"the melody is carried by the synth, with the harp providing accompaniment",consistent
+1482,35349,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1481,35349,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1484,35350,R,natural,the electric guitar leads with the tune as the piano backs it,the piano leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the piano plays the supporting part,violating
+1483,35350,R,strict,the electric guitar plays the melody while the piano accompanies,the piano plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the piano providing accompaniment",violating
+1486,357192,R,natural,the harmonica leads with the tune as the bass backs it,the bass leads with the tune as the harmonica backs it,the harmonica takes the lead line and the bass plays the supporting part,violating
+1485,357192,R,strict,the harmonica plays the melody while the bass accompanies,the bass plays the melody while the harmonica accompanies,"the melody is carried by the harmonica, with the bass providing accompaniment",violating
+1488,357273,R,natural,the harmonica leads with the tune as the bass backs it,the bass leads with the tune as the harmonica backs it,the harmonica takes the lead line and the bass plays the supporting part,violating
+1487,357273,R,strict,the harmonica plays the melody while the bass accompanies,the bass plays the melody while the harmonica accompanies,"the melody is carried by the harmonica, with the bass providing accompaniment",violating
+1490,357314,R,natural,the trumpet leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the trumpet backs it,the trumpet takes the lead line and the acoustic guitar plays the supporting part,consistent
+1489,357314,R,strict,the trumpet plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the trumpet accompanies,"the melody is carried by the trumpet, with the acoustic guitar providing accompaniment",consistent
+1492,357330,R,natural,the harmonica leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the harmonica backs it,the harmonica takes the lead line and the acoustic guitar plays the supporting part,consistent
+1491,357330,R,strict,the harmonica plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the harmonica accompanies,"the melody is carried by the harmonica, with the acoustic guitar providing accompaniment",consistent
+1494,357365,R,natural,the trumpet leads with the tune as the bass backs it,the bass leads with the tune as the trumpet backs it,the trumpet takes the lead line and the bass plays the supporting part,violating
+1493,357365,R,strict,the trumpet plays the melody while the bass accompanies,the bass plays the melody while the trumpet accompanies,"the melody is carried by the trumpet, with the bass providing accompaniment",violating
+1496,357387,R,natural,the trumpet leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the trumpet backs it,the trumpet takes the lead line and the acoustic guitar plays the supporting part,consistent
+1495,357387,R,strict,the trumpet plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the trumpet accompanies,"the melody is carried by the trumpet, with the acoustic guitar providing accompaniment",consistent
+1498,366014,R,natural,the electric guitar leads with the tune as the piano backs it,the piano leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the piano plays the supporting part,violating
+1497,366014,R,strict,the electric guitar plays the melody while the piano accompanies,the piano plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the piano providing accompaniment",violating
+1500,371237,R,natural,the strings leads with the tune as the guitar backs it,the guitar leads with the tune as the strings backs it,the strings takes the lead line and the guitar plays the supporting part,violating
+1499,371237,R,strict,the strings plays the melody while the guitar accompanies,the guitar plays the melody while the strings accompanies,"the melody is carried by the strings, with the guitar providing accompaniment",violating
+1502,376419,R,natural,the acoustic guitar leads with the tune as the synth backs it,the synth leads with the tune as the acoustic guitar backs it,the acoustic guitar takes the lead line and the synth plays the supporting part,violating
+1501,376419,R,strict,the acoustic guitar plays the melody while the synth accompanies,the synth plays the melody while the acoustic guitar accompanies,"the melody is carried by the acoustic guitar, with the synth providing accompaniment",violating
+1504,387501,R,natural,the electric guitar leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the acoustic guitar plays the supporting part,consistent
+1503,387501,R,strict,the electric guitar plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the acoustic guitar providing accompaniment",consistent
+1506,387516,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1505,387516,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1508,39102,R,natural,the electric guitar leads with the tune as the drums backs it,the drums leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the drums plays the supporting part,consistent
+1507,39102,R,strict,the electric guitar plays the melody while the drums accompanies,the drums plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the drums providing accompaniment",consistent
+1510,402056,R,natural,the flute leads with the tune as the harp backs it,the harp leads with the tune as the flute backs it,the flute takes the lead line and the harp plays the supporting part,consistent
+1509,402056,R,strict,the flute plays the melody while the harp accompanies,the harp plays the melody while the flute accompanies,"the melody is carried by the flute, with the harp providing accompaniment",consistent
+1512,40279,R,natural,the synth leads with the tune as the bass backs it,the bass leads with the tune as the synth backs it,the synth takes the lead line and the bass plays the supporting part,consistent
+1511,40279,R,strict,the synth plays the melody while the bass accompanies,the bass plays the melody while the synth accompanies,"the melody is carried by the synth, with the bass providing accompaniment",consistent
+1514,415596,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1513,415596,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1516,415605,R,natural,the synth leads with the tune as the bass backs it,the bass leads with the tune as the synth backs it,the synth takes the lead line and the bass plays the supporting part,consistent
+1515,415605,R,strict,the synth plays the melody while the bass accompanies,the bass plays the melody while the synth accompanies,"the melody is carried by the synth, with the bass providing accompaniment",consistent
+1518,416358,R,natural,the strings leads with the tune as the synth backs it,the synth leads with the tune as the strings backs it,the strings takes the lead line and the synth plays the supporting part,violating
+1517,416358,R,strict,the strings plays the melody while the synth accompanies,the synth plays the melody while the strings accompanies,"the melody is carried by the strings, with the synth providing accompaniment",violating
+1520,428529,R,natural,the piano leads with the tune as the bass backs it,the bass leads with the tune as the piano backs it,the piano takes the lead line and the bass plays the supporting part,consistent
+1519,428529,R,strict,the piano plays the melody while the bass accompanies,the bass plays the melody while the piano accompanies,"the melody is carried by the piano, with the bass providing accompaniment",consistent
+1522,437792,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1521,437792,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1524,437795,R,natural,the violin leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the violin backs it,the violin takes the lead line and the acoustic guitar plays the supporting part,consistent
+1523,437795,R,strict,the violin plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the violin accompanies,"the melody is carried by the violin, with the acoustic guitar providing accompaniment",consistent
+1526,43886,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1525,43886,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1528,450989,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1527,450989,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1530,457078,R,natural,the piano leads with the tune as the bass backs it,the bass leads with the tune as the piano backs it,the piano takes the lead line and the bass plays the supporting part,consistent
+1529,457078,R,strict,the piano plays the melody while the bass accompanies,the bass plays the melody while the piano accompanies,"the melody is carried by the piano, with the bass providing accompaniment",consistent
+1532,457119,R,natural,the guitar leads with the tune as the trumpet backs it,the trumpet leads with the tune as the guitar backs it,the guitar takes the lead line and the trumpet plays the supporting part,consistent
+1531,457119,R,strict,the guitar plays the melody while the trumpet accompanies,the trumpet plays the melody while the guitar accompanies,"the melody is carried by the guitar, with the trumpet providing accompaniment",consistent
+1534,458252,R,natural,the violin leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the violin backs it,the violin takes the lead line and the acoustic guitar plays the supporting part,consistent
+1533,458252,R,strict,the violin plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the violin accompanies,"the melody is carried by the violin, with the acoustic guitar providing accompaniment",consistent
+1536,461012,R,natural,the electric guitar leads with the tune as the synth backs it,the synth leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the synth plays the supporting part,violating
+1535,461012,R,strict,the electric guitar plays the melody while the synth accompanies,the synth plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the synth providing accompaniment",violating
+1538,461018,R,natural,the electric guitar leads with the tune as the piano backs it,the piano leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the piano plays the supporting part,violating
+1537,461018,R,strict,the electric guitar plays the melody while the piano accompanies,the piano plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the piano providing accompaniment",violating
+1540,48721,R,natural,the electric guitar leads with the tune as the bass backs it,the bass leads with the tune as the electric guitar backs it,the electric guitar takes the lead line and the bass plays the supporting part,consistent
+1539,48721,R,strict,the electric guitar plays the melody while the bass accompanies,the bass plays the melody while the electric guitar accompanies,"the melody is carried by the electric guitar, with the bass providing accompaniment",consistent
+1542,4883,R,natural,the flute leads with the tune as the percussion backs it,the percussion leads with the tune as the flute backs it,the flute takes the lead line and the percussion plays the supporting part,violating
+1541,4883,R,strict,the flute plays the melody while the percussion accompanies,the percussion plays the melody while the flute accompanies,"the melody is carried by the flute, with the percussion providing accompaniment",violating
+1544,500970,R,natural,the synth leads with the tune as the bass backs it,the bass leads with the tune as the synth backs it,the synth takes the lead line and the bass plays the supporting part,consistent
+1543,500970,R,strict,the synth plays the melody while the bass accompanies,the bass plays the melody while the synth accompanies,"the melody is carried by the synth, with the bass providing accompaniment",consistent
+1546,5084,R,natural,the organ leads with the tune as the bass backs it,the bass leads with the tune as the organ backs it,the organ takes the lead line and the bass plays the supporting part,violating
+1545,5084,R,strict,the organ plays the melody while the bass accompanies,the bass plays the melody while the organ accompanies,"the melody is carried by the organ, with the bass providing accompaniment",violating
+1548,5339,R,natural,the synth leads with the tune as the electric guitar backs it,the electric guitar leads with the tune as the synth backs it,the synth takes the lead line and the electric guitar plays the supporting part,consistent
+1547,5339,R,strict,the synth plays the melody while the electric guitar accompanies,the electric guitar plays the melody while the synth accompanies,"the melody is carried by the synth, with the electric guitar providing accompaniment",consistent
+1550,5340,R,natural,the strings leads with the tune as the piano backs it,the piano leads with the tune as the strings backs it,the strings takes the lead line and the piano plays the supporting part,violating
+1549,5340,R,strict,the strings plays the melody while the piano accompanies,the piano plays the melody while the strings accompanies,"the melody is carried by the strings, with the piano providing accompaniment",violating
+1552,537118,R,natural,the saxophone leads with the tune as the electric guitar backs it,the electric guitar leads with the tune as the saxophone backs it,the saxophone takes the lead line and the electric guitar plays the supporting part,violating
+1551,537118,R,strict,the saxophone plays the melody while the electric guitar accompanies,the electric guitar plays the melody while the saxophone accompanies,"the melody is carried by the saxophone, with the electric guitar providing accompaniment",violating
+1554,579644,R,natural,the piano leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the piano backs it,the piano takes the lead line and the acoustic guitar plays the supporting part,consistent
+1553,579644,R,strict,the piano plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the piano accompanies,"the melody is carried by the piano, with the acoustic guitar providing accompaniment",consistent
+1556,599226,R,natural,the violin leads with the tune as the acoustic guitar backs it,the acoustic guitar leads with the tune as the violin backs it,the violin takes the lead line and the acoustic guitar plays the supporting part,consistent
+1555,599226,R,strict,the violin plays the melody while the acoustic guitar accompanies,the acoustic guitar plays the melody while the violin accompanies,"the melody is carried by the violin, with the acoustic guitar providing accompaniment",consistent
+1032,1009674,T,natural,the synth sounds ambient while the bass is punchy,the synth sounds punchy while the bass is ambient,"the synth comes across as atmospheric, the bass as percussive",violating
+1031,1009674,T,strict,a ambient synth and a punchy bass,a punchy synth and a ambient bass,an atmospheric synth over a percussive bass,violating
+1034,101006,T,natural,the harmonica sounds bright while the acoustic guitar is soft,the harmonica sounds soft while the acoustic guitar is bright,"the harmonica comes across as trebly, the acoustic guitar as softly played",unknown
+1033,101006,T,strict,a bright harmonica and a soft acoustic guitar,a soft harmonica and a bright acoustic guitar,an trebly harmonica over a softly played acoustic guitar,unknown
+1036,103089,T,natural,the electric guitar sounds distorted while the synth is dark,the electric guitar sounds dark while the synth is distorted,"the electric guitar comes across as overdriven, the synth as muffled-toned",consistent
+1035,103089,T,strict,a distorted electric guitar and a dark synth,a dark electric guitar and a distorted synth,an overdriven electric guitar over a muffled-toned synth,consistent
+1038,103892,T,natural,the electric guitar sounds mellow while the bass is warm,the electric guitar sounds warm while the bass is mellow,"the electric guitar comes across as gentle-toned, the bass as rounded",consistent
+1037,103892,T,strict,a mellow electric guitar and a warm bass,a warm electric guitar and a mellow bass,an gentle-toned electric guitar over a rounded bass,consistent
+1040,1053845,T,natural,the violin sounds mellow while the synth is punchy,the violin sounds punchy while the synth is mellow,"the violin comes across as gentle-toned, the synth as percussive",unknown
+1039,1053845,T,strict,a mellow violin and a punchy synth,a punchy violin and a mellow synth,an gentle-toned violin over a percussive synth,unknown
+1042,1055022,T,natural,the cello sounds warm while the piano is soft,the cello sounds soft while the piano is warm,"the cello comes across as rounded, the piano as softly played",consistent
+1041,1055022,T,strict,a warm cello and a soft piano,a soft cello and a warm piano,an rounded cello over a softly played piano,consistent
+1044,1060600,T,natural,the electric guitar sounds clean while the bass is dark,the electric guitar sounds dark while the bass is clean,"the electric guitar comes across as cleanly played, the bass as muffled-toned",consistent
+1043,1060600,T,strict,a clean electric guitar and a dark bass,a dark electric guitar and a clean bass,an cleanly played electric guitar over a muffled-toned bass,consistent
+1046,1061369,T,natural,the electric guitar sounds distorted while the bass is punchy,the electric guitar sounds punchy while the bass is distorted,"the electric guitar comes across as overdriven, the bass as percussive",consistent
+1045,1061369,T,strict,a distorted electric guitar and a punchy bass,a punchy electric guitar and a distorted bass,an overdriven electric guitar over a percussive bass,consistent
+1048,1066204,T,natural,the piano sounds clean while the strings is ambient,the piano sounds ambient while the strings is clean,"the piano comes across as cleanly played, the strings as atmospheric",unknown
+1047,1066204,T,strict,a clean piano and a ambient strings,a ambient piano and a clean strings,an cleanly played piano over a atmospheric strings,unknown
+1050,1068667,T,natural,the violin sounds bright while the percussion is distorted,the violin sounds distorted while the percussion is bright,"the violin comes across as trebly, the percussion as overdriven",unknown
+1049,1068667,T,strict,a bright violin and a distorted percussion,a distorted violin and a bright percussion,an trebly violin over a overdriven percussion,unknown
+1052,1068668,T,natural,the piano sounds bright while the strings is distorted,the piano sounds distorted while the strings is bright,"the piano comes across as trebly, the strings as overdriven",consistent
+1051,1068668,T,strict,a bright piano and a distorted strings,a distorted piano and a bright strings,an trebly piano over a overdriven strings,consistent
+1054,1068671,T,natural,the piano sounds soft while the violin is bright,the piano sounds bright while the violin is soft,"the piano comes across as softly played, the violin as trebly",consistent
+1053,1068671,T,strict,a soft piano and a bright violin,a bright piano and a soft violin,an softly played piano over a trebly violin,consistent
+1056,1093792,T,natural,the piano sounds bright while the synth is smooth,the piano sounds smooth while the synth is bright,"the piano comes across as trebly, the synth as silky",consistent
+1055,1093792,T,strict,a bright piano and a smooth synth,a smooth piano and a bright synth,an trebly piano over a silky synth,consistent
+1058,1093793,T,natural,the piano sounds bright while the synth is punchy,the piano sounds punchy while the synth is bright,"the piano comes across as trebly, the synth as percussive",consistent
+1057,1093793,T,strict,a bright piano and a punchy synth,a punchy piano and a bright synth,an trebly piano over a percussive synth,consistent
+1060,1093795,T,natural,the acoustic guitar sounds soft while the synth is bouncy,the acoustic guitar sounds bouncy while the synth is soft,"the acoustic guitar comes across as softly played, the synth as springy",consistent
+1059,1093795,T,strict,a soft acoustic guitar and a bouncy synth,a bouncy acoustic guitar and a soft synth,an softly played acoustic guitar over a springy synth,consistent
+1062,1097943,T,natural,the synth sounds gritty while the bass is dark,the synth sounds dark while the bass is gritty,"the synth comes across as grainy, the bass as muffled-toned",violating
+1061,1097943,T,strict,a gritty synth and a dark bass,a dark synth and a gritty bass,an grainy synth over a muffled-toned bass,violating
+1064,1107251,T,natural,the electric guitar sounds crisp while the bass is dark,the electric guitar sounds dark while the bass is crisp,"the electric guitar comes across as sharp-edged, the bass as muffled-toned",unknown
+1063,1107251,T,strict,a crisp electric guitar and a dark bass,a dark electric guitar and a crisp bass,an sharp-edged electric guitar over a muffled-toned bass,unknown
+1066,111962,T,natural,the bass sounds dark while the piano is mellow,the bass sounds mellow while the piano is dark,"the bass comes across as muffled-toned, the piano as gentle-toned",unknown
+1065,111962,T,strict,a dark bass and a mellow piano,a mellow bass and a dark piano,an muffled-toned bass over a gentle-toned piano,unknown
+1068,1125375,T,natural,the violin sounds bright while the acoustic guitar is mellow,the violin sounds mellow while the acoustic guitar is bright,"the violin comes across as trebly, the acoustic guitar as gentle-toned",violating
+1067,1125375,T,strict,a bright violin and a mellow acoustic guitar,a mellow violin and a bright acoustic guitar,an trebly violin over a gentle-toned acoustic guitar,violating
+1070,1134446,T,natural,the piano sounds bright while the bass is punchy,the piano sounds punchy while the bass is bright,"the piano comes across as trebly, the bass as percussive",consistent
+1069,1134446,T,strict,a bright piano and a punchy bass,a punchy piano and a bright bass,an trebly piano over a percussive bass,consistent
+1072,1135703,T,natural,the synth sounds gritty while the electric guitar is clean,the synth sounds clean while the electric guitar is gritty,"the synth comes across as grainy, the electric guitar as cleanly played",consistent
+1071,1135703,T,strict,a gritty synth and a clean electric guitar,a clean synth and a gritty electric guitar,an grainy synth over a cleanly played electric guitar,consistent
+1074,1138689,T,natural,the electric guitar sounds mellow while the ukulele is bouncy,the electric guitar sounds bouncy while the ukulele is mellow,"the electric guitar comes across as gentle-toned, the ukulele as springy",unknown
+1073,1138689,T,strict,a mellow electric guitar and a bouncy ukulele,a bouncy electric guitar and a mellow ukulele,an gentle-toned electric guitar over a springy ukulele,unknown
+1076,1143013,T,natural,the acoustic guitar sounds bright while the ukulele is mellow,the acoustic guitar sounds mellow while the ukulele is bright,"the acoustic guitar comes across as trebly, the ukulele as gentle-toned",unknown
+1075,1143013,T,strict,a bright acoustic guitar and a mellow ukulele,a mellow acoustic guitar and a bright ukulele,an trebly acoustic guitar over a gentle-toned ukulele,unknown
+1078,1151409,T,natural,the electric piano sounds bright while the choral is soft,the electric piano sounds soft while the choral is bright,"the electric piano comes across as trebly, the choral as softly played",unknown
+1077,1151409,T,strict,a bright electric piano and a soft choral,a soft electric piano and a bright choral,an trebly electric piano over a softly played choral,unknown
+1080,1157361,T,natural,the synth sounds bright while the percussion is punchy,the synth sounds punchy while the percussion is bright,"the synth comes across as trebly, the percussion as percussive",unknown
+1079,1157361,T,strict,a bright synth and a punchy percussion,a punchy synth and a bright percussion,an trebly synth over a percussive percussion,unknown
+1082,1162103,T,natural,the strings sounds bright while the bass is dark,the strings sounds dark while the bass is bright,"the strings comes across as trebly, the bass as muffled-toned",unknown
+1081,1162103,T,strict,a bright strings and a dark bass,a dark strings and a bright bass,an trebly strings over a muffled-toned bass,unknown
+1084,1162697,T,natural,the glockenspiel sounds bright while the ukulele is mellow,the glockenspiel sounds mellow while the ukulele is bright,"the glockenspiel comes across as trebly, the ukulele as gentle-toned",unknown
+1083,1162697,T,strict,a bright glockenspiel and a mellow ukulele,a mellow glockenspiel and a bright ukulele,an trebly glockenspiel over a gentle-toned ukulele,unknown
+1086,1163322,T,natural,the organ sounds dark while the saxophone is warm,the organ sounds warm while the saxophone is dark,"the organ comes across as muffled-toned, the saxophone as rounded",violating
+1085,1163322,T,strict,a dark organ and a warm saxophone,a warm organ and a dark saxophone,an muffled-toned organ over a rounded saxophone,violating
+1088,1170740,T,natural,the acoustic guitar sounds bright while the piano is soft,the acoustic guitar sounds soft while the piano is bright,"the acoustic guitar comes across as trebly, the piano as softly played",unknown
+1087,1170740,T,strict,a bright acoustic guitar and a soft piano,a soft acoustic guitar and a bright piano,an trebly acoustic guitar over a softly played piano,unknown
+1090,1173652,T,natural,the bells sounds bright while the strings is wide,the bells sounds wide while the strings is bright,"the bells comes across as trebly, the strings as wide",unknown
+1089,1173652,T,strict,a bright bells and a wide strings,a wide bells and a bright strings,an trebly bells over a wide strings,unknown
+1092,11751,T,natural,the electric guitar sounds distorted while the electric piano is mellow,the electric guitar sounds mellow while the electric piano is distorted,"the electric guitar comes across as overdriven, the electric piano as gentle-toned",consistent
+1091,11751,T,strict,a distorted electric guitar and a mellow electric piano,a mellow electric guitar and a distorted electric piano,an overdriven electric guitar over a gentle-toned electric piano,consistent
+1094,1176716,T,natural,the bass sounds gritty while the synth is ambient,the bass sounds ambient while the synth is gritty,"the bass comes across as grainy, the synth as atmospheric",unknown
+1093,1176716,T,strict,a gritty bass and a ambient synth,a ambient bass and a gritty synth,an grainy bass over a atmospheric synth,unknown
+1096,1180601,T,natural,the bass sounds bouncy while the synth is bright,the bass sounds bright while the synth is bouncy,"the bass comes across as springy, the synth as trebly",consistent
+1095,1180601,T,strict,a bouncy bass and a bright synth,a bright bass and a bouncy synth,an springy bass over a trebly synth,consistent
+1098,1194311,T,natural,the acoustic guitar sounds warm while the percussion is ambient,the acoustic guitar sounds ambient while the percussion is warm,"the acoustic guitar comes across as rounded, the percussion as atmospheric",unknown
+1097,1194311,T,strict,a warm acoustic guitar and a ambient percussion,a ambient acoustic guitar and a warm percussion,an rounded acoustic guitar over a atmospheric percussion,unknown
+1100,1194312,T,natural,the bass sounds snappy while the synth is bright,the bass sounds bright while the synth is snappy,"the bass comes across as snappy, the synth as trebly",consistent
+1099,1194312,T,strict,a snappy bass and a bright synth,a bright bass and a snappy synth,an snappy bass over a trebly synth,consistent
+1102,1194314,T,natural,the acoustic guitar sounds bright while the piano is mellow,the acoustic guitar sounds mellow while the piano is bright,"the acoustic guitar comes across as trebly, the piano as gentle-toned",violating
+1101,1194314,T,strict,a bright acoustic guitar and a mellow piano,a mellow acoustic guitar and a bright piano,an trebly acoustic guitar over a gentle-toned piano,violating
+1104,1194315,T,natural,the bass sounds dark while the acoustic guitar is crisp,the bass sounds crisp while the acoustic guitar is dark,"the bass comes across as muffled-toned, the acoustic guitar as sharp-edged",unknown
+1103,1194315,T,strict,a dark bass and a crisp acoustic guitar,a crisp bass and a dark acoustic guitar,an muffled-toned bass over a sharp-edged acoustic guitar,unknown
+1106,1210715,T,natural,the acoustic guitar sounds soft while the synth is wobbly,the acoustic guitar sounds wobbly while the synth is soft,"the acoustic guitar comes across as softly played, the synth as wobbly",consistent
+1105,1210715,T,strict,a soft acoustic guitar and a wobbly synth,a wobbly acoustic guitar and a soft synth,an softly played acoustic guitar over a wobbly synth,consistent
+1108,1210721,T,natural,the synth sounds gritty while the electric guitar is clean,the synth sounds clean while the electric guitar is gritty,"the synth comes across as grainy, the electric guitar as cleanly played",consistent
+1107,1210721,T,strict,a gritty synth and a clean electric guitar,a clean synth and a gritty electric guitar,an grainy synth over a cleanly played electric guitar,consistent
+1110,1221997,T,natural,the strings sounds bright while the bass is warm,the strings sounds warm while the bass is bright,"the strings comes across as trebly, the bass as rounded",consistent
+1109,1221997,T,strict,a bright strings and a warm bass,a warm strings and a bright bass,an trebly strings over a rounded bass,consistent
+1112,12305,T,natural,the electric guitar sounds warm while the trumpet is bright,the electric guitar sounds bright while the trumpet is warm,"the electric guitar comes across as rounded, the trumpet as trebly",unknown
+1111,12305,T,strict,a warm electric guitar and a bright trumpet,a bright electric guitar and a warm trumpet,an rounded electric guitar over a trebly trumpet,unknown
+1114,1239507,T,natural,the trumpet sounds bright while the bass is dark,the trumpet sounds dark while the bass is bright,"the trumpet comes across as trebly, the bass as muffled-toned",unknown
+1113,1239507,T,strict,a bright trumpet and a dark bass,a dark trumpet and a bright bass,an trebly trumpet over a muffled-toned bass,unknown
+1116,1241778,T,natural,the electric guitar sounds crunch while the bass is bouncy,the electric guitar sounds bouncy while the bass is crunch,"the electric guitar comes across as crunch, the bass as springy",unknown
+1115,1241778,T,strict,a crunch electric guitar and a bouncy bass,a bouncy electric guitar and a crunch bass,an crunch electric guitar over a springy bass,unknown
+1118,1243198,T,natural,the electric guitar sounds bright while the bass is warm,the electric guitar sounds warm while the bass is bright,"the electric guitar comes across as trebly, the bass as rounded",consistent
+1117,1243198,T,strict,a bright electric guitar and a warm bass,a warm electric guitar and a bright bass,an trebly electric guitar over a rounded bass,consistent
+1120,124358,T,natural,the acoustic guitar sounds bright while the synth is gritty,the acoustic guitar sounds gritty while the synth is bright,"the acoustic guitar comes across as trebly, the synth as grainy",violating
+1119,124358,T,strict,a bright acoustic guitar and a gritty synth,a gritty acoustic guitar and a bright synth,an trebly acoustic guitar over a grainy synth,violating
+1122,1245186,T,natural,the organ sounds ambient while the bass is gritty,the organ sounds gritty while the bass is ambient,"the organ comes across as atmospheric, the bass as grainy",unknown
+1121,1245186,T,strict,a ambient organ and a gritty bass,a gritty organ and a ambient bass,an atmospheric organ over a grainy bass,unknown
+1124,1245191,T,natural,the bass sounds gritty while the piano is bright,the bass sounds bright while the piano is gritty,"the bass comes across as grainy, the piano as trebly",consistent
+1123,1245191,T,strict,a gritty bass and a bright piano,a bright bass and a gritty piano,an grainy bass over a trebly piano,consistent
+1126,1254630,T,natural,the electric guitar sounds clean while the drums is punchy,the electric guitar sounds punchy while the drums is clean,"the electric guitar comes across as cleanly played, the drums as percussive",consistent
+1125,1254630,T,strict,a clean electric guitar and a punchy drums,a punchy electric guitar and a clean drums,an cleanly played electric guitar over a percussive drums,consistent
+1128,1254633,T,natural,the strings sounds smooth while the acoustic guitar is warm,the strings sounds warm while the acoustic guitar is smooth,"the strings comes across as silky, the acoustic guitar as rounded",violating
+1127,1254633,T,strict,a smooth strings and a warm acoustic guitar,a warm strings and a smooth acoustic guitar,an silky strings over a rounded acoustic guitar,violating
+1130,1269561,T,natural,the bass sounds dark while the violin is bright,the bass sounds bright while the violin is dark,"the bass comes across as muffled-toned, the violin as trebly",unknown
+1129,1269561,T,strict,a dark bass and a bright violin,a bright bass and a dark violin,an muffled-toned bass over a trebly violin,unknown
+1132,1293996,T,natural,the acoustic guitar sounds warm while the harmonica is bright,the acoustic guitar sounds bright while the harmonica is warm,"the acoustic guitar comes across as rounded, the harmonica as trebly",unknown
+1131,1293996,T,strict,a warm acoustic guitar and a bright harmonica,a bright acoustic guitar and a warm harmonica,an rounded acoustic guitar over a trebly harmonica,unknown
+1134,1294741,T,natural,the bass sounds warm while the synth is ambient,the bass sounds ambient while the synth is warm,"the bass comes across as rounded, the synth as atmospheric",consistent
+1133,1294741,T,strict,a warm bass and a ambient synth,a ambient bass and a warm synth,an rounded bass over a atmospheric synth,consistent
+1136,1294750,T,natural,the electric guitar sounds gritty while the drums is punchy,the electric guitar sounds punchy while the drums is gritty,"the electric guitar comes across as grainy, the drums as percussive",consistent
+1135,1294750,T,strict,a gritty electric guitar and a punchy drums,a punchy electric guitar and a gritty drums,an grainy electric guitar over a percussive drums,consistent
+1138,1296198,T,natural,the electric guitar sounds warm while the acoustic guitar is crisp,the electric guitar sounds crisp while the acoustic guitar is warm,"the electric guitar comes across as rounded, the acoustic guitar as sharp-edged",unknown
+1137,1296198,T,strict,a warm electric guitar and a crisp acoustic guitar,a crisp electric guitar and a warm acoustic guitar,an rounded electric guitar over a sharp-edged acoustic guitar,unknown
+1140,1296596,T,natural,the strings sounds smooth while the acoustic guitar is bright,the strings sounds bright while the acoustic guitar is smooth,"the strings comes across as silky, the acoustic guitar as trebly",unknown
+1139,1296596,T,strict,a smooth strings and a bright acoustic guitar,a bright strings and a smooth acoustic guitar,an silky strings over a trebly acoustic guitar,unknown
+1142,1304475,T,natural,the synth sounds gritty while the bass is wobbly,the synth sounds wobbly while the bass is gritty,"the synth comes across as grainy, the bass as wobbly",unknown
+1141,1304475,T,strict,a gritty synth and a wobbly bass,a wobbly synth and a gritty bass,an grainy synth over a wobbly bass,unknown
+1144,1307838,T,natural,the electric guitar sounds distorted while the acoustic guitar is warm,the electric guitar sounds warm while the acoustic guitar is distorted,"the electric guitar comes across as overdriven, the acoustic guitar as rounded",consistent
+1143,1307838,T,strict,a distorted electric guitar and a warm acoustic guitar,a warm electric guitar and a distorted acoustic guitar,an overdriven electric guitar over a rounded acoustic guitar,consistent
+1146,1315725,T,natural,the electric guitar sounds clean while the synth is ambient,the electric guitar sounds ambient while the synth is clean,"the electric guitar comes across as cleanly played, the synth as atmospheric",consistent
+1145,1315725,T,strict,a clean electric guitar and a ambient synth,a ambient electric guitar and a clean synth,an cleanly played electric guitar over a atmospheric synth,consistent
+1148,1318704,T,natural,the saxophone sounds husky while the acoustic guitar is bright,the saxophone sounds bright while the acoustic guitar is husky,"the saxophone comes across as husky, the acoustic guitar as trebly",unknown
+1147,1318704,T,strict,a husky saxophone and a bright acoustic guitar,a bright saxophone and a husky acoustic guitar,an husky saxophone over a trebly acoustic guitar,unknown
+1150,132868,T,natural,the piano sounds mellow while the synth is ambient,the piano sounds ambient while the synth is mellow,"the piano comes across as gentle-toned, the synth as atmospheric",violating
+1149,132868,T,strict,a mellow piano and a ambient synth,a ambient piano and a mellow synth,an gentle-toned piano over a atmospheric synth,violating
+1152,1347915,T,natural,the flute sounds bright while the organ is plummy,the flute sounds plummy while the organ is bright,"the flute comes across as trebly, the organ as plummy",unknown
+1151,1347915,T,strict,a bright flute and a plummy organ,a plummy flute and a bright organ,an trebly flute over a plummy organ,unknown
+1154,1356313,T,natural,the guitar sounds overdriven while the bass is dark,the guitar sounds dark while the bass is overdriven,"the guitar comes across as overdriven, the bass as muffled-toned",violating
+1153,1356313,T,strict,a overdriven guitar and a dark bass,a dark guitar and a overdriven bass,an overdriven guitar over a muffled-toned bass,violating
+1156,1356349,T,natural,the electric guitar sounds muted while the acoustic guitar is crisp,the electric guitar sounds crisp while the acoustic guitar is muted,"the electric guitar comes across as damped, the acoustic guitar as sharp-edged",unknown
+1155,1356349,T,strict,a muted electric guitar and a crisp acoustic guitar,a crisp electric guitar and a muted acoustic guitar,an damped electric guitar over a sharp-edged acoustic guitar,unknown
+1158,135658,T,natural,the piano sounds soft while the bass is plummy,the piano sounds plummy while the bass is soft,"the piano comes across as softly played, the bass as plummy",consistent
+1157,135658,T,strict,a soft piano and a plummy bass,a plummy piano and a soft bass,an softly played piano over a plummy bass,consistent
+1160,135660,T,natural,the electric guitar sounds distorted while the bass is bouncy,the electric guitar sounds bouncy while the bass is distorted,"the electric guitar comes across as overdriven, the bass as springy",consistent
+1159,135660,T,strict,a distorted electric guitar and a bouncy bass,a bouncy electric guitar and a distorted bass,an overdriven electric guitar over a springy bass,consistent
+1162,1357118,T,natural,the electric guitar sounds mellow while the acoustic guitar is crisp,the electric guitar sounds crisp while the acoustic guitar is mellow,"the electric guitar comes across as gentle-toned, the acoustic guitar as sharp-edged",unknown
+1161,1357118,T,strict,a mellow electric guitar and a crisp acoustic guitar,a crisp electric guitar and a mellow acoustic guitar,an gentle-toned electric guitar over a sharp-edged acoustic guitar,unknown
+1164,1357132,T,natural,the electric guitar sounds overdriven while the acoustic guitar is crisp,the electric guitar sounds crisp while the acoustic guitar is overdriven,"the electric guitar comes across as overdriven, the acoustic guitar as sharp-edged",unknown
+1163,1357132,T,strict,a overdriven electric guitar and a crisp acoustic guitar,a crisp electric guitar and a overdriven acoustic guitar,an overdriven electric guitar over a sharp-edged acoustic guitar,unknown
+1166,1386744,T,natural,the piano sounds mellow while the bass is muted,the piano sounds muted while the bass is mellow,"the piano comes across as gentle-toned, the bass as damped",unknown
+1165,1386744,T,strict,a mellow piano and a muted bass,a muted piano and a mellow bass,an gentle-toned piano over a damped bass,unknown
+1168,1402647,T,natural,the piano sounds bright while the strings is smooth,the piano sounds smooth while the strings is bright,"the piano comes across as trebly, the strings as silky",consistent
+1167,1402647,T,strict,a bright piano and a smooth strings,a smooth piano and a bright strings,an trebly piano over a silky strings,consistent
+1170,1408401,T,natural,the bass sounds dark while the saxophone is bright,the bass sounds bright while the saxophone is dark,"the bass comes across as muffled-toned, the saxophone as trebly",unknown
+1169,1408401,T,strict,a dark bass and a bright saxophone,a bright bass and a dark saxophone,an muffled-toned bass over a trebly saxophone,unknown
+1172,145945,T,natural,the choir sounds smooth while the piano is mellow,the choir sounds mellow while the piano is smooth,"the choir comes across as silky, the piano as gentle-toned",unknown
+1171,145945,T,strict,a smooth choir and a mellow piano,a mellow choir and a smooth piano,an silky choir over a gentle-toned piano,unknown
+1174,145968,T,natural,the synth sounds gritty while the bass is warm,the synth sounds warm while the bass is gritty,"the synth comes across as grainy, the bass as rounded",consistent
+1173,145968,T,strict,a gritty synth and a warm bass,a warm synth and a gritty bass,an grainy synth over a rounded bass,consistent
+1176,171573,T,natural,the bass sounds bouncy while the percussion is punchy,the bass sounds punchy while the percussion is bouncy,"the bass comes across as springy, the percussion as percussive",violating
+1175,171573,T,strict,a bouncy bass and a punchy percussion,a punchy bass and a bouncy percussion,an springy bass over a percussive percussion,violating
+1178,172018,T,natural,the bass sounds punchy while the electric guitar is bright,the bass sounds bright while the electric guitar is punchy,"the bass comes across as percussive, the electric guitar as trebly",consistent
+1177,172018,T,strict,a punchy bass and a bright electric guitar,a bright bass and a punchy electric guitar,an percussive bass over a trebly electric guitar,consistent
+1180,181440,T,natural,the bass sounds flat while the electric guitar is overdriven,the bass sounds overdriven while the electric guitar is flat,"the bass comes across as flat, the electric guitar as overdriven",unknown
+1179,181440,T,strict,a flat bass and a overdriven electric guitar,a overdriven bass and a flat electric guitar,an flat bass over a overdriven electric guitar,unknown
+1182,201905,T,natural,the acoustic guitar sounds warm while the piano is bright,the acoustic guitar sounds bright while the piano is warm,"the acoustic guitar comes across as rounded, the piano as trebly",consistent
+1181,201905,T,strict,a warm acoustic guitar and a bright piano,a bright acoustic guitar and a warm piano,an rounded acoustic guitar over a trebly piano,consistent
+1184,206578,T,natural,the electric guitar sounds overdriven while the bass is plummy,the electric guitar sounds plummy while the bass is overdriven,"the electric guitar comes across as overdriven, the bass as plummy",unknown
+1183,206578,T,strict,a overdriven electric guitar and a plummy bass,a plummy electric guitar and a overdriven bass,an overdriven electric guitar over a plummy bass,unknown
+1186,206596,T,natural,the flute sounds breathy while the electric guitar is mellow,the flute sounds mellow while the electric guitar is breathy,"the flute comes across as breathy, the electric guitar as gentle-toned",violating
+1185,206596,T,strict,a breathy flute and a mellow electric guitar,a mellow flute and a breathy electric guitar,an breathy flute over a gentle-toned electric guitar,violating
+1188,242349,T,natural,the strings sounds airy while the acoustic guitar is warm,the strings sounds warm while the acoustic guitar is airy,"the strings comes across as airy, the acoustic guitar as rounded",violating
+1187,242349,T,strict,a airy strings and a warm acoustic guitar,a warm strings and a airy acoustic guitar,an airy strings over a rounded acoustic guitar,violating
+1190,242384,T,natural,the piano sounds bright while the bass is mellow,the piano sounds mellow while the bass is bright,"the piano comes across as trebly, the bass as gentle-toned",consistent
+1189,242384,T,strict,a bright piano and a mellow bass,a mellow piano and a bright bass,an trebly piano over a gentle-toned bass,consistent
+1192,242410,T,natural,the acoustic guitar sounds crisp while the piano is round,the acoustic guitar sounds round while the piano is crisp,"the acoustic guitar comes across as sharp-edged, the piano as round",unknown
+1191,242410,T,strict,a crisp acoustic guitar and a round piano,a round acoustic guitar and a crisp piano,an sharp-edged acoustic guitar over a round piano,unknown
+1194,242640,T,natural,the flute sounds airy while the bass is overdriven,the flute sounds overdriven while the bass is airy,"the flute comes across as airy, the bass as overdriven",unknown
+1193,242640,T,strict,a airy flute and a overdriven bass,a overdriven flute and a airy bass,an airy flute over a overdriven bass,unknown
+1196,243172,T,natural,the cello sounds thick while the piano is mellow,the cello sounds mellow while the piano is thick,"the cello comes across as thick, the piano as gentle-toned",unknown
+1195,243172,T,strict,a thick cello and a mellow piano,a mellow cello and a thick piano,an thick cello over a gentle-toned piano,unknown
+1198,243734,T,natural,the acoustic guitar sounds bright while the bass is dark,the acoustic guitar sounds dark while the bass is bright,"the acoustic guitar comes across as trebly, the bass as muffled-toned",unknown
+1197,243734,T,strict,a bright acoustic guitar and a dark bass,a dark acoustic guitar and a bright bass,an trebly acoustic guitar over a muffled-toned bass,unknown
+1200,25555,T,natural,the bass sounds bouncy while the electric guitar is snappy,the bass sounds snappy while the electric guitar is bouncy,"the bass comes across as springy, the electric guitar as snappy",unknown
+1199,25555,T,strict,a bouncy bass and a snappy electric guitar,a snappy bass and a bouncy electric guitar,an springy bass over a snappy electric guitar,unknown
+1202,259288,T,natural,the bass sounds smooth while the electric guitar is overdriven,the bass sounds overdriven while the electric guitar is smooth,"the bass comes across as silky, the electric guitar as overdriven",violating
+1201,259288,T,strict,a smooth bass and a overdriven electric guitar,a overdriven bass and a smooth electric guitar,an silky bass over a overdriven electric guitar,violating
+1204,260839,T,natural,the harmonica sounds breathy while the guitar is thick,the harmonica sounds thick while the guitar is breathy,"the harmonica comes across as breathy, the guitar as thick",unknown
+1203,260839,T,strict,a breathy harmonica and a thick guitar,a thick harmonica and a breathy guitar,an breathy harmonica over a thick guitar,unknown
+1206,261271,T,natural,the bass sounds warm while the piano is glassy,the bass sounds glassy while the piano is warm,"the bass comes across as rounded, the piano as glassy",consistent
+1205,261271,T,strict,a warm bass and a glassy piano,a glassy bass and a warm piano,an rounded bass over a glassy piano,consistent
+1208,285485,T,natural,the violin sounds bright while the cello is mellow,the violin sounds mellow while the cello is bright,"the violin comes across as trebly, the cello as gentle-toned",violating
+1207,285485,T,strict,a bright violin and a mellow cello,a mellow violin and a bright cello,an trebly violin over a gentle-toned cello,violating
+1210,296236,T,natural,the bass sounds wobbly while the piano is ambient,the bass sounds ambient while the piano is wobbly,"the bass comes across as wobbly, the piano as atmospheric",unknown
+1209,296236,T,strict,a wobbly bass and a ambient piano,a ambient bass and a wobbly piano,an wobbly bass over a atmospheric piano,unknown
+1212,296237,T,natural,the synth sounds smooth while the bass is dark,the synth sounds dark while the bass is smooth,"the synth comes across as silky, the bass as muffled-toned",unknown
+1211,296237,T,strict,a smooth synth and a dark bass,a dark synth and a smooth bass,an silky synth over a muffled-toned bass,unknown
+1214,296238,T,natural,the bass sounds dark while the piano is bright,the bass sounds bright while the piano is dark,"the bass comes across as muffled-toned, the piano as trebly",consistent
+1213,296238,T,strict,a dark bass and a bright piano,a bright bass and a dark piano,an muffled-toned bass over a trebly piano,consistent
+1216,307395,T,natural,the violin sounds smooth while the acoustic bass is warm,the violin sounds warm while the acoustic bass is smooth,"the violin comes across as silky, the acoustic bass as rounded",unknown
+1215,307395,T,strict,a smooth violin and a warm acoustic bass,a warm violin and a smooth acoustic bass,an silky violin over a rounded acoustic bass,unknown
+1218,309861,T,natural,the acoustic guitar sounds warm while the strings is bright,the acoustic guitar sounds bright while the strings is warm,"the acoustic guitar comes across as rounded, the strings as trebly",violating
+1217,309861,T,strict,a warm acoustic guitar and a bright strings,a bright acoustic guitar and a warm strings,an rounded acoustic guitar over a trebly strings,violating
+1220,313059,T,natural,the synth sounds bright while the percussion is punchy,the synth sounds punchy while the percussion is bright,"the synth comes across as trebly, the percussion as percussive",unknown
+1219,313059,T,strict,a bright synth and a punchy percussion,a punchy synth and a bright percussion,an trebly synth over a percussive percussion,unknown
+1222,323090,T,natural,the electric guitar sounds overdriven while the piano is bright,the electric guitar sounds bright while the piano is overdriven,"the electric guitar comes across as overdriven, the piano as trebly",consistent
+1221,323090,T,strict,a overdriven electric guitar and a bright piano,a bright electric guitar and a overdriven piano,an overdriven electric guitar over a trebly piano,consistent
+1224,33836,T,natural,the bass sounds dark while the flute is airy,the bass sounds airy while the flute is dark,"the bass comes across as muffled-toned, the flute as airy",unknown
+1223,33836,T,strict,a dark bass and a airy flute,a airy bass and a dark flute,an muffled-toned bass over a airy flute,unknown
+1226,348881,T,natural,the harp sounds mellow while the synth is wide,the harp sounds wide while the synth is mellow,"the harp comes across as gentle-toned, the synth as wide",violating
+1225,348881,T,strict,a mellow harp and a wide synth,a wide harp and a mellow synth,an gentle-toned harp over a wide synth,violating
+1228,35349,T,natural,the electric guitar sounds overdriven while the piano is bright,the electric guitar sounds bright while the piano is overdriven,"the electric guitar comes across as overdriven, the piano as trebly",consistent
+1227,35349,T,strict,a overdriven electric guitar and a bright piano,a bright electric guitar and a overdriven piano,an overdriven electric guitar over a trebly piano,consistent
+1230,35350,T,natural,the electric guitar sounds overdriven while the bass is mellow,the electric guitar sounds mellow while the bass is overdriven,"the electric guitar comes across as overdriven, the bass as gentle-toned",unknown
+1229,35350,T,strict,a overdriven electric guitar and a mellow bass,a mellow electric guitar and a overdriven bass,an overdriven electric guitar over a gentle-toned bass,unknown
+1232,357192,T,natural,the trumpet sounds bright while the percussion is bouncy,the trumpet sounds bouncy while the percussion is bright,"the trumpet comes across as trebly, the percussion as springy",unknown
+1231,357192,T,strict,a bright trumpet and a bouncy percussion,a bouncy trumpet and a bright percussion,an trebly trumpet over a springy percussion,unknown
+1234,357273,T,natural,the harmonica sounds bright while the bass is warm,the harmonica sounds warm while the bass is bright,"the harmonica comes across as trebly, the bass as rounded",consistent
+1233,357273,T,strict,a bright harmonica and a warm bass,a warm harmonica and a bright bass,an trebly harmonica over a rounded bass,consistent
+1236,357314,T,natural,the harmonica sounds bright while the percussion is mellow,the harmonica sounds mellow while the percussion is bright,"the harmonica comes across as trebly, the percussion as gentle-toned",unknown
+1235,357314,T,strict,a bright harmonica and a mellow percussion,a mellow harmonica and a bright percussion,an trebly harmonica over a gentle-toned percussion,unknown
+1238,357330,T,natural,the harmonica sounds bright while the acoustic guitar is mellow,the harmonica sounds mellow while the acoustic guitar is bright,"the harmonica comes across as trebly, the acoustic guitar as gentle-toned",unknown
+1237,357330,T,strict,a bright harmonica and a mellow acoustic guitar,a mellow harmonica and a bright acoustic guitar,an trebly harmonica over a gentle-toned acoustic guitar,unknown
+1240,357365,T,natural,the trumpet sounds bright while the bass is dark,the trumpet sounds dark while the bass is bright,"the trumpet comes across as trebly, the bass as muffled-toned",unknown
+1239,357365,T,strict,a bright trumpet and a dark bass,a dark trumpet and a bright bass,an trebly trumpet over a muffled-toned bass,unknown
+1242,357387,T,natural,the acoustic guitar sounds mellow while the trumpet is bright,the acoustic guitar sounds bright while the trumpet is mellow,"the acoustic guitar comes across as gentle-toned, the trumpet as trebly",unknown
+1241,357387,T,strict,a mellow acoustic guitar and a bright trumpet,a bright acoustic guitar and a mellow trumpet,an gentle-toned acoustic guitar over a trebly trumpet,unknown
+1244,360978,T,natural,the acoustic guitar sounds bright while the acoustic bass is warm,the acoustic guitar sounds warm while the acoustic bass is bright,"the acoustic guitar comes across as trebly, the acoustic bass as rounded",unknown
+1243,360978,T,strict,a bright acoustic guitar and a warm acoustic bass,a warm acoustic guitar and a bright acoustic bass,an trebly acoustic guitar over a rounded acoustic bass,unknown
+1246,366014,T,natural,the guitar sounds distorted while the piano is bright,the guitar sounds bright while the piano is distorted,"the guitar comes across as overdriven, the piano as trebly",consistent
+1245,366014,T,strict,a distorted guitar and a bright piano,a bright guitar and a distorted piano,an overdriven guitar over a trebly piano,consistent
+1248,371237,T,natural,the electric guitar sounds distorted while the strings is bright,the electric guitar sounds bright while the strings is distorted,"the electric guitar comes across as overdriven, the strings as trebly",consistent
+1247,371237,T,strict,a distorted electric guitar and a bright strings,a bright electric guitar and a distorted strings,an overdriven electric guitar over a trebly strings,consistent
+1250,376419,T,natural,the acoustic guitar sounds soft while the synth is ambient,the acoustic guitar sounds ambient while the synth is soft,"the acoustic guitar comes across as softly played, the synth as atmospheric",consistent
+1249,376419,T,strict,a soft acoustic guitar and a ambient synth,a ambient acoustic guitar and a soft synth,an softly played acoustic guitar over a atmospheric synth,consistent
+1252,387501,T,natural,the electric guitar sounds overdriven while the acoustic guitar is bright,the electric guitar sounds bright while the acoustic guitar is overdriven,"the electric guitar comes across as overdriven, the acoustic guitar as trebly",unknown
+1251,387501,T,strict,a overdriven electric guitar and a bright acoustic guitar,a bright electric guitar and a overdriven acoustic guitar,an overdriven electric guitar over a trebly acoustic guitar,unknown
+1254,387516,T,natural,the electric guitar sounds overdriven while the synth is ambient,the electric guitar sounds ambient while the synth is overdriven,"the electric guitar comes across as overdriven, the synth as atmospheric",unknown
+1253,387516,T,strict,a overdriven electric guitar and a ambient synth,a ambient electric guitar and a overdriven synth,an overdriven electric guitar over a atmospheric synth,unknown
+1256,39102,T,natural,the electric guitar sounds distorted while the bass is thick,the electric guitar sounds thick while the bass is distorted,"the electric guitar comes across as overdriven, the bass as thick",consistent
+1255,39102,T,strict,a distorted electric guitar and a thick bass,a thick electric guitar and a distorted bass,an overdriven electric guitar over a thick bass,consistent
+1258,402056,T,natural,the flute sounds airy while the harp is dark,the flute sounds dark while the harp is airy,"the flute comes across as airy, the harp as muffled-toned",unknown
+1257,402056,T,strict,a airy flute and a dark harp,a dark flute and a airy harp,an airy flute over a muffled-toned harp,unknown
+1260,40279,T,natural,the bass sounds bouncy while the synth is distorted,the bass sounds distorted while the synth is bouncy,"the bass comes across as springy, the synth as overdriven",unknown
+1259,40279,T,strict,a bouncy bass and a distorted synth,a distorted bass and a bouncy synth,an springy bass over a overdriven synth,unknown
+1262,415590,T,natural,the bass sounds dark while the synth is ambient,the bass sounds ambient while the synth is dark,"the bass comes across as muffled-toned, the synth as atmospheric",violating
+1261,415590,T,strict,a dark bass and a ambient synth,a ambient bass and a dark synth,an muffled-toned bass over a atmospheric synth,violating
+1264,415596,T,natural,the electric guitar sounds modulated while the drums is punchy,the electric guitar sounds punchy while the drums is modulated,"the electric guitar comes across as modulated, the drums as percussive",consistent
+1263,415596,T,strict,a modulated electric guitar and a punchy drums,a punchy electric guitar and a modulated drums,an modulated electric guitar over a percussive drums,consistent
+1266,415600,T,natural,the electric guitar sounds bright while the bass is warm,the electric guitar sounds warm while the bass is bright,"the electric guitar comes across as trebly, the bass as rounded",consistent
+1265,415600,T,strict,a bright electric guitar and a warm bass,a warm electric guitar and a bright bass,an trebly electric guitar over a rounded bass,consistent
+1268,415605,T,natural,the drums sounds dark while the saxophone is soft,the drums sounds soft while the saxophone is dark,"the drums comes across as muffled-toned, the saxophone as softly played",violating
+1267,415605,T,strict,a dark drums and a soft saxophone,a soft drums and a dark saxophone,an muffled-toned drums over a softly played saxophone,violating
+1270,416358,T,natural,the drums sounds punchy while the synth is gritty,the drums sounds gritty while the synth is punchy,"the drums comes across as percussive, the synth as grainy",consistent
+1269,416358,T,strict,a punchy drums and a gritty synth,a gritty drums and a punchy synth,an percussive drums over a grainy synth,consistent
+1272,428529,T,natural,the bass sounds muted while the piano is warm,the bass sounds warm while the piano is muted,"the bass comes across as damped, the piano as rounded",violating
+1271,428529,T,strict,a muted bass and a warm piano,a warm bass and a muted piano,an damped bass over a rounded piano,violating
+1274,437792,T,natural,the electric guitar sounds distorted while the drums is punchy,the electric guitar sounds punchy while the drums is distorted,"the electric guitar comes across as overdriven, the drums as percussive",consistent
+1273,437792,T,strict,a distorted electric guitar and a punchy drums,a punchy electric guitar and a distorted drums,an overdriven electric guitar over a percussive drums,consistent
+1276,437795,T,natural,the acoustic guitar sounds crisp while the strings is mellow,the acoustic guitar sounds mellow while the strings is crisp,"the acoustic guitar comes across as sharp-edged, the strings as gentle-toned",unknown
+1275,437795,T,strict,a crisp acoustic guitar and a mellow strings,a mellow acoustic guitar and a crisp strings,an sharp-edged acoustic guitar over a gentle-toned strings,unknown
+1278,43886,T,natural,the electric guitar sounds overdriven while the bass is muted,the electric guitar sounds muted while the bass is overdriven,"the electric guitar comes across as overdriven, the bass as damped",unknown
+1277,43886,T,strict,a overdriven electric guitar and a muted bass,a muted electric guitar and a overdriven bass,an overdriven electric guitar over a damped bass,unknown
+1280,450989,T,natural,the guitar sounds distorted while the bass is bouncy,the guitar sounds bouncy while the bass is distorted,"the guitar comes across as overdriven, the bass as springy",consistent
+1279,450989,T,strict,a distorted guitar and a bouncy bass,a bouncy guitar and a distorted bass,an overdriven guitar over a springy bass,consistent
+1282,457078,T,natural,the electric guitar sounds bright while the acoustic bass is warm,the electric guitar sounds warm while the acoustic bass is bright,"the electric guitar comes across as trebly, the acoustic bass as rounded",unknown
+1281,457078,T,strict,a bright electric guitar and a warm acoustic bass,a warm electric guitar and a bright acoustic bass,an trebly electric guitar over a rounded acoustic bass,unknown
+1284,457119,T,natural,the bass sounds warm while the piano is bright,the bass sounds bright while the piano is warm,"the bass comes across as rounded, the piano as trebly",consistent
+1283,457119,T,strict,a warm bass and a bright piano,a bright bass and a warm piano,an rounded bass over a trebly piano,consistent
+1286,458252,T,natural,the strings sounds smooth while the bass is warm,the strings sounds warm while the bass is smooth,"the strings comes across as silky, the bass as rounded",consistent
+1285,458252,T,strict,a smooth strings and a warm bass,a warm strings and a smooth bass,an silky strings over a rounded bass,consistent
+1288,461012,T,natural,the electric guitar sounds distorted while the bass is punchy,the electric guitar sounds punchy while the bass is distorted,"the electric guitar comes across as overdriven, the bass as percussive",consistent
+1287,461012,T,strict,a distorted electric guitar and a punchy bass,a punchy electric guitar and a distorted bass,an overdriven electric guitar over a percussive bass,consistent
+1290,461018,T,natural,the electric guitar sounds distorted while the synth is bright,the electric guitar sounds bright while the synth is distorted,"the electric guitar comes across as overdriven, the synth as trebly",consistent
+1289,461018,T,strict,a distorted electric guitar and a bright synth,a bright electric guitar and a distorted synth,an overdriven electric guitar over a trebly synth,consistent
+1292,48721,T,natural,the electric guitar sounds warm while the bass is dark,the electric guitar sounds dark while the bass is warm,"the electric guitar comes across as rounded, the bass as muffled-toned",violating
+1291,48721,T,strict,a warm electric guitar and a dark bass,a dark electric guitar and a warm bass,an rounded electric guitar over a muffled-toned bass,violating
+1294,4883,T,natural,the flute sounds airy while the bass is muted,the flute sounds muted while the bass is airy,"the flute comes across as airy, the bass as damped",unknown
+1293,4883,T,strict,a airy flute and a muted bass,a muted flute and a airy bass,an airy flute over a damped bass,unknown
+1296,492277,T,natural,the bass sounds bouncy while the synth is gritty,the bass sounds gritty while the synth is bouncy,"the bass comes across as springy, the synth as grainy",unknown
+1295,492277,T,strict,a bouncy bass and a gritty synth,a gritty bass and a bouncy synth,an springy bass over a grainy synth,unknown
+1298,500970,T,natural,the drums sounds punchy while the synth is gritty,the drums sounds gritty while the synth is punchy,"the drums comes across as percussive, the synth as grainy",consistent
+1297,500970,T,strict,a punchy drums and a gritty synth,a gritty drums and a punchy synth,an percussive drums over a grainy synth,consistent
+1300,5084,T,natural,the bass sounds dark while the organ is mellow,the bass sounds mellow while the organ is dark,"the bass comes across as muffled-toned, the organ as gentle-toned",unknown
+1299,5084,T,strict,a dark bass and a mellow organ,a mellow bass and a dark organ,an muffled-toned bass over a gentle-toned organ,unknown
+1302,5339,T,natural,the electric guitar sounds distorted while the drums is dark,the electric guitar sounds dark while the drums is distorted,"the electric guitar comes across as overdriven, the drums as muffled-toned",consistent
+1301,5339,T,strict,a distorted electric guitar and a dark drums,a dark electric guitar and a distorted drums,an overdriven electric guitar over a muffled-toned drums,consistent
+1304,5340,T,natural,the strings sounds thick while the piano is mellow,the strings sounds mellow while the piano is thick,"the strings comes across as thick, the piano as gentle-toned",unknown
+1303,5340,T,strict,a thick strings and a mellow piano,a mellow strings and a thick piano,an thick strings over a gentle-toned piano,unknown
+1306,537118,T,natural,the electric guitar sounds clean while the saxophone is bright,the electric guitar sounds bright while the saxophone is clean,"the electric guitar comes across as cleanly played, the saxophone as trebly",consistent
+1305,537118,T,strict,a clean electric guitar and a bright saxophone,a bright electric guitar and a clean saxophone,an cleanly played electric guitar over a trebly saxophone,consistent
+1308,579644,T,natural,the acoustic guitar sounds crisp while the bass is muted,the acoustic guitar sounds muted while the bass is crisp,"the acoustic guitar comes across as sharp-edged, the bass as damped",unknown
+1307,579644,T,strict,a crisp acoustic guitar and a muted bass,a muted acoustic guitar and a crisp bass,an sharp-edged acoustic guitar over a damped bass,unknown
+1310,599226,T,natural,the acoustic guitar sounds mellow while the violin is bright,the acoustic guitar sounds bright while the violin is mellow,"the acoustic guitar comes across as gentle-toned, the violin as trebly",violating
+1309,599226,T,strict,a mellow acoustic guitar and a bright violin,a bright acoustic guitar and a mellow violin,an gentle-toned acoustic guitar over a trebly violin,violating

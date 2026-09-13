@@ -1,0 +1,301 @@
+pair_id,moisesdb_track,stem_A,stem_B,name_A,name_B,window_start_s,caption_A_first,caption_B_first
+i0000,49478a32-483f-48d2-a594-d272b44bf587,bass,drums,bass,drums,178.696875,the bass enters before the drums,the drums enters before the bass
+i0001,22ea41a3-1766-4a76-8071-380b27f1869a,vocals,drums,vocals,drums,36.750000,the vocals enters before the drums,the drums enters before the vocals
+i0002,664cc931-4e00-441e-9a78-e7a292515cea,vocals,drums,vocals,drums,183.290625,the vocals enters before the drums,the drums enters before the vocals
+i0003,664cc931-4e00-441e-9a78-e7a292515cea,vocals,bass,vocals,bass,30.318750,the vocals enters before the bass,the bass enters before the vocals
+i0004,260c431b-72d4-4ac6-bae5-ee49ce5c0fe4,vocals,bass,vocals,bass,176.400000,the vocals enters before the bass,the bass enters before the vocals
+i0005,e9336d31-c0df-4c91-be2b-7c4420c9cd34,vocals,bass,vocals,bass,96.468750,the vocals enters before the bass,the bass enters before the vocals
+i0006,bdcc429e-ed95-40d3-a1af-bad268d66b25,vocals,drums,vocals,drums,31.237500,the vocals enters before the drums,the drums enters before the vocals
+i0007,8a6c9c1f-4865-404f-a805-1949de36a33c,vocals,bass,vocals,bass,32.156250,the vocals enters before the bass,the bass enters before the vocals
+i0008,faad432d-6ad0-492d-96f1-321eeb9685b5,bass,drums,bass,drums,108.412500,the bass enters before the drums,the drums enters before the bass
+i0009,ebea0f1d-8e23-469e-8eed-5269a9c684f0,bass,drums,bass,drums,115.762500,the bass enters before the drums,the drums enters before the bass
+i0010,ebea0f1d-8e23-469e-8eed-5269a9c684f0,vocals,drums,vocals,drums,34.912500,the vocals enters before the drums,the drums enters before the vocals
+i0011,0e0d57cd-8662-4091-86d4-ed3e35d04ef6,vocals,drums,vocals,drums,193.396875,the vocals enters before the drums,the drums enters before the vocals
+i0012,48c78ca6-18e9-42f2-9f05-fdbee90a7786,bass,drums,bass,drums,112.087500,the bass enters before the drums,the drums enters before the bass
+i0013,9ce23a79-20eb-431a-80d2-eda3260ef503,vocals,bass,vocals,bass,70.284375,the vocals enters before the bass,the bass enters before the vocals
+i0014,04798708-6915-4dbc-842e-d394d545d4eb,vocals,drums,vocals,drums,177.778125,the vocals enters before the drums,the drums enters before the vocals
+i0015,04798708-6915-4dbc-842e-d394d545d4eb,guitar,drums,electric guitar,drums,163.078125,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0016,72c6f013-11ea-4bf7-93b2-c6ef2c117718,bass,drums,bass,drums,218.662500,the bass enters before the drums,the drums enters before the bass
+i0017,810d7318-4c9e-4160-b147-bbdb65d41861,bass,drums,bass,drums,205.800000,the bass enters before the drums,the drums enters before the bass
+i0018,adb5e3fd-d039-42e4-b09b-fd0784fa0c82,vocals,drums,vocals,drums,166.293750,the vocals enters before the drums,the drums enters before the vocals
+i0019,ad6c3742-e517-42eb-9dec-e74ed05387cc,vocals,drums,vocals,drums,181.912500,the vocals enters before the drums,the drums enters before the vocals
+i0020,212bb137-fd01-465e-80f3-a890fb0ebcdd,bass,drums,bass,drums,251.737500,the bass enters before the drums,the drums enters before the bass
+i0021,212bb137-fd01-465e-80f3-a890fb0ebcdd,piano,bass,piano,bass,257.709375,the piano enters before the bass,the bass enters before the piano
+i0022,0d528a19-cb0f-4421-b250-444f9343e51c,vocals,guitar,vocals,electric guitar,74.878125,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0023,0d528a19-cb0f-4421-b250-444f9343e51c,guitar,drums,electric guitar,drums,42.721875,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0024,8804c154-6294-481a-ad63-bc61162cae2f,vocals,drums,vocals,drums,91.415625,the vocals enters before the drums,the drums enters before the vocals
+i0025,8804c154-6294-481a-ad63-bc61162cae2f,vocals,guitar,vocals,acoustic guitar,169.968750,the vocals enters before the acoustic guitar,the acoustic guitar enters before the vocals
+i0026,8a307c5d-9d65-4f1c-a024-5eaeff1faa34,bass,drums,bass,drums,207.637500,the bass enters before the drums,the drums enters before the bass
+i0027,8a307c5d-9d65-4f1c-a024-5eaeff1faa34,vocals,drums,vocals,drums,211.771875,the vocals enters before the drums,the drums enters before the vocals
+i0028,1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,vocals,bass,vocals,bass,209.475000,the vocals enters before the bass,the bass enters before the vocals
+i0029,2c020edb-5947-4fa7-afea-ebc592cea683,vocals,drums,vocals,drums,62.934375,the vocals enters before the drums,the drums enters before the vocals
+i0030,2c020edb-5947-4fa7-afea-ebc592cea683,vocals,bass,vocals,bass,65.690625,the vocals enters before the bass,the bass enters before the vocals
+i0031,c6d73235-1dd5-4085-a3b3-50a3466c6168,vocals,drums,vocals,drums,115.303125,the vocals enters before the drums,the drums enters before the vocals
+i0032,c6d73235-1dd5-4085-a3b3-50a3466c6168,wind,drums,wind,drums,154.809375,the wind enters before the drums,the drums enters before the wind
+i0033,d028d7c2-45c1-4846-b7df-4964238fd460,bass,drums,bass,drums,128.625000,the bass enters before the drums,the drums enters before the bass
+i0034,2b4e8304-c92d-4347-b09e-cfb9b3e29bf2,vocals,drums,vocals,drums,140.109375,the vocals enters before the drums,the drums enters before the vocals
+i0035,2b4e8304-c92d-4347-b09e-cfb9b3e29bf2,bass,drums,bass,drums,113.465625,the bass enters before the drums,the drums enters before the bass
+i0036,606e3380-b062-4b74-88ac-b60d6f4d0a37,vocals,bass,vocals,bass,241.171875,the vocals enters before the bass,the bass enters before the vocals
+i0037,01c8ba69-8eee-485b-bab0-41a76f9e8892,bass,drums,bass,drums,163.078125,the bass enters before the drums,the drums enters before the bass
+i0038,01c8ba69-8eee-485b-bab0-41a76f9e8892,vocals,drums,vocals,drums,214.528125,the vocals enters before the drums,the drums enters before the vocals
+i0039,d2401d3d-967c-46be-b9a0-3da571105158,vocals,bass,vocals,bass,243.928125,the vocals enters before the bass,the bass enters before the vocals
+i0040,d2401d3d-967c-46be-b9a0-3da571105158,vocals,guitar,vocals,acoustic guitar,229.228125,the vocals enters before the acoustic guitar,the acoustic guitar enters before the vocals
+i0041,c8f42ad5-5a2f-4398-b9d9-207fd4fcc551,bass,drums,bass,drums,16.996875,the bass enters before the drums,the drums enters before the bass
+i0042,c8f42ad5-5a2f-4398-b9d9-207fd4fcc551,guitar,drums,electric guitar,drums,104.278125,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0043,bbf40b5a-8ef9-4aec-a6c3-8b8706eb2ba0,vocals,drums,vocals,drums,151.134375,the vocals enters before the drums,the drums enters before the vocals
+i0044,bbf40b5a-8ef9-4aec-a6c3-8b8706eb2ba0,guitar,drums,electric guitar,drums,21.131250,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0045,de22c812-b5c3-4c7d-92aa-f62faf8b63f7,piano,bass,piano,bass,148.837500,the piano enters before the bass,the bass enters before the piano
+i0046,de22c812-b5c3-4c7d-92aa-f62faf8b63f7,bass,drums,bass,drums,184.209375,the bass enters before the drums,the drums enters before the bass
+i0047,ca080447-fe99-4f6d-98c9-c69b68dacba3,bass,drums,bass,drums,42.262500,the bass enters before the drums,the drums enters before the bass
+i0048,07c17c22-a321-4a98-a486-ef7ee1bae50e,guitar,bass,acoustic guitar,bass,131.381250,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0049,07c17c22-a321-4a98-a486-ef7ee1bae50e,guitar,drums,acoustic guitar,drums,130.462500,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0050,7e74ce11-1603-440b-8794-b6e665b917e1,vocals,drums,vocals,drums,66.609375,the vocals enters before the drums,the drums enters before the vocals
+i0051,7e74ce11-1603-440b-8794-b6e665b917e1,guitar,drums,acoustic guitar,drums,115.762500,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0052,fc3c9e48-e2ac-4088-af65-68404baa7f12,vocals,bass,vocals,bass,99.225000,the vocals enters before the bass,the bass enters before the vocals
+i0053,fc3c9e48-e2ac-4088-af65-68404baa7f12,vocals,drums,vocals,drums,99.225000,the vocals enters before the drums,the drums enters before the vocals
+i0054,1ee489e8-55ad-4d4a-8277-24051b85c02d,vocals,bass,vocals,bass,104.737500,the vocals enters before the bass,the bass enters before the vocals
+i0055,d624037a-1a76-4dd9-9e60-4ba380748a0b,vocals,drums,vocals,drums,168.131250,the vocals enters before the drums,the drums enters before the vocals
+i0056,8ce11544-9a6f-4f1e-ac2f-fc10343f15c8,vocals,bass,vocals,bass,130.921875,the vocals enters before the bass,the bass enters before the vocals
+i0057,f4d79498-4ba0-4813-9b9e-986374242573,vocals,bass,vocals,bass,199.368750,the vocals enters before the bass,the bass enters before the vocals
+i0058,9f581867-9f63-4ec4-8a43-e62c3c4230a6,guitar,drums,acoustic guitar,drums,39.506250,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0059,9f581867-9f63-4ec4-8a43-e62c3c4230a6,vocals,drums,vocals,drums,39.506250,the vocals enters before the drums,the drums enters before the vocals
+i0060,dda2c057-6d73-43fa-a130-d7d6562c09ca,guitar,bass,electric guitar,bass,354.178125,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0061,35a19148-49bf-451d-9a0e-5ab8e914c367,vocals,bass,vocals,bass,139.190625,the vocals enters before the bass,the bass enters before the vocals
+i0062,35a19148-49bf-451d-9a0e-5ab8e914c367,vocals,drums,vocals,drums,139.190625,the vocals enters before the drums,the drums enters before the vocals
+i0063,95378cf3-e939-42e0-b486-ebf2ca951664,bass,drums,bass,drums,158.025000,the bass enters before the drums,the drums enters before the bass
+i0064,95378cf3-e939-42e0-b486-ebf2ca951664,guitar,drums,electric guitar,drums,142.406250,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0065,fac94d9a-59da-4f83-9027-3eafe082ad16,vocals,bass,vocals,bass,176.400000,the vocals enters before the bass,the bass enters before the vocals
+i0066,fac94d9a-59da-4f83-9027-3eafe082ad16,bass,drums,bass,drums,199.368750,the bass enters before the drums,the drums enters before the bass
+i0067,6681f493-c996-424a-9bdb-c671912ea9db,vocals,guitar,vocals,acoustic guitar,181.912500,the vocals enters before the acoustic guitar,the acoustic guitar enters before the vocals
+i0068,6681f493-c996-424a-9bdb-c671912ea9db,guitar,drums,acoustic guitar,drums,249.900000,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0069,d8f0e410-5761-4d4a-9000-effe11089bbd,guitar,bass,acoustic guitar,bass,267.356250,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0070,d8f0e410-5761-4d4a-9000-effe11089bbd,vocals,guitar,vocals,acoustic guitar,231.525000,the vocals enters before the acoustic guitar,the acoustic guitar enters before the vocals
+i0071,444fcc6d-1ad1-4584-b3e5-bf3f4f613c8f,bass,drums,bass,drums,157.565625,the bass enters before the drums,the drums enters before the bass
+i0072,444fcc6d-1ad1-4584-b3e5-bf3f4f613c8f,vocals,drums,vocals,drums,186.965625,the vocals enters before the drums,the drums enters before the vocals
+i0073,9eb8bc50-cffb-4c19-be0e-d27423e3e102,bass,drums,bass,drums,176.400000,the bass enters before the drums,the drums enters before the bass
+i0074,9eb8bc50-cffb-4c19-be0e-d27423e3e102,guitar,drums,acoustic guitar,drums,237.037500,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0075,169628c5-266d-4e11-993b-440fa5fa2167,vocals,drums,vocals,drums,147.918750,the vocals enters before the drums,the drums enters before the vocals
+i0076,169628c5-266d-4e11-993b-440fa5fa2167,bass,drums,bass,drums,46.856250,the bass enters before the drums,the drums enters before the bass
+i0077,4b9f86f4-23e4-458b-839e-8a63b584bea3,vocals,bass,vocals,bass,112.546875,the vocals enters before the bass,the bass enters before the vocals
+i0078,4b9f86f4-23e4-458b-839e-8a63b584bea3,bass,drums,bass,drums,127.706250,the bass enters before the drums,the drums enters before the bass
+i0079,6de41c50-0c49-4528-b60b-75c45d3630f4,vocals,bass,vocals,bass,95.550000,the vocals enters before the bass,the bass enters before the vocals
+i0080,6de41c50-0c49-4528-b60b-75c45d3630f4,vocals,drums,vocals,drums,95.550000,the vocals enters before the drums,the drums enters before the vocals
+i0081,7a9f3169-7bdf-483c-9634-8e5b097d50df,vocals,drums,vocals,drums,226.012500,the vocals enters before the drums,the drums enters before the vocals
+i0082,524ab371-f6c6-4ff7-b896-e83750c8bef7,bass,drums,bass,drums,26.184375,the bass enters before the drums,the drums enters before the bass
+i0083,dc61c44e-a771-47a9-8934-a0eb8f3e08ac,guitar,drums,electric guitar,drums,62.475000,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0084,dc61c44e-a771-47a9-8934-a0eb8f3e08ac,vocals,drums,vocals,drums,116.221875,the vocals enters before the drums,the drums enters before the vocals
+i0085,93dda0e8-dd76-49e4-b08f-54a82387cdf6,guitar,bass,electric guitar,bass,170.428125,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0086,d890ff35-300d-49f2-8054-49ab47262987,guitar,drums,acoustic guitar,drums,222.337500,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0087,d890ff35-300d-49f2-8054-49ab47262987,vocals,guitar,vocals,acoustic guitar,218.203125,the vocals enters before the acoustic guitar,the acoustic guitar enters before the vocals
+i0088,6e50565e-8179-4913-af54-a2a7f0dcab2f,bass,wind,bass,wind,143.325000,the bass enters before the wind,the wind enters before the bass
+i0089,6e50565e-8179-4913-af54-a2a7f0dcab2f,guitar,bass,electric guitar,bass,104.737500,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0090,ad9bbefc-8762-46c9-b847-da14b10802b6,guitar,bass,electric guitar,bass,107.953125,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0091,ad9bbefc-8762-46c9-b847-da14b10802b6,vocals,guitar,vocals,electric guitar,115.303125,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0092,fe3ae408-d35f-4c17-aa33-402238725a9d,vocals,bass,vocals,bass,34.912500,the vocals enters before the bass,the bass enters before the vocals
+i0093,05b0ab77-2495-438d-8831-e3d81f96c16d,guitar,bass,electric guitar,bass,101.062500,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0094,05b0ab77-2495-438d-8831-e3d81f96c16d,vocals,bass,vocals,bass,192.478125,the vocals enters before the bass,the bass enters before the vocals
+i0095,bdd109ec-d5dd-4d91-92ad-66b679518026,bass,bowed_strings,bass,strings,198.909375,the bass enters before the strings,the strings enters before the bass
+i0096,cff5bcde-6a15-4c5b-b529-e1c528c46335,vocals,drums,vocals,drums,169.968750,the vocals enters before the drums,the drums enters before the vocals
+i0097,cff5bcde-6a15-4c5b-b529-e1c528c46335,bass,drums,bass,drums,129.084375,the bass enters before the drums,the drums enters before the bass
+i0098,d45bb3a6-eb80-44b3-b2ef-56cc9d5b4914,vocals,bass,vocals,bass,30.318750,the vocals enters before the bass,the bass enters before the vocals
+i0099,9653a690-c28c-4e8f-962e-ff7ed18b8ee9,guitar,drums,electric guitar,drums,235.659375,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0100,9653a690-c28c-4e8f-962e-ff7ed18b8ee9,vocals,guitar,vocals,electric guitar,216.365625,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0101,d4fe2408-c123-4739-93bb-22f558ae99d7,bass,drums,bass,drums,152.512500,the bass enters before the drums,the drums enters before the bass
+i0102,7524054e-dc67-47e0-8c26-ea1d4d70d2fb,vocals,drums,vocals,drums,151.593750,the vocals enters before the drums,the drums enters before the vocals
+i0103,58fa04aa-426f-4e16-a112-29eb6e2f2d3e,vocals,drums,vocals,drums,121.734375,the vocals enters before the drums,the drums enters before the vocals
+i0104,58fa04aa-426f-4e16-a112-29eb6e2f2d3e,bass,drums,bass,drums,124.950000,the bass enters before the drums,the drums enters before the bass
+i0105,6cd44645-ed19-4ecc-a57c-58d400005b29,bass,drums,bass,drums,107.953125,the bass enters before the drums,the drums enters before the bass
+i0106,f9a1d21b-bfc7-45e1-b744-c57d0a0880c3,vocals,bass,vocals,bass,41.343750,the vocals enters before the bass,the bass enters before the vocals
+i0107,f9a1d21b-bfc7-45e1-b744-c57d0a0880c3,guitar,drums,electric guitar,drums,167.671875,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0108,a56d9450-3a26-485c-8ac3-24b6b54e2c1d,vocals,bass,vocals,bass,59.259375,the vocals enters before the bass,the bass enters before the vocals
+i0109,7dd515b0-e218-425d-b8bf-a75056237d6a,vocals,piano,vocals,piano,87.281250,the vocals enters before the piano,the piano enters before the vocals
+i0110,4cbd6c36-87a2-4d50-86e3-52d39b98fad3,bass,drums,bass,drums,158.943750,the bass enters before the drums,the drums enters before the bass
+i0111,4cbd6c36-87a2-4d50-86e3-52d39b98fad3,vocals,bass,vocals,bass,159.403125,the vocals enters before the bass,the bass enters before the vocals
+i0112,13f233aa-a2e5-4683-8533-2f1e344b55b4,vocals,guitar,vocals,electric guitar,206.718750,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0113,f0c565c5-fc73-4da1-b979-0fac0167f671,vocals,bass,vocals,bass,11.025000,the vocals enters before the bass,the bass enters before the vocals
+i0114,36ee7fc6-604c-4a75-b4f0-0a9ceef3b9cb,guitar,bass,electric guitar,bass,194.315625,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0115,36ee7fc6-604c-4a75-b4f0-0a9ceef3b9cb,vocals,bass,vocals,bass,120.356250,the vocals enters before the bass,the bass enters before the vocals
+i0116,d4df499c-e394-4753-b459-e167e6a58bad,guitar,drums,electric guitar,drums,149.756250,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0117,d4df499c-e394-4753-b459-e167e6a58bad,vocals,bass,vocals,bass,82.228125,the vocals enters before the bass,the bass enters before the vocals
+i0118,f0101ed8-7c32-4744-8b2a-1b621cb4833b,vocals,drums,vocals,drums,168.131250,the vocals enters before the drums,the drums enters before the vocals
+i0119,1e957e76-d7a2-4b84-bc4a-afa87979ff57,piano,bass,piano,bass,95.550000,the piano enters before the bass,the bass enters before the piano
+i0120,04204031-4f98-44ba-9c47-98c2f2e6b8fc,vocals,drums,vocals,drums,104.737500,the vocals enters before the drums,the drums enters before the vocals
+i0121,21ce1331-6066-4ff4-9a54-f6f62bb5fb0d,vocals,bass,vocals,bass,134.137500,the vocals enters before the bass,the bass enters before the vocals
+i0122,825f697d-5fcd-4429-ba33-23163c726ca7,bass,drums,bass,drums,149.756250,the bass enters before the drums,the drums enters before the bass
+i0123,825f697d-5fcd-4429-ba33-23163c726ca7,vocals,drums,vocals,drums,141.487500,the vocals enters before the drums,the drums enters before the vocals
+i0124,3a047d1a-f56d-4bf4-9910-f4f77206e53d,bass,drums,bass,drums,146.540625,the bass enters before the drums,the drums enters before the bass
+i0125,3a047d1a-f56d-4bf4-9910-f4f77206e53d,guitar,bass,acoustic guitar,bass,169.968750,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0126,378742ba-5ba8-44c2-9cfd-8a609decca57,vocals,bass,vocals,bass,63.393750,the vocals enters before the bass,the bass enters before the vocals
+i0127,8042b88a-6179-406b-9ec4-b45a4cdd4a71,bass,drums,bass,drums,50.990625,the bass enters before the drums,the drums enters before the bass
+i0128,8042b88a-6179-406b-9ec4-b45a4cdd4a71,vocals,bass,vocals,bass,209.934375,the vocals enters before the bass,the bass enters before the vocals
+i0129,765d5131-afd9-4ad7-8786-8bef5705c1c2,vocals,bass,vocals,bass,23.887500,the vocals enters before the bass,the bass enters before the vocals
+i0130,9c8a5c66-f6d8-4425-8671-6b7aa6a2663b,vocals,drums,vocals,drums,88.200000,the vocals enters before the drums,the drums enters before the vocals
+i0131,9c8a5c66-f6d8-4425-8671-6b7aa6a2663b,vocals,bass,vocals,bass,148.837500,the vocals enters before the bass,the bass enters before the vocals
+i0132,c70471f9-9c4a-41c9-b8f8-20ac38847a8e,guitar,bass,electric guitar,bass,140.568750,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0133,25516a0f-3197-47e4-8fbf-de9500fc68d2,vocals,drums,vocals,drums,104.278125,the vocals enters before the drums,the drums enters before the vocals
+i0134,73efd911-79c3-4235-a4ae-45b41d6997b9,guitar,bass,electric guitar,bass,138.271875,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0135,73efd911-79c3-4235-a4ae-45b41d6997b9,vocals,drums,vocals,drums,136.434375,the vocals enters before the drums,the drums enters before the vocals
+i0136,f97e0ccd-e2a1-4da9-b8b8-c58e11adc4d9,vocals,drums,vocals,drums,63.853125,the vocals enters before the drums,the drums enters before the vocals
+i0137,2a3fd99d-c86f-4275-9321-ad7146364503,vocals,bass,vocals,bass,109.790625,the vocals enters before the bass,the bass enters before the vocals
+i0138,e1108928-9776-434c-bc57-c32dfdb7839c,vocals,guitar,vocals,electric guitar,91.415625,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0139,e1108928-9776-434c-bc57-c32dfdb7839c,guitar,bass,electric guitar,bass,90.037500,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0140,8e2d0c5c-6764-4d74-a740-391d7931ffd7,bass,drums,bass,drums,96.009375,the bass enters before the drums,the drums enters before the bass
+i0141,8e2d0c5c-6764-4d74-a740-391d7931ffd7,vocals,bass,vocals,bass,74.418750,the vocals enters before the bass,the bass enters before the vocals
+i0142,78ef22ce-472f-4f82-8656-16df73b9465f,guitar,drums,electric guitar,drums,140.109375,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0143,78ef22ce-472f-4f82-8656-16df73b9465f,vocals,guitar,vocals,electric guitar,140.109375,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0144,174a115f-3688-45dc-8c39-9d05f21758e1,vocals,drums,vocals,drums,153.890625,the vocals enters before the drums,the drums enters before the vocals
+i0145,174a115f-3688-45dc-8c39-9d05f21758e1,bass,drums,bass,drums,216.365625,the bass enters before the drums,the drums enters before the bass
+i0146,793b98a0-c776-4943-87eb-b7e07e50f531,bass,drums,bass,drums,89.578125,the bass enters before the drums,the drums enters before the bass
+i0147,793b98a0-c776-4943-87eb-b7e07e50f531,vocals,bass,vocals,bass,104.278125,the vocals enters before the bass,the bass enters before the vocals
+i0148,89f2c781-5c67-4508-a2d6-236744b8c197,vocals,guitar,vocals,acoustic guitar,172.265625,the vocals enters before the acoustic guitar,the acoustic guitar enters before the vocals
+i0149,89f2c781-5c67-4508-a2d6-236744b8c197,guitar,drums,acoustic guitar,drums,96.009375,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0150,6ce087b4-e571-4472-9be2-04b5340311c6,vocals,guitar,vocals,acoustic guitar,110.709375,the vocals enters before the acoustic guitar,the acoustic guitar enters before the vocals
+i0151,6ce087b4-e571-4472-9be2-04b5340311c6,guitar,bass,acoustic guitar,bass,109.790625,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0152,87a5da23-f17b-44da-accf-c04832f81a14,bass,drums,bass,drums,123.112500,the bass enters before the drums,the drums enters before the bass
+i0153,87a5da23-f17b-44da-accf-c04832f81a14,guitar,bass,acoustic guitar,bass,190.640625,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0154,fa46f72c-696d-45bc-bcc5-2b3305800565,bass,drums,bass,drums,174.103125,the bass enters before the drums,the drums enters before the bass
+i0155,ed7576a1-2fed-4736-8368-74ac347a0718,vocals,bass,vocals,bass,153.431250,the vocals enters before the bass,the bass enters before the vocals
+i0156,ed7576a1-2fed-4736-8368-74ac347a0718,bass,drums,bass,drums,78.093750,the bass enters before the drums,the drums enters before the bass
+i0157,ef1510e0-ba23-4b59-ba53-14181d73f213,vocals,guitar,vocals,electric guitar,127.246875,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0158,ef1510e0-ba23-4b59-ba53-14181d73f213,guitar,bass,electric guitar,bass,127.706250,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0159,d7d28204-a8ac-4c2b-bb3c-c941f4a00b85,vocals,drums,vocals,drums,151.593750,the vocals enters before the drums,the drums enters before the vocals
+i0160,3e41f238-7c48-4a42-ba70-5ee39824a844,vocals,drums,vocals,drums,180.075000,the vocals enters before the drums,the drums enters before the vocals
+i0161,3e41f238-7c48-4a42-ba70-5ee39824a844,bass,drums,bass,drums,191.100000,the bass enters before the drums,the drums enters before the bass
+i0162,0a589d65-50a3-4999-8f16-b5b6199bceee,vocals,guitar,vocals,electric guitar,120.356250,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0163,5f04798d-c7be-4b8a-90bd-1fcd9946e875,guitar,bass,acoustic guitar,bass,170.428125,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0164,5f04798d-c7be-4b8a-90bd-1fcd9946e875,guitar,drums,acoustic guitar,drums,169.050000,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0165,e4de8632-6f69-4c63-8081-f4c2b77b40df,guitar,bass,acoustic guitar,bass,33.534375,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0166,e4de8632-6f69-4c63-8081-f4c2b77b40df,guitar,drums,acoustic guitar,drums,33.534375,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0167,58efddfb-04b3-4951-858e-e7dbcfccfc21,vocals,drums,vocals,drums,164.915625,the vocals enters before the drums,the drums enters before the vocals
+i0168,334ed0e5-1761-4ee9-9d39-a555eb9b64a0,vocals,drums,vocals,drums,41.343750,the vocals enters before the drums,the drums enters before the vocals
+i0169,334ed0e5-1761-4ee9-9d39-a555eb9b64a0,vocals,bass,vocals,bass,67.528125,the vocals enters before the bass,the bass enters before the vocals
+i0170,22d265ef-ee2b-4aba-8d60-c3430295cd6d,vocals,bass,vocals,bass,184.668750,the vocals enters before the bass,the bass enters before the vocals
+i0171,6b48c9de-fa34-4635-9718-04e01a03a0fe,guitar,bass,electric guitar,bass,271.490625,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0172,6b48c9de-fa34-4635-9718-04e01a03a0fe,vocals,guitar,vocals,electric guitar,165.834375,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0173,bacbb01f-b877-4d62-8050-992f1d85543a,vocals,bass,vocals,bass,130.003125,the vocals enters before the bass,the bass enters before the vocals
+i0174,bacbb01f-b877-4d62-8050-992f1d85543a,bass,drums,bass,drums,36.750000,the bass enters before the drums,the drums enters before the bass
+i0175,704f1de9-1d02-4c2b-af05-107a7700a51d,bass,drums,bass,drums,191.100000,the bass enters before the drums,the drums enters before the bass
+i0176,704f1de9-1d02-4c2b-af05-107a7700a51d,vocals,drums,vocals,drums,250.818750,the vocals enters before the drums,the drums enters before the vocals
+i0177,16fb6c39-3834-4cfc-abf4-abb4a8d4646c,bass,drums,bass,drums,293.540625,the bass enters before the drums,the drums enters before the bass
+i0178,6031b120-f6e2-4999-96ba-a1e31be68ea8,vocals,bass,vocals,bass,189.262500,the vocals enters before the bass,the bass enters before the vocals
+i0179,24f8a652-0168-4702-8725-42f9924e6729,bass,drums,bass,drums,155.268750,the bass enters before the drums,the drums enters before the bass
+i0180,2973adc9-6bf8-4422-9f7a-6fd0038eb565,vocals,drums,vocals,drums,8.268750,the vocals enters before the drums,the drums enters before the vocals
+i0181,2973adc9-6bf8-4422-9f7a-6fd0038eb565,bass,drums,bass,drums,8.268750,the bass enters before the drums,the drums enters before the bass
+i0182,25789239-1075-43b9-bfc9-51dff4a29590,vocals,drums,vocals,drums,148.837500,the vocals enters before the drums,the drums enters before the vocals
+i0183,25789239-1075-43b9-bfc9-51dff4a29590,guitar,drums,electric guitar,drums,159.862500,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0184,737356b2-ce9c-448b-877b-e42b3ed94563,guitar,bass,electric guitar,bass,162.159375,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0185,cda46831-26d1-4dd8-ac50-6004d27d45dd,bass,drums,bass,drums,7.350000,the bass enters before the drums,the drums enters before the bass
+i0186,cda46831-26d1-4dd8-ac50-6004d27d45dd,vocals,bass,vocals,bass,60.178125,the vocals enters before the bass,the bass enters before the vocals
+i0187,1fc37390-1769-452d-9bea-19025be4c467,bass,drums,bass,drums,163.996875,the bass enters before the drums,the drums enters before the bass
+i0188,1fc37390-1769-452d-9bea-19025be4c467,vocals,drums,vocals,drums,163.996875,the vocals enters before the drums,the drums enters before the vocals
+i0189,baea951d-526a-49aa-8329-c8de676341fb,bass,drums,bass,drums,0.459375,the bass enters before the drums,the drums enters before the bass
+i0190,cc3e4991-6cce-40fe-a917-81a4fbb92ea6,vocals,drums,vocals,drums,162.159375,the vocals enters before the drums,the drums enters before the vocals
+i0191,35983cdd-3903-46cb-b184-f96274ced57b,vocals,bass,vocals,bass,189.721875,the vocals enters before the bass,the bass enters before the vocals
+i0192,35983cdd-3903-46cb-b184-f96274ced57b,bass,drums,bass,drums,157.565625,the bass enters before the drums,the drums enters before the bass
+i0193,bb45cf1a-4c58-4fe3-88ea-97ef27527507,vocals,drums,vocals,drums,152.512500,the vocals enters before the drums,the drums enters before the vocals
+i0194,bb45cf1a-4c58-4fe3-88ea-97ef27527507,vocals,bass,vocals,bass,152.512500,the vocals enters before the bass,the bass enters before the vocals
+i0195,9efa702f-c6b1-40bb-93ef-095b34a5b775,vocals,drums,vocals,drums,34.912500,the vocals enters before the drums,the drums enters before the vocals
+i0196,75be2864-8b5f-45a1-ae09-6ba10f070f33,guitar,drums,electric guitar,drums,210.393750,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0197,75be2864-8b5f-45a1-ae09-6ba10f070f33,vocals,bass,vocals,bass,111.628125,the vocals enters before the bass,the bass enters before the vocals
+i0198,06114cc2-e34d-4f8f-82d3-cf6981572f2f,vocals,drums,vocals,drums,28.940625,the vocals enters before the drums,the drums enters before the vocals
+i0199,06114cc2-e34d-4f8f-82d3-cf6981572f2f,bass,drums,bass,drums,72.581250,the bass enters before the drums,the drums enters before the bass
+i0200,25be35fb-ab11-485c-9b71-4fcb46ef3c2a,piano,bass,piano,bass,101.521875,the piano enters before the bass,the bass enters before the piano
+i0201,028c6f6a-f4f6-4795-84f2-a81222b38e7e,vocals,drums,vocals,drums,117.600000,the vocals enters before the drums,the drums enters before the vocals
+i0202,028c6f6a-f4f6-4795-84f2-a81222b38e7e,bass,drums,bass,drums,116.681250,the bass enters before the drums,the drums enters before the bass
+i0203,4999a0bf-a753-4e0e-85b1-690259dabf96,bass,drums,bass,drums,172.725000,the bass enters before the drums,the drums enters before the bass
+i0204,4999a0bf-a753-4e0e-85b1-690259dabf96,vocals,bass,vocals,bass,24.806250,the vocals enters before the bass,the bass enters before the vocals
+i0205,53808b95-cfe9-461d-a113-ffadf32817a1,guitar,drums,electric guitar,drums,158.943750,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0206,53808b95-cfe9-461d-a113-ffadf32817a1,vocals,guitar,vocals,electric guitar,179.156250,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0207,bc964128-da16-4e4c-af95-4d1211e78c70,vocals,drums,vocals,drums,184.209375,the vocals enters before the drums,the drums enters before the vocals
+i0208,bc964128-da16-4e4c-af95-4d1211e78c70,vocals,bass,vocals,bass,190.181250,the vocals enters before the bass,the bass enters before the vocals
+i0209,f9e58f4d-e361-4598-9c9a-d0a83529cc68,vocals,bass,vocals,bass,61.096875,the vocals enters before the bass,the bass enters before the vocals
+i0210,731893c6-67b9-42f0-aea6-d1f70c2c9870,guitar,drums,electric guitar,drums,204.881250,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0211,731893c6-67b9-42f0-aea6-d1f70c2c9870,vocals,guitar,vocals,electric guitar,200.746875,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0212,3e656eec-84d4-4a45-b410-d3817d849f92,vocals,bowed_strings,vocals,strings,191.100000,the vocals enters before the strings,the strings enters before the vocals
+i0213,3e656eec-84d4-4a45-b410-d3817d849f92,guitar,bowed_strings,acoustic guitar,strings,192.018750,the acoustic guitar enters before the strings,the strings enters before the acoustic guitar
+i0214,89c515c9-5e93-4cb4-9806-20432d2d074d,guitar,bass,acoustic guitar,bass,176.400000,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0215,89c515c9-5e93-4cb4-9806-20432d2d074d,bass,drums,bass,drums,64.312500,the bass enters before the drums,the drums enters before the bass
+i0216,3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,bass,drums,bass,drums,164.456250,the bass enters before the drums,the drums enters before the bass
+i0217,3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,guitar,bass,electric guitar,bass,155.268750,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0218,aefc1609-976b-423e-8516-f7d588d64ff7,bass,drums,bass,drums,237.496875,the bass enters before the drums,the drums enters before the bass
+i0219,aefc1609-976b-423e-8516-f7d588d64ff7,vocals,bass,vocals,bass,94.631250,the vocals enters before the bass,the bass enters before the vocals
+i0220,a1dcaeb2-f4e6-4818-b490-09f44d624afc,vocals,bass,vocals,bass,220.040625,the vocals enters before the bass,the bass enters before the vocals
+i0221,a1dcaeb2-f4e6-4818-b490-09f44d624afc,guitar,drums,electric guitar,drums,173.184375,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0222,ed90a89a-bf22-444d-af3d-d9ac3896ebd2,bass,drums,bass,drums,105.656250,the bass enters before the drums,the drums enters before the bass
+i0223,ed90a89a-bf22-444d-af3d-d9ac3896ebd2,vocals,bass,vocals,bass,196.153125,the vocals enters before the bass,the bass enters before the vocals
+i0224,5640831d-7853-4d06-8166-988e2844b652,vocals,drums,vocals,drums,128.625000,the vocals enters before the drums,the drums enters before the vocals
+i0225,5640831d-7853-4d06-8166-988e2844b652,vocals,bass,vocals,bass,128.165625,the vocals enters before the bass,the bass enters before the vocals
+i0226,97b07e0e-274e-4212-a66b-44210a48724d,vocals,bass,vocals,bass,59.259375,the vocals enters before the bass,the bass enters before the vocals
+i0227,97b07e0e-274e-4212-a66b-44210a48724d,guitar,piano,electric guitar,piano,213.609375,the electric guitar enters before the piano,the piano enters before the electric guitar
+i0228,046ab651-a333-46e1-9d27-ab14ee036c42,bass,drums,bass,drums,129.543750,the bass enters before the drums,the drums enters before the bass
+i0229,046ab651-a333-46e1-9d27-ab14ee036c42,guitar,bass,electric guitar,bass,88.659375,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0230,0f5fb60c-51d4-4618-871d-650c9e927b79,piano,drums,piano,drums,200.287500,the piano enters before the drums,the drums enters before the piano
+i0231,0f5fb60c-51d4-4618-871d-650c9e927b79,bass,drums,bass,drums,200.287500,the bass enters before the drums,the drums enters before the bass
+i0232,f4b735de-14b1-4091-a9ba-c8b30c0740a7,guitar,drums,electric guitar,drums,234.740625,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0233,f4b735de-14b1-4091-a9ba-c8b30c0740a7,vocals,drums,vocals,drums,260.465625,the vocals enters before the drums,the drums enters before the vocals
+i0234,5a6df5c7-a58a-479e-bdfb-c5946c221933,vocals,drums,vocals,drums,15.618750,the vocals enters before the drums,the drums enters before the vocals
+i0235,5a6df5c7-a58a-479e-bdfb-c5946c221933,vocals,bass,vocals,bass,79.012500,the vocals enters before the bass,the bass enters before the vocals
+i0236,8b83ba75-5e35-48c4-b42f-5419da2e6301,vocals,bass,vocals,bass,119.437500,the vocals enters before the bass,the bass enters before the vocals
+i0237,4857878a-e44b-4143-90e9-b65d0b704306,bass,drums,bass,drums,178.237500,the bass enters before the drums,the drums enters before the bass
+i0238,4857878a-e44b-4143-90e9-b65d0b704306,guitar,drums,acoustic guitar,drums,192.478125,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0239,ea898682-08e7-4818-b516-8c0e10a4c20a,vocals,bass,vocals,bass,124.950000,the vocals enters before the bass,the bass enters before the vocals
+i0240,ea898682-08e7-4818-b516-8c0e10a4c20a,guitar,bass,electric guitar,bass,16.078125,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0241,28748b6e-6125-42f7-998d-2ad734e39b6c,vocals,bass,vocals,bass,101.981250,the vocals enters before the bass,the bass enters before the vocals
+i0242,28748b6e-6125-42f7-998d-2ad734e39b6c,vocals,drums,vocals,drums,79.012500,the vocals enters before the drums,the drums enters before the vocals
+i0243,3c557409-3a34-43c2-9159-5421bbad5ecb,vocals,drums,vocals,drums,419.409375,the vocals enters before the drums,the drums enters before the vocals
+i0244,3c557409-3a34-43c2-9159-5421bbad5ecb,bass,drums,bass,drums,180.075000,the bass enters before the drums,the drums enters before the bass
+i0245,3f5233cb-57fa-4772-b389-f295a6f416ae,vocals,guitar,vocals,acoustic guitar,119.896875,the vocals enters before the acoustic guitar,the acoustic guitar enters before the vocals
+i0246,3f5233cb-57fa-4772-b389-f295a6f416ae,guitar,bass,acoustic guitar,bass,130.921875,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0247,3e7985e5-408f-4cf8-92b9-b9f62f738dd3,vocals,drums,vocals,drums,187.884375,the vocals enters before the drums,the drums enters before the vocals
+i0248,3e7985e5-408f-4cf8-92b9-b9f62f738dd3,vocals,bass,vocals,bass,59.259375,the vocals enters before the bass,the bass enters before the vocals
+i0249,763641c7-488f-4959-a554-fdbce9582644,vocals,bass,vocals,bass,33.075000,the vocals enters before the bass,the bass enters before the vocals
+i0250,763641c7-488f-4959-a554-fdbce9582644,vocals,drums,vocals,drums,143.784375,the vocals enters before the drums,the drums enters before the vocals
+i0251,2dc237cd-1637-46f0-8f58-ca68dc6f6031,vocals,bass,vocals,bass,19.753125,the vocals enters before the bass,the bass enters before the vocals
+i0252,2dc237cd-1637-46f0-8f58-ca68dc6f6031,vocals,guitar,vocals,electric guitar,148.837500,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0253,3e389000-8fdc-4b63-b8b8-ab044273790d,bass,drums,bass,drums,125.868750,the bass enters before the drums,the drums enters before the bass
+i0254,3e389000-8fdc-4b63-b8b8-ab044273790d,piano,bass,piano,bass,153.890625,the piano enters before the bass,the bass enters before the piano
+i0255,33b1d4e9-96d7-4b18-9ffc-199c579aad78,vocals,bass,vocals,bass,129.543750,the vocals enters before the bass,the bass enters before the vocals
+i0256,1ade22ad-99bc-4954-b2b9-fb9e8fa06d41,bass,drums,bass,drums,169.050000,the bass enters before the drums,the drums enters before the bass
+i0257,1ade22ad-99bc-4954-b2b9-fb9e8fa06d41,vocals,bass,vocals,bass,173.184375,the vocals enters before the bass,the bass enters before the vocals
+i0258,ea29ab4d-7f72-4331-b2a4-d3945c754211,bass,drums,bass,drums,11.025000,the bass enters before the drums,the drums enters before the bass
+i0259,ea29ab4d-7f72-4331-b2a4-d3945c754211,vocals,drums,vocals,drums,88.659375,the vocals enters before the drums,the drums enters before the vocals
+i0260,b876b54b-6007-4d36-a6f4-efed8829d5fc,guitar,bass,electric guitar,bass,205.340625,the electric guitar enters before the bass,the bass enters before the electric guitar
+i0261,b876b54b-6007-4d36-a6f4-efed8829d5fc,vocals,drums,vocals,drums,173.643750,the vocals enters before the drums,the drums enters before the vocals
+i0262,390b4fea-92be-4fe3-9576-86529f80b4ae,vocals,drums,vocals,drums,181.912500,the vocals enters before the drums,the drums enters before the vocals
+i0263,152d4f5d-4093-4fa4-a4a4-8a9b3502d89d,guitar,bass,acoustic guitar,bass,50.531250,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0264,152d4f5d-4093-4fa4-a4a4-8a9b3502d89d,vocals,bass,vocals,bass,107.493750,the vocals enters before the bass,the bass enters before the vocals
+i0265,7ba734f0-547e-4142-a9b4-01a0c25b9d1f,guitar,drums,acoustic guitar,drums,199.368750,the acoustic guitar enters before the drums,the drums enters before the acoustic guitar
+i0266,c2ba72ec-cf74-4155-a7c1-ddd921ac41d3,bass,drums,bass,drums,136.893750,the bass enters before the drums,the drums enters before the bass
+i0267,8427760a-b82e-4136-8f12-dfd53cad9bc9,vocals,drums,vocals,drums,20.212500,the vocals enters before the drums,the drums enters before the vocals
+i0268,ee082817-dbda-4fbf-b5aa-8dce2320ae35,vocals,guitar,vocals,electric guitar,237.956250,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0269,ee082817-dbda-4fbf-b5aa-8dce2320ae35,vocals,piano,vocals,piano,237.956250,the vocals enters before the piano,the piano enters before the vocals
+i0270,747d5c98-665b-4470-a696-7a6cf6968ef1,vocals,bass,vocals,bass,64.771875,the vocals enters before the bass,the bass enters before the vocals
+i0271,747d5c98-665b-4470-a696-7a6cf6968ef1,bass,drums,bass,drums,162.159375,the bass enters before the drums,the drums enters before the bass
+i0272,bd065894-3521-415f-b39f-5a6980f024fb,vocals,bass,vocals,bass,101.521875,the vocals enters before the bass,the bass enters before the vocals
+i0273,bd065894-3521-415f-b39f-5a6980f024fb,bass,drums,bass,drums,67.068750,the bass enters before the drums,the drums enters before the bass
+i0274,c228818e-eabe-434b-9d60-2fb84a6c5b2a,bass,drums,bass,drums,225.553125,the bass enters before the drums,the drums enters before the bass
+i0275,8f36f17f-c033-4c1b-a793-80dce43d507b,vocals,bass,vocals,bass,57.421875,the vocals enters before the bass,the bass enters before the vocals
+i0276,afca84b2-0277-4b1b-8696-5f14543f338c,vocals,drums,vocals,drums,73.040625,the vocals enters before the drums,the drums enters before the vocals
+i0277,afca84b2-0277-4b1b-8696-5f14543f338c,bass,drums,bass,drums,205.340625,the bass enters before the drums,the drums enters before the bass
+i0278,4a896cde-57c6-4646-b610-1b0b654d0349,vocals,drums,vocals,drums,127.706250,the vocals enters before the drums,the drums enters before the vocals
+i0279,b207da3d-4baf-485a-98e1-657602479b3a,bass,drums,bass,drums,205.800000,the bass enters before the drums,the drums enters before the bass
+i0280,6ceda40a-88bc-4e98-87c3-dd5c91725d41,guitar,drums,electric guitar,drums,201.665625,the electric guitar enters before the drums,the drums enters before the electric guitar
+i0281,6ceda40a-88bc-4e98-87c3-dd5c91725d41,vocals,guitar,vocals,electric guitar,167.212500,the vocals enters before the electric guitar,the electric guitar enters before the vocals
+i0282,d4262245-3143-4c05-8423-6cbdc6253042,bass,drums,bass,drums,213.150000,the bass enters before the drums,the drums enters before the bass
+i0283,92ba4404-76ff-4523-a787-652057e06c13,vocals,drums,vocals,drums,236.118750,the vocals enters before the drums,the drums enters before the vocals
+i0284,92ba4404-76ff-4523-a787-652057e06c13,bass,drums,bass,drums,221.418750,the bass enters before the drums,the drums enters before the bass
+i0285,94fafb2a-9f4e-4a01-bee9-998008f95f41,vocals,bass,vocals,bass,40.425000,the vocals enters before the bass,the bass enters before the vocals
+i0286,94fafb2a-9f4e-4a01-bee9-998008f95f41,vocals,drums,vocals,drums,84.525000,the vocals enters before the drums,the drums enters before the vocals
+i0287,fd6e4b4a-f33a-4f3c-aa6e-7c65fd5dc0bc,vocals,drums,vocals,drums,164.456250,the vocals enters before the drums,the drums enters before the vocals
+i0288,7bfa233c-24ed-4c7a-9096-11e3aa00c55d,vocals,drums,vocals,drums,159.862500,the vocals enters before the drums,the drums enters before the vocals
+i0289,7bfa233c-24ed-4c7a-9096-11e3aa00c55d,piano,drums,piano,drums,162.159375,the piano enters before the drums,the drums enters before the piano
+i0290,49ed7cef-8ffb-4833-bc96-6df7b8ff5b43,bass,drums,bass,drums,218.662500,the bass enters before the drums,the drums enters before the bass
+i0291,7180bffa-dd48-49b9-bc02-f6e3f7f165b0,bass,drums,bass,drums,150.675000,the bass enters before the drums,the drums enters before the bass
+i0292,11845abc-8ca3-4fb2-bd84-521aeeff56f4,bass,drums,bass,drums,190.181250,the bass enters before the drums,the drums enters before the bass
+i0293,11845abc-8ca3-4fb2-bd84-521aeeff56f4,guitar,bass,acoustic guitar,bass,190.181250,the acoustic guitar enters before the bass,the bass enters before the acoustic guitar
+i0294,e2e4ce50-cd0d-4144-809d-4cf8c8e4912e,vocals,bass,vocals,bass,80.850000,the vocals enters before the bass,the bass enters before the vocals
+i0295,e2e4ce50-cd0d-4144-809d-4cf8c8e4912e,bass,drums,bass,drums,93.253125,the bass enters before the drums,the drums enters before the bass
+i0296,3a6023c3-4cd8-46c0-a376-d353743648a9,vocals,drums,vocals,drums,190.640625,the vocals enters before the drums,the drums enters before the vocals
+i0297,312bec8d-1c61-43e0-924a-1fb87ddc3e41,bass,drums,bass,drums,168.590625,the bass enters before the drums,the drums enters before the bass
+i0298,312bec8d-1c61-43e0-924a-1fb87ddc3e41,vocals,bass,vocals,bass,179.615625,the vocals enters before the bass,the bass enters before the vocals
+i0299,704f1de9-1d02-4c2b-af05-107a7700a51d,vocals,bass,vocals,bass,244.846875,the vocals enters before the bass,the bass enters before the vocals

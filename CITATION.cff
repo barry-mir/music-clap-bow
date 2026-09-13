@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use MIRB or this code, please cite the paper."
+title: "MIRB: Music Instrument Relations Benchmark"
+authors:
+  - family-names: Cheng
+    given-names: Yuan-Chiao
+  - family-names: Lerch
+    given-names: Alexander
+year: 2026
+preferred-citation:
+  type: conference-paper
+  title: "Don't CLAP: Are Music-Text Models Bag-of-Words?"
+  authors:
+    - family-names: Cheng
+      given-names: Yuan-Chiao
+    - family-names: Lerch
+      given-names: Alexander
+  collection-title: "Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)"
+  year: 2027

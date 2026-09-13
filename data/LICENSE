@@ -1,0 +1,9 @@
+The files in this directory (mirb_annotations.csv, mirb_captions.csv,
+mirb_order_manifest.csv) are released under the Creative Commons Attribution 4.0
+International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Attribution: Yuan-Chiao Cheng and Alexander Lerch, "Don't CLAP: Are Music-Text
+Models Bag-of-Words?", 2026.
+
+The referenced audio is not part of this release and keeps its original licence
+(MTG-Jamendo: per-track Creative Commons; MoisesDB: MoisesDB research licence).
