@@ -29,7 +29,7 @@ INSTRUMENTS = {
     "percussion": ["percussion", "congas", "bongos", "tabla", "shaker"],
 }
 
-# Closed timbre vocabulary (property T).
+# Suggested timbre adjectives offered in the annotation interface (property T); annotators could add their own.
 TIMBRES = [
     "distorted", "clean", "bright", "dark", "muted", "warm",
     "crisp", "mellow", "harsh", "soft", "punchy", "smooth",

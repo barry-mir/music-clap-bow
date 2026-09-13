@@ -94,7 +94,7 @@ masb/
   exp4_order.py     Exp. 4, symmetric audio test
   stats.py          confidence intervals, tests, Holm correction
   summarize.py      all paper numbers -> results/summary.json
-  vocab.py          instrument and timbre vocabularies used for annotation
+  vocab.py          instrument list and suggested timbre adjectives used in annotation
 figures/            paper figures from results/
 data/               the benchmark files
 ```

@@ -1,7 +1,7 @@
 # MASB data files
 
-All three files are UTF-8 CSV with a header row. Instrument and timbre words are lower-case English
-from the closed vocabularies in `masb/vocab.py` (plus a few annotator-added words).
+All three files are UTF-8 CSV with a header row. Instrument names come from the closed list in `masb/vocab.py`; timbre words are free-form
+lower-case English adjectives chosen by the annotator.
 
 ## `masb_annotations.csv` (400 recordings)
 
@@ -16,7 +16,7 @@ One row per (recording, property). A recording is annotated for exactly one prop
 | `axis` | property: `T` timbre, `R` lead versus accompaniment, `O` onset order |
 | `crop_start_s`, `crop_end_s` | the 10 s window on the full track chosen by the annotator where the property is clearest |
 | `inst_1`, `inst_2` | the two instruments. `T`: instrument carrying `timbre_1` / `timbre_2`. `R`: `inst_1` plays the melody, `inst_2` accompanies. `O`: `inst_1` enters before `inst_2` |
-| `timbre_1`, `timbre_2` | timbre words for property `T`, empty otherwise |
+| `timbre_1`, `timbre_2` | free-form timbre adjectives for property `T` (always different within a recording), empty otherwise |
 | `confidence` | annotator confidence, 1 to 5 |
 
 The benchmark clip for a row is `<MASB_CLIPS>/<clip_id>_<axis>.wav`: the window cut from the full
