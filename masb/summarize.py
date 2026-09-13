@@ -1,7 +1,7 @@
 """Every number reported in the paper, from the results JSONs -> results/summary.json.
 
-    python -m mirb.stats        # first: Wilson CIs, binomial p, Holm over the 15 model x property tests
-    python -m mirb.summarize    # then this
+    python -m masb.stats        # first: Wilson CIs, binomial p, Holm over the 15 model x property tests
+    python -m masb.summarize    # then this
 
 Adds to stats.json:
   kappa          Cohen's kappa between each model's per-pair choice and the LLM's (Exp. 2)
@@ -16,7 +16,7 @@ import json
 import numpy as np
 from scipy import stats as st
 
-from mirb.paths import RESULTS
+from masb.paths import RESULTS
 
 MODELS = ["laion-clap-music", "ms-clap-2023", "muq-mulan", "clamp3-saas", "qwen2-audio-7b-instruct"]
 TEXT = {"laion-clap": "laion-clap-music", "ms-clap": "ms-clap-2023", "muq-mulan": "muq-mulan", "clamp3": "clamp3-saas"}

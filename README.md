@@ -1,8 +1,8 @@
-# MIRB: Music Instrument Relations Benchmark
+# MASB: Music Attribute-Swap Benchmark
 
 Code and data for **Don't CLAP: Are Music-Text Models Bag-of-Words?** (Cheng and Lerch, submitted to ICASSP 2027).
 
-The benchmark tests whether a music-text model reads *instrument relations* in a caption: which
+The benchmark tests whether a music-text model reads which attribute belongs to which instrument in a caption: which
 instrument carries which timbre, which one leads and which accompanies, and which enters first.
 For each recording we build an original caption `c+` and an **attribute swap** `c-` that contain the
 same words with one property exchanged between the two instruments, and ask whether the model
@@ -21,13 +21,13 @@ Qwen2-Audio does better, largely through language priors that a text-only LLM sh
 
 | file | rows | content |
 |---|---|---|
-| `data/mirb_annotations.csv` | 400 | one recording per row: MTG-Jamendo track path, the 10 s window, the two instruments and (for timbre) their timbre words, annotator confidence |
-| `data/mirb_captions.csv` | 800 | two caption pairs per recording (strict template and natural rewrite): `c+`, `c-`, a paraphrase, and the corpus prior class |
-| `data/mirb_order_manifest.csv` | 300 | MIRB-Order: MoisesDB track, the two stems, the 10 s window, and the two captions for the symmetric onset-order test |
+| `data/masb_annotations.csv` | 400 | one recording per row: MTG-Jamendo track path, the 10 s window, the two instruments and (for timbre) their timbre words, annotator confidence |
+| `data/masb_captions.csv` | 800 | two caption pairs per recording (strict template and natural rewrite): `c+`, `c-`, a paraphrase, and the corpus prior class |
+| `data/masb_order_manifest.csv` | 300 | MASB-Order: MoisesDB track, the two stems, the 10 s window, and the two captions for the symmetric onset-order test |
 
-Audio is **not** redistributed. MIRB recordings are unmodified excerpts of Creative-Commons tracks from
+Audio is **not** redistributed. MASB recordings are unmodified excerpts of Creative-Commons tracks from
 the [Song Describer Dataset](https://github.com/mulab-mir/song-describer-dataset) /
-[MTG-Jamendo](https://github.com/MTG/mtg-jamendo-dataset); MIRB-Order mixes are built from
+[MTG-Jamendo](https://github.com/MTG/mtg-jamendo-dataset); MASB-Order mixes are built from
 [MoisesDB](https://github.com/moises-ai/moises-db) stems. Both are rebuilt deterministically from the
 CSVs with the scripts below. See `data/README.md` for the column definitions.
 
@@ -54,22 +54,22 @@ Model dependencies (install what you need):
 
 ```bash
 # 1. audio
-python -m mirb.prepare_clips        # cut the 400 clips from <MIRB_AUDIO>/<jamendo_path>
-python -m mirb.build_order          # build the 300 MIRB-Order pairs from <MOISESDB_ROOT>
+python -m masb.prepare_clips        # cut the 400 clips from <MASB_AUDIO>/<jamendo_path>
+python -m masb.build_order          # build the 300 MASB-Order pairs from <MOISESDB_ROOT>
 
 # 2. experiments
 for m in laion-clap ms-clap muq-mulan clamp3; do
-  python -m mirb.exp1_swap  --model $m   # Exp. 1  CLAP score under the attribute swap
-  python -m mirb.exp3_text  --model $m   # Exp. 3  text embedding only
-  python -m mirb.exp4_order --model $m   # Exp. 4  symmetric onset-order test
+  python -m masb.exp1_swap  --model $m   # Exp. 1  CLAP score under the attribute swap
+  python -m masb.exp3_text  --model $m   # Exp. 3  text embedding only
+  python -m masb.exp4_order --model $m   # Exp. 4  symmetric onset-order test
 done
-python -m mirb.exp1_qwen                 # Exp. 1  Qwen2-Audio (generative scoring)
-python -m mirb.exp4_order --model qwen2-audio
-python -m mirb.exp2_floor                # Exp. 2  LLM without audio
+python -m masb.exp1_qwen                 # Exp. 1  Qwen2-Audio (generative scoring)
+python -m masb.exp4_order --model qwen2-audio
+python -m masb.exp2_floor                # Exp. 2  LLM without audio
 
 # 3. numbers and figures
-python -m mirb.stats                     # Wilson CIs, exact binomial p, Holm correction
-python -m mirb.summarize                 # kappa, prior-stratified accuracy, medians -> results/summary.json
+python -m masb.stats                     # Wilson CIs, exact binomial p, Holm correction
+python -m masb.summarize                 # kappa, prior-stratified accuracy, medians -> results/summary.json
 cd figures && python fig_swapacc.py && python fig_agree.py && python fig_textenc.py
 ```
 
@@ -79,12 +79,12 @@ cd figures && python fig_swapacc.py && python fig_agree.py && python fig_textenc
 ## Layout
 
 ```
-mirb/
-  data.py           CSV loaders (pairs, annotations, MIRB-Order manifest)
+masb/
+  data.py           CSV loaders (pairs, annotations, MASB-Order manifest)
   paths.py          all paths, overridable by environment variables
   prepare_clips.py  cut the benchmark clips from MTG-Jamendo tracks
   build_captions.py regenerate captions.csv from annotations.csv (templates, swap, paraphrase map)
-  build_order.py    build MIRB-Order mixes from MoisesDB stems
+  build_order.py    build MASB-Order mixes from MoisesDB stems
   models.py         LAION-CLAP / MS-CLAP / MuQ-MuLan wrappers (embed_audio, embed_text)
   clamp3_model.py   CLaMP 3 wrapper (subprocess into its own environment)
   exp1_swap.py      Exp. 1, contrastive models

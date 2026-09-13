@@ -1,14 +1,14 @@
 """Cut the 10 s benchmark clips from the MTG-Jamendo source tracks.
 
-MIRB does not redistribute audio. Download the full tracks from the MTG-Jamendo
+MASB does not redistribute audio. Download the full tracks from the MTG-Jamendo
 dataset (https://github.com/MTG/mtg-jamendo-dataset, the `audio` files) so that
-<MIRB_AUDIO>/<jamendo_path> exists for every row of data/mirb_annotations.csv,
+<MASB_AUDIO>/<jamendo_path> exists for every row of data/masb_annotations.csv,
 then run
 
-    python -m mirb.prepare_clips
+    python -m masb.prepare_clips
 
 Each annotation gives a window [crop_start_s, crop_end_s] chosen by the annotator
-on the full track. The clip is written as <MIRB_CLIPS>/<clip_id>_<axis>.wav,
+on the full track. The clip is written as <MASB_CLIPS>/<clip_id>_<axis>.wav,
 10 s, 48 kHz, mono, unmodified apart from the cut.
 """
 import argparse
@@ -16,8 +16,8 @@ import argparse
 import numpy as np
 import soundfile as sf
 
-from mirb.data import load_annotations, clip_path
-from mirb.paths import AUDIO, CLIPS, CLIP_SECONDS, CLIP_SR
+from masb.data import load_annotations, clip_path
+from masb.paths import AUDIO, CLIPS, CLIP_SECONDS, CLIP_SR
 
 
 def cut(src, start_s, out_path):

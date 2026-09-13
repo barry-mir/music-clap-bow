@@ -6,7 +6,7 @@ property; each recording has two pairs (strict template, natural rewrite).
 import csv
 from pathlib import Path
 
-from mirb.paths import ANNOTATIONS_CSV, CAPTIONS_CSV, ORDER_MANIFEST_CSV, CLIPS, ORDER_DIR
+from masb.paths import ANNOTATIONS_CSV, CAPTIONS_CSV, ORDER_MANIFEST_CSV, CLIPS, ORDER_DIR
 
 AXES = ("T", "R", "O")
 AXIS_NAME = {"T": "timbre", "R": "lead versus accompaniment", "O": "onset order"}
@@ -43,14 +43,14 @@ def load_pairs(axis=None, with_audio=True):
         if with_audio:
             p = clip_path(r["clip_id"], r["axis"])
             if not p.exists():
-                raise FileNotFoundError(f"missing clip {p}; run `python -m mirb.prepare_clips` first")
+                raise FileNotFoundError(f"missing clip {p}; run `python -m masb.prepare_clips` first")
             r["audio_uri"] = str(p)
         out.append(r)
     return out
 
 
 def load_order_manifest(with_audio=True):
-    """MIRB-Order pairs: pair_id, moisesdb_track, stem_A, stem_B, name_A, name_B,
+    """MASB-Order pairs: pair_id, moisesdb_track, stem_A, stem_B, name_A, name_B,
     window_start_s, caption_A_first, caption_B_first, and (with_audio) A_first / B_first wav paths."""
     rows = _read(ORDER_MANIFEST_CSV)
     for r in rows:
@@ -59,5 +59,5 @@ def load_order_manifest(with_audio=True):
             d = ORDER_DIR / r["pair_id"]
             r["A_first"] = str(d / "A_first.wav"); r["B_first"] = str(d / "B_first.wav")
             if not Path(r["A_first"]).exists():
-                raise FileNotFoundError(f"missing {r['A_first']}; run `python -m mirb.build_order` first")
+                raise FileNotFoundError(f"missing {r['A_first']}; run `python -m masb.build_order` first")
     return rows

@@ -10,9 +10,9 @@ from matplotlib.patches import Patch
 from style import set_style, clean_axes, save, OKABE, MODEL_NAME, BW
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-FIGDIR = os.environ.get("MIRB_FIGDIR", os.path.join(HERE, "out"))
+FIGDIR = os.environ.get("MASB_FIGDIR", os.path.join(HERE, "out"))
 os.makedirs(FIGDIR, exist_ok=True)
-RES = os.environ.get("MIRB_RESULTS", os.path.join(HERE, "..", "results"))
+RES = os.environ.get("MASB_RESULTS", os.path.join(HERE, "..", "results"))
 
 KEYS = [("laion-clap", "laion-clap-music"), ("ms-clap", "ms-clap-2023"),
         ("muq-mulan", "muq-mulan"), ("clamp3", "clamp3-saas")]

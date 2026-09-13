@@ -1,9 +1,9 @@
-# MIRB data files
+# MASB data files
 
 All three files are UTF-8 CSV with a header row. Instrument and timbre words are lower-case English
-from the closed vocabularies in `mirb/vocab.py` (plus a few annotator-added words).
+from the closed vocabularies in `masb/vocab.py` (plus a few annotator-added words).
 
-## `mirb_annotations.csv` (400 recordings)
+## `masb_annotations.csv` (400 recordings)
 
 One row per (recording, property). A recording is annotated for exactly one property.
 
@@ -19,14 +19,14 @@ One row per (recording, property). A recording is annotated for exactly one prop
 | `timbre_1`, `timbre_2` | timbre words for property `T`, empty otherwise |
 | `confidence` | annotator confidence, 1 to 5 |
 
-The benchmark clip for a row is `<MIRB_CLIPS>/<clip_id>_<axis>.wav`: the window cut from the full
-track, 10 s, 48 kHz, mono, no other processing (`python -m mirb.prepare_clips`). Windows can start
+The benchmark clip for a row is `<MASB_CLIPS>/<clip_id>_<axis>.wav`: the window cut from the full
+track, 10 s, 48 kHz, mono, no other processing (`python -m masb.prepare_clips`). Windows can start
 later than 120 s, so the full MTG-Jamendo tracks are needed, not the 2 min Song Describer excerpts.
 
-## `mirb_captions.csv` (800 caption pairs)
+## `masb_captions.csv` (800 caption pairs)
 
 Two rows per recording, `style = strict` (fixed template) and `style = natural` (rewrite of the
-same content). Generated from the annotations by `python -m mirb.build_captions`.
+same content). Generated from the annotations by `python -m masb.build_captions`.
 
 | column | meaning |
 |---|---|
@@ -46,7 +46,7 @@ R:  the {inst_1} plays the melody while the {inst_2} accompanies
 O:  the {inst_1} enters before the {inst_2}
 ```
 
-## `mirb_order_manifest.csv` (300 MIRB-Order pairs)
+## `masb_order_manifest.csv` (300 MASB-Order pairs)
 
 | column | meaning |
 |---|---|
@@ -58,9 +58,9 @@ O:  the {inst_1} enters before the {inst_2}
 | `caption_A_first` | `c+` for the mix in which A enters first ("the {A} enters before the {B}") |
 | `caption_B_first` | `c-` for that mix, and `c+` for the mix in which B enters first |
 
-`python -m mirb.build_order` writes `<MIRB_ORDER>/<pair_id>/A_first.wav` and `B_first.wav`: 10 s,
+`python -m masb.build_order` writes `<MASB_ORDER>/<pair_id>/A_first.wav` and `B_first.wav`: 10 s,
 24 kHz, mono; the target stems plus every other stem of the track over the window, with the later
-instrument muted for the first 110,250 samples (4.59 s), loudness-matched and peak-normalised as a pair.
+instrument muted for the first 5 s, loudness-matched and peak-normalised as a pair.
 `window_start_s` lies on a 0.459375 s grid (the activity-frame size used when the windows were chosen).
 
 ## License

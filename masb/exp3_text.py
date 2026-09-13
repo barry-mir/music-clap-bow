@@ -7,9 +7,9 @@ distance d(x, y) = 1 - cos(x, y) from c+ to
     another recording's c+      (different content, upper reference)
 An encoder that keeps instrument relations should move farther under the swap
 than under the paraphrase. Writes results/text_text_<model>.json (per-pair
-distances); mirb.summarize reports medians and the swap > paraphrase rate.
+distances); masb.summarize reports medians and the swap > paraphrase rate.
 
-    python -m mirb.exp3_text --model laion-clap      # ms-clap | muq-mulan | clamp3
+    python -m masb.exp3_text --model laion-clap      # ms-clap | muq-mulan | clamp3
 """
 import argparse
 import json
@@ -17,9 +17,9 @@ import json
 import numpy as np
 from scipy import stats
 
-from mirb.data import load_pairs
-from mirb.models import REGISTRY
-from mirb.paths import RESULTS
+from masb.data import load_pairs
+from masb.models import REGISTRY
+from masb.paths import RESULTS
 
 
 def run(model_key, axis=None):

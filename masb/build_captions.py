@@ -1,4 +1,4 @@
-"""Regenerate data/mirb_captions.csv from data/mirb_annotations.csv.
+"""Regenerate data/masb_captions.csv from data/masb_annotations.csv.
 
 The released captions.csv is the file the paper used; this script documents how
 it was produced and lets you extend the benchmark with new annotations. For each
@@ -12,16 +12,16 @@ prior_class (consistent / violating / unknown) records whether the original
 assignment is the more frequent one in the Song Describer caption corpus; it is
 kept from the released file unless --sdd points at song_describer.csv.
 
-    python -m mirb.build_captions [--sdd path/to/song_describer.csv]
+    python -m masb.build_captions [--sdd path/to/song_describer.csv]
 """
 import argparse
 import csv
 import re
 from collections import Counter, defaultdict
 
-from mirb.data import load_annotations, _read
-from mirb.paths import CAPTIONS_CSV
-from mirb.vocab import find_instruments, TIMBRES
+from masb.data import load_annotations, _read
+from masb.paths import CAPTIONS_CSV
+from masb.vocab import find_instruments, TIMBRES
 
 # paraphrase synonym map for timbre words (used only in the paraphrase caption)
 TIMBRE_SYN = {

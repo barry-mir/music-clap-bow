@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use MIRB or this code, please cite the paper."
-title: "MIRB: Music Instrument Relations Benchmark"
+message: "If you use MASB or this code, please cite the paper."
+title: "MASB: Music Attribute-Swap Benchmark"
 authors:
   - family-names: Cheng
     given-names: Yuan-Chiao

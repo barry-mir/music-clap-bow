@@ -12,7 +12,7 @@ Qwen2-Audio (generative) is scored separately in exp1_qwen.py.
 """
 import numpy as np
 
-from mirb.paths import LAION_CLAP_CKPT
+from masb.paths import LAION_CLAP_CKPT
 
 
 def _l2(x):
@@ -101,7 +101,7 @@ class MuqMulan:
 
 
 def _clamp3():
-    from mirb.clamp3_model import Clamp3
+    from masb.clamp3_model import Clamp3
     return Clamp3()
 
 

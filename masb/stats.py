@@ -10,7 +10,7 @@ Text encoders (Exp. 3):
 Floor: per-axis accuracy, CI, binomial p.
 Listening margin: audio acc - floor acc per model x axis, bootstrap CI.
 
-  python -m mirb.stats   ->  results/stats.json
+  python -m masb.stats   ->  results/stats.json
 """
 import glob
 import json
@@ -20,7 +20,7 @@ from collections import defaultdict
 import numpy as np
 from scipy import stats
 
-from mirb.paths import RESULTS
+from masb.paths import RESULTS
 
 AXES = ["T", "R", "O"]
 RNG = np.random.default_rng(0)  # fixed seed: reproducible bootstrap

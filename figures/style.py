@@ -1,4 +1,4 @@
-"""Shared plotting style for the MIRB figures.
+"""Shared plotting style for the MASB figures.
 
 Colorblind-safe Okabe-Ito palette, IEEE 2-column sizing, thin dashed grid,
 no top/right spines. Numbers come from results/summary.json.

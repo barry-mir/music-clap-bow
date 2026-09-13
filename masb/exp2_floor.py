@@ -5,10 +5,10 @@ prompt below and no audio; the choice is read from the next-token logits of
 "A" and "B". Each pair is queried in both orders and the two probabilities are
 averaged to cancel position bias. Accuracy above 0.5 measures how far language
 priors alone go on the benchmark (the "LLM floor"). Writes results/floor.json
-with per-pair choices, which mirb.summarize correlates with the audio models.
+with per-pair choices, which masb.summarize correlates with the audio models.
 
-    python -m mirb.exp2_floor
-    QWEN_DEVICE_MAP=auto python -m mirb.exp2_floor     # shard across GPUs
+    python -m masb.exp2_floor
+    QWEN_DEVICE_MAP=auto python -m masb.exp2_floor     # shard across GPUs
 """
 import json
 import os
@@ -18,8 +18,8 @@ import torch
 from scipy import stats
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-from mirb.data import load_pairs
-from mirb.paths import RESULTS
+from masb.data import load_pairs
+from masb.paths import RESULTS
 
 MODEL_ID = "Qwen/Qwen2.5-7B-Instruct"
 PROMPT = (

@@ -4,9 +4,9 @@ Per caption pair and model:
     s_pos  = cos(audio, c+)          s_neg   = cos(audio, c-)
     s_null = cos(audio, paraphrase)  s_wrong = cos(audio, another recording's c+)
 A pair is correct when s_pos > s_neg; chance is 0.5. Writes results/eval_<model>.json
-with one row per pair (raw scores) plus a summary; run mirb.stats for CIs, Holm, etc.
+with one row per pair (raw scores) plus a summary; run masb.stats for CIs, Holm, etc.
 
-    python -m mirb.exp1_swap --model laion-clap      # ms-clap | muq-mulan | clamp3
+    python -m masb.exp1_swap --model laion-clap      # ms-clap | muq-mulan | clamp3
 """
 import argparse
 import json
@@ -14,9 +14,9 @@ import json
 import numpy as np
 from scipy import stats
 
-from mirb.data import load_pairs
-from mirb.models import REGISTRY
-from mirb.paths import RESULTS
+from masb.data import load_pairs
+from masb.models import REGISTRY
+from masb.paths import RESULTS
 
 
 def binom_p(k, n):

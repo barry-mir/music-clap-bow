@@ -2,10 +2,10 @@
 
 s(a, c) = P("Yes") normalised over {Yes, No} at the next token, given the audio and
 the prompt below. Same pairs, anchors, and output format as exp1_swap.py, so
-mirb.stats and mirb.summarize treat both alike (results/eval_qwen2-audio.json).
+masb.stats and masb.summarize treat both alike (results/eval_qwen2-audio.json).
 
-    python -m mirb.exp1_qwen                    # one 24 GB GPU
-    QWEN_DEVICE_MAP=auto python -m mirb.exp1_qwen   # shard the 7B model across GPUs
+    python -m masb.exp1_qwen                    # one 24 GB GPU
+    QWEN_DEVICE_MAP=auto python -m masb.exp1_qwen   # shard the 7B model across GPUs
 
 Note: transformers >= 5 renamed the processor keyword `audios` to `audio` and
 silently ignores the old name, so we assert that audio features reach the model.
@@ -17,8 +17,8 @@ import numpy as np
 import torch
 from scipy import stats
 
-from mirb.data import load_pairs
-from mirb.paths import RESULTS
+from masb.data import load_pairs
+from masb.paths import RESULTS
 
 MODEL_ID = "Qwen/Qwen2-Audio-7B-Instruct"
 PROMPT = ('Does the following description accurately match the music you hear? '

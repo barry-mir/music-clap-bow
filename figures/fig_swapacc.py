@@ -1,5 +1,5 @@
 """Fig. 2a: swap accuracy per model and property with 95% CIs (Exp. 1) and the LLM floor (Exp. 2).
-Reads results/summary.json (python -m mirb.summarize). Set BW=1 for a greyscale variant.
+Reads results/summary.json (python -m masb.summarize). Set BW=1 for a greyscale variant.
 """
 import os
 import json
@@ -10,9 +10,9 @@ from style import (set_style, clean_axes, save, OKABE, BW,
                    MODEL_ORDER, MODEL_NAME, AXIS_COLOR, AXIS_LABEL, AXIS_HATCH, BAR_EDGE)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-FIGDIR = os.environ.get("MIRB_FIGDIR", os.path.join(HERE, "out"))
+FIGDIR = os.environ.get("MASB_FIGDIR", os.path.join(HERE, "out"))
 os.makedirs(FIGDIR, exist_ok=True)
-SUMMARY = os.path.join(os.environ.get("MIRB_RESULTS", os.path.join(HERE, "..", "results")), "summary.json")
+SUMMARY = os.path.join(os.environ.get("MASB_RESULTS", os.path.join(HERE, "..", "results")), "summary.json")
 _s = json.load(open(SUMMARY))
 ACC = {m: {ax: (_s["swap_accuracy"][m][ax]["acc"], *_s["swap_accuracy"][m][ax]["ci95"]) for ax in "TRO"} for m in MODEL_ORDER}
 FLOOR = {ax: (_s["floor"][ax]["acc"], *_s["floor"][ax]["ci95"]) for ax in "TRO"}

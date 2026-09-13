@@ -1,4 +1,4 @@
-"""Exp. 4, symmetric audio onset-order test on MIRB-Order.
+"""Exp. 4, symmetric audio onset-order test on MASB-Order.
 
 Each pair has two mixes of one track that differ only in which instrument enters
 first (a+ = A first, a- = B first) and two captions (c+ = "A enters before B",
@@ -11,7 +11,7 @@ chance is exactly 0.5. Reports that accuracy (Wilson 95% CI, exact binomial p),
 plus the mirror view (fixed caption, pick the matching mix) and the audio
 embedding distances for reference. Writes results/order/order_<model>.json.
 
-    python -m mirb.exp4_order --model laion-clap      # ms-clap | muq-mulan | clamp3 | qwen2-audio
+    python -m masb.exp4_order --model laion-clap      # ms-clap | muq-mulan | clamp3 | qwen2-audio
 """
 import argparse
 import json
@@ -19,9 +19,9 @@ import math
 
 import numpy as np
 
-from mirb.data import load_order_manifest
-from mirb.models import REGISTRY
-from mirb.paths import RESULTS
+from masb.data import load_order_manifest
+from masb.models import REGISTRY
+from masb.paths import RESULTS
 
 
 def wilson(k, n, z=1.96):
@@ -50,7 +50,7 @@ def run(model_key):
     items = load_order_manifest()
     out = {"model": model_key, "n_pairs": len(items)}
     if model_key == "qwen2-audio":
-        from mirb.exp1_qwen import QwenScorer
+        from masb.exp1_qwen import QwenScorer
         sc = QwenScorer()
         rows = score_rows(items, lambda a, c: float(sc.p_yes(a, c)))
     else:
