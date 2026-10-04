@@ -97,7 +97,9 @@ def load_rows():
     for f in sorted(glob.glob(str(RESULTS / "text_text_*.json"))):
         d = json.loads(open(f).read())
         text[d["report"]["model"]] = d["rows"]
-    fp = RESULTS / "floor.json"
+    fp = RESULTS / "floor_lalm.json"
+    if not fp.exists():
+        fp = RESULTS / "floor.json"
     if fp.exists():
         floor = json.loads(fp.read_text())["rows"]
     return audio, text, floor

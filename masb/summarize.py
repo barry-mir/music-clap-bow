@@ -4,9 +4,10 @@
     python -m masb.summarize    # then this
 
 Adds to stats.json:
-  kappa          Cohen's kappa between each model's per-pair choice and the LLM's (Exp. 2)
-  qwen_prior     Qwen2-Audio accuracy on prior-consistent / prior-inconsistent pairs
-                 (split by whether the LLM was right) and the prior-balanced mean
+  kappa          Cohen's kappa between each model's per-pair choice and the text-only
+                 prior's choice (Exp. 2)
+  qwen_prior     Qwen2-Audio accuracy split by whether the text-only choice was right,
+                 and the prior-balanced mean
   text_medians   Exp. 3 median distances per encoder and the swap > paraphrase rate
   order          Exp. 4 symmetric accuracy per model (from results/order/*.json)
 """
@@ -31,7 +32,12 @@ def kappa(m, l):
 
 def main():
     stats = json.load(open(RESULTS / "stats.json"))
-    floor = {(r["twin_id"], r["style"]): r for r in json.load(open(RESULTS / "floor.json"))["rows"]}
+    # the paper's Exp. 2 prior is the LALM run without audio; fall back to the LLM reference
+    fp = RESULTS / "floor_lalm.json"
+    if not fp.exists():
+        fp = RESULTS / "floor.json"
+    print(f"text-only prior from {fp.name}")
+    floor = {(r["twin_id"], r["style"]): r for r in json.load(open(fp))["rows"]}
     evals = {}
     for f in glob.glob(str(RESULTS / "eval_*.json")):
         d = json.load(open(f)); evals[d["report"]["model"]] = d["rows"]
@@ -81,8 +87,8 @@ def main():
         if m in out["swap_accuracy"]:
             a = out["swap_accuracy"][m]
             print(f"  {m:26s} " + "  ".join(f"{a[ax]['acc']:.3f}" for ax in ("T", "R", "O", "ALL")))
-    print("LLM floor: " + "  ".join(f"{out['floor'][ax]['acc']:.3f}" for ax in ("T", "R", "O", "ALL")))
-    print("kappa vs LLM:", json.dumps(out["kappa"]))
+    print("text-only floor: " + "  ".join(f"{out['floor'][ax]['acc']:.3f}" for ax in ("T", "R", "O", "ALL")))
+    print("kappa vs text-only:", json.dumps(out["kappa"]))
     print("Qwen prior-balanced:", {ax: v["prior_balanced_acc"] for ax, v in out["qwen_prior"].items()})
     print("Exp. 4 symmetric:", {m: v["symmetric"]["acc"] for m, v in out["order"].items()})
     print("wrote", RESULTS / "summary.json")

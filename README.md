@@ -14,8 +14,9 @@ a clean guitar and a distorted piano      c-  (same words, property swapped)
 ```
 
 Four contrastive music-text models (LAION-CLAP, MS-CLAP 2023, MuQ-MuLan, CLaMP 3) rank `c+` above
-`c-` at chance, and their text embeddings barely move under the swap; the audio-language model
-Qwen2-Audio does better, largely through language priors that a text-only LLM shares.
+`c-` at chance, and their text embeddings barely move under the swap. The audio-language model
+Qwen2-Audio does better, but its advantage rests largely on a language prior: running the same
+model without audio already reproduces most of its choices.
 
 ## What is released
 
@@ -47,8 +48,9 @@ Model dependencies (install what you need):
 - **CLaMP 3**: clone https://github.com/sanderwood/clamp3, install its requirements in a separate
   environment (its pinned `transformers` conflicts with Qwen2-Audio), download the SaaS checkpoint per
   its README, and set `CLAMP3_REPO` and `CLAMP3_ENV`.
-- **Qwen2-Audio-7B-Instruct** and **Qwen2.5-7B-Instruct**: `transformers>=4.45` and about 16 GB of GPU
-  memory each; set `QWEN_DEVICE_MAP=auto` to shard across two smaller GPUs.
+- **Qwen2-Audio-7B-Instruct** (Exp. 1 and Exp. 2) and optionally **Qwen2.5-7B-Instruct** (the LLM
+  reference for Exp. 2): `transformers>=4.45` and about 16 GB of GPU memory each; set
+  `QWEN_DEVICE_MAP=auto` to shard across two smaller GPUs.
 
 ## Reproduce the paper
 
@@ -65,7 +67,7 @@ for m in laion-clap ms-clap muq-mulan clamp3; do
 done
 python -m masb.exp1_qwen                 # Exp. 1  Qwen2-Audio (generative scoring)
 python -m masb.exp4_order --model qwen2-audio
-python -m masb.exp2_floor                # Exp. 2  LLM without audio
+python -m masb.exp2_floor                # Exp. 2  the LALM without audio (its own text prior)
 
 # 3. numbers and figures
 python -m masb.stats                     # Wilson CIs, exact binomial p, Holm correction
@@ -89,7 +91,7 @@ masb/
   clamp3_model.py   CLaMP 3 wrapper (subprocess into its own environment)
   exp1_swap.py      Exp. 1, contrastive models
   exp1_qwen.py      Exp. 1, Qwen2-Audio
-  exp2_floor.py     Exp. 2, LLM floor
+  exp2_floor.py     Exp. 2, text-only floor (--model lalm, the paper's; --model llm reference)
   exp3_text.py      Exp. 3, text-embedding test
   exp4_order.py     Exp. 4, symmetric audio test
   stats.py          confidence intervals, tests, Holm correction
